@@ -96,51 +96,54 @@ export function renderTopicHome(
       </button>
     </div>
 
+    ${tags.length > 0 ? `
     <div class="tag-list" id="tag-list">
       <div class="tag-header">
         <h3>标签</h3>
         <button class="btn-link" id="tag-toggle-all">全选</button>
       </div>
     </div>
+    ` : `<p class="subtitle" style="margin-top:8px">📚 全部卡片</p>`}
   `;
   $app.appendChild(container);
 
   // 渲染标签 checkbox（全局存储选中的标签）
-  const tagList = document.getElementById("tag-list")!;
   const stored = getSelectedTags(topic.meta.id);
   let selectedTags = new Set(stored.length ? stored : tags);
 
-  function renderTags(): void {
-    // 清除旧 tag items
-    const existing = tagList.querySelectorAll(".tag-item");
-    existing.forEach(e => e.remove());
+  if (tags.length > 0) {
+    const tagList = document.getElementById("tag-list")!;
+    function renderTags(): void {
+      const existing = tagList.querySelectorAll(".tag-item");
+      existing.forEach(e => e.remove());
 
-    for (const tag of tags) {
-      const label = el("label", "tag-item");
-      label.innerHTML = `
-        <input type="checkbox" value="${tag}" ${selectedTags.has(tag) ? "checked" : ""}>
-        <span>${tag}</span>
-      `;
-      const cb = label.querySelector("input")!;
-      cb.addEventListener("change", () => {
-        if (cb.checked) selectedTags.add(tag);
-        else selectedTags.delete(tag);
-        setSelectedTags(topic.meta.id, [...selectedTags]);
-      });
-      tagList.appendChild(label);
+      for (const tag of tags) {
+        const label = el("label", "tag-item");
+        label.innerHTML = `
+          <input type="checkbox" value="${tag}" ${selectedTags.has(tag) ? "checked" : ""}>
+          <span>${tag}</span>
+        `;
+        const cb = label.querySelector("input")!;
+        cb.addEventListener("change", () => {
+          if (cb.checked) selectedTags.add(tag);
+          else selectedTags.delete(tag);
+          setSelectedTags(topic.meta.id, [...selectedTags]);
+        });
+        tagList.appendChild(label);
+      }
     }
-  }
-  renderTags();
-
-  document.getElementById("tag-toggle-all")!.addEventListener("click", () => {
-    if (selectedTags.size === tags.length) {
-      selectedTags.clear();
-    } else {
-      selectedTags = new Set(tags);
-    }
-    setSelectedTags(topic.meta.id, [...selectedTags]);
     renderTags();
-  });
+
+    document.getElementById("tag-toggle-all")!.addEventListener("click", () => {
+      if (selectedTags.size === tags.length) {
+        selectedTags.clear();
+      } else {
+        selectedTags = new Set(tags);
+      }
+      setSelectedTags(topic.meta.id, [...selectedTags]);
+      renderTags();
+    });
+  }
 
   // 按钮事件
   document.getElementById("btn-back")!.addEventListener("click", () => {

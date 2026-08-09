@@ -137,7 +137,9 @@ function startLearn(selectedTags: string[]): void {
   if (!currentTopic) return;
 
   const allGroups = groupByTags(currentTopic.cards);
-  const groupOrder = selectedTags.filter(t => (allGroups.get(t)?.length ?? 0) > 0);
+  // 如果没选标签，默认选所有组
+  const effectiveTags = selectedTags.length > 0 ? selectedTags : [...allGroups.keys()];
+  const groupOrder = effectiveTags.filter(t => (allGroups.get(t)?.length ?? 0) > 0);
   if (groupOrder.length === 0) {
     showTopicHome();
     return;
@@ -354,7 +356,10 @@ document.addEventListener("start-browse", (e) => {
 
   // 构建浏览列表：卡片 × 所有 cardType，按标签筛选
   const tagSet = new Set(detail.tags.length > 0 ? detail.tags : currentTopic.cards.flatMap(c => c.tags));
-  const filtered = currentTopic.cards.filter(c => c.tags.some(t => tagSet.has(t)));
+  // 无标签的主题：显示全部卡片
+  const filtered = tagSet.size === 0
+    ? currentTopic.cards
+    : currentTopic.cards.filter(c => c.tags.some(t => tagSet.has(t)));
   const allItems: { card: Card; cardType: CardTypeDef }[] = [];
   for (const card of filtered) {
     for (const ct of currentTopic.meta.cardTypes) {

@@ -27,13 +27,15 @@ export function extractTags(cards: { tags: string[] }[]): string[] {
   return [...tagSet].sort();
 }
 
-/** 按标签分组 */
+/** 按标签分组。无标签的卡片归入 "📚 全部" 组。 */
 export function groupByTags<T extends { tags: string[] }>(
   cards: T[]
 ): Map<string, T[]> {
   const groups = new Map<string, T[]>();
+  const DEFAULT_TAG = "📚 全部";
   for (const card of cards) {
-    for (const tag of card.tags) {
+    const tags = card.tags.length > 0 ? card.tags : [DEFAULT_TAG];
+    for (const tag of tags) {
       if (!groups.has(tag)) groups.set(tag, []);
       groups.get(tag)!.push(card);
     }
