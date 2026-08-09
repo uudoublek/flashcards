@@ -24,6 +24,7 @@ interface TopicEntry {
 // TODO: 新增主题时在这里注册
 const TOPICS: TopicEntry[] = [
   { id: "ultimate-geography", name: "Ultimate Geography", file: "./data/ultimate-geography.json" },
+  { id: "multiplication-table", name: "大九九乘法表", file: "./data/multiplication-table.json" },
 ];
 
 // ========== 全局状态 ==========
