@@ -1,0 +1,5524 @@
+{
+  "meta": {
+    "id": "ultimate-geography",
+    "name": "Ultimate Geography",
+    "fields": [
+      "Country",
+      "Country info",
+      "Capital",
+      "Capital info",
+      "Capital hint",
+      "Flag",
+      "Flag similarity",
+      "Map"
+    ],
+    "cardTypes": [
+      {
+        "id": "country---capital",
+        "front": [
+          "Country",
+          "Country info"
+        ],
+        "back": [
+          "Country",
+          "Country info",
+          "Capital",
+          "Capital info"
+        ]
+      },
+      {
+        "id": "capital---country",
+        "front": [
+          "Capital",
+          "Capital hint"
+        ],
+        "back": [
+          "Country",
+          "Country info",
+          "Capital",
+          "Capital hint",
+          "Capital info"
+        ]
+      },
+      {
+        "id": "flag---country",
+        "front": [
+          "Flag"
+        ],
+        "back": [
+          "Country",
+          "Country info",
+          "Flag",
+          "Flag similarity"
+        ]
+      },
+      {
+        "id": "map---country",
+        "front": [
+          "Map"
+        ],
+        "back": [
+          "Country",
+          "Country info",
+          "Map"
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": 1708201008370,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "England",
+        "Country info": "Constituent country of the United Kingdom.",
+        "Capital": "London",
+        "Capital info": "",
+        "Capital hint": "Not a sovereign country",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-england.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-england.png\" />"
+      }
+    },
+    {
+      "id": 1708201008373,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Scotland",
+        "Country info": "Constituent country of the United Kingdom.",
+        "Capital": "Edinburgh",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-scotland.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-scotland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008376,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "United Kingdom",
+        "Country info": "",
+        "Capital": "London",
+        "Capital info": "",
+        "Capital hint": "Sovereign country",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-united_kingdom.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-united_kingdom.png\" />"
+      }
+    },
+    {
+      "id": 1708201008378,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Northern Ireland",
+        "Country info": "Constituent country of the United Kingdom.",
+        "Capital": "Belfast",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-northern_ireland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008380,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "France",
+        "Country info": "",
+        "Capital": "Paris",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-france.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-france.png\" />"
+      }
+    },
+    {
+      "id": 1708201008383,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Wales",
+        "Country info": "Constituent country of the United Kingdom.",
+        "Capital": "Cardiff",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-wales.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-wales.png\" />"
+      }
+    },
+    {
+      "id": 1708201008385,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Georgia",
+        "Country info": "",
+        "Capital": "Tbilisi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-georgia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-georgia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008388,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Germany",
+        "Country info": "",
+        "Capital": "Berlin",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-germany.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-germany.png\" />"
+      }
+    },
+    {
+      "id": 1708201008390,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Greece",
+        "Country info": "",
+        "Capital": "Athens",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-greece.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-greece.png\" />"
+      }
+    },
+    {
+      "id": 1708201008394,
+      "tags": [
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Greenland",
+        "Country info": "Constituent country in the Kingdom of Denmark.",
+        "Capital": "Nuuk",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-greenland.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-greenland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008397,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Hungary",
+        "Country info": "",
+        "Capital": "Budapest",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-hungary.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-hungary.png\" />"
+      }
+    },
+    {
+      "id": 1708201008401,
+      "tags": [
+        "UG::Europe",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Albania",
+        "Country info": "",
+        "Capital": "Tirana",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-albania.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-albania.png\" />"
+      }
+    },
+    {
+      "id": 1708201008404,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Andorra",
+        "Country info": "",
+        "Capital": "Andorra la Vella",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-andorra.svg\" />",
+        "Flag similarity": "Moldova (wider, coat of arms with eagle)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-andorra.png\" />"
+      }
+    },
+    {
+      "id": 1708201008407,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Austria",
+        "Country info": "",
+        "Capital": "Vienna",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-austria.svg\" />",
+        "Flag similarity": "Latvia (darker red, narrower white band)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-austria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008411,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Azerbaijan",
+        "Country info": "",
+        "Capital": "Baku",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-azerbaijan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-azerbaijan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008414,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Belarus",
+        "Country info": "",
+        "Capital": "Minsk",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-belarus.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-belarus.png\" />"
+      }
+    },
+    {
+      "id": 1708201008418,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Belgium",
+        "Country info": "",
+        "Capital": "Brussels",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-belgium.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-belgium.png\" />"
+      }
+    },
+    {
+      "id": 1708201008421,
+      "tags": [
+        "UG::Europe",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bosnia and Herzegovina",
+        "Country info": "",
+        "Capital": "Sarajevo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bosnia_and_herzegovina.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bosnia_and_herzegovina.png\" />"
+      }
+    },
+    {
+      "id": 1708201008424,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bulgaria",
+        "Country info": "",
+        "Capital": "Sofia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bulgaria.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bulgaria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008427,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Croatia",
+        "Country info": "",
+        "Capital": "Zagreb",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-croatia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-croatia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008429,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Czech Republic",
+        "Country info": "Also known as Czechia.",
+        "Capital": "Prague",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-czech_republic.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-czech_republic.png\" />"
+      }
+    },
+    {
+      "id": 1708201008432,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Denmark",
+        "Country info": "",
+        "Capital": "Copenhagen",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-denmark.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-denmark.png\" />"
+      }
+    },
+    {
+      "id": 1708201008435,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Estonia",
+        "Country info": "",
+        "Capital": "Tallinn",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-estonia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-estonia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008438,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Faroe Islands",
+        "Country info": "Constituent country in the Kingdom of Denmark.",
+        "Capital": "Tórshavn",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-faroe_islands.svg\" />",
+        "Flag similarity": "Iceland (blue background, red and white cross), Norway (red background, blue and white cross)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-faroe_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008441,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Finland",
+        "Country info": "",
+        "Capital": "Helsinki",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-finland.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-finland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008444,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Iceland",
+        "Country info": "",
+        "Capital": "Reykjavík",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-iceland.svg\" />",
+        "Flag similarity": "Norway (red background, blue cross), Faroe Islands (white background, red and blue cross)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-iceland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008446,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Ireland",
+        "Country info": "",
+        "Capital": "Dublin",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ireland.svg\" />",
+        "Flag similarity": "Ivory Coast (green and orange flipped, narrower)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ireland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008449,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Italy",
+        "Country info": "",
+        "Capital": "Rome",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-italy.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-italy.png\" />"
+      }
+    },
+    {
+      "id": 1708201008452,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Latvia",
+        "Country info": "",
+        "Capital": "Riga",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-latvia.svg\" />",
+        "Flag similarity": "Austria (brighter red, wider white band)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-latvia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008456,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Liechtenstein",
+        "Country info": "",
+        "Capital": "Vaduz",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-liechtenstein.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-liechtenstein.png\" />"
+      }
+    },
+    {
+      "id": 1708201008460,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Lithuania",
+        "Country info": "",
+        "Capital": "Vilnius",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-lithuania.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-lithuania.png\" />"
+      }
+    },
+    {
+      "id": 1708201008463,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Luxembourg",
+        "Country info": "",
+        "Capital": "Luxembourg City",
+        "Capital info": "Officially Luxembourg.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-luxembourg.svg\" />",
+        "Flag similarity": "Netherlands (darker blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-luxembourg.png\" />"
+      }
+    },
+    {
+      "id": 1708201008466,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "North Macedonia",
+        "Country info": "Formerly known as Macedonia.",
+        "Capital": "Skopje",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-north_macedonia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-north_macedonia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008468,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Malta",
+        "Country info": "",
+        "Capital": "Valletta",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-malta.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-malta.png\" />"
+      }
+    },
+    {
+      "id": 1708201008470,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Moldova",
+        "Country info": "",
+        "Capital": "Chișinău",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-moldova.svg\" />",
+        "Flag similarity": "Andorra (narrower, coat of arms with motto)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-moldova.png\" />"
+      }
+    },
+    {
+      "id": 1708201008472,
+      "tags": [
+        "UG::Europe",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Monaco",
+        "Country info": "",
+        "Capital": "Monaco",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-monaco.svg\" />",
+        "Flag similarity": "Indonesia (wider, brighter red), Poland (red and white flipped, wider)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-monaco.png\" />"
+      }
+    },
+    {
+      "id": 1708201008474,
+      "tags": [
+        "UG::Europe",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Montenegro",
+        "Country info": "",
+        "Capital": "Podgorica",
+        "Capital info": "Cetinje is an honorary capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-montenegro.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-montenegro.png\" />"
+      }
+    },
+    {
+      "id": 1708201008476,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Netherlands",
+        "Country info": "",
+        "Capital": "Amsterdam",
+        "Capital info": "While Amsterdam is the official capital, The Hague is the seat of the executive and legislative branches.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-netherlands.svg\" />",
+        "Flag similarity": "Luxembourg (lighter blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-netherlands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008479,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Norway",
+        "Country info": "",
+        "Capital": "Oslo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-norway.svg\" />",
+        "Flag similarity": "Iceland (blue background, red cross), Faroe Islands (white background, red and blue cross)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-norway.png\" />"
+      }
+    },
+    {
+      "id": 1708201008481,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Poland",
+        "Country info": "",
+        "Capital": "Warsaw",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-poland.svg\" />",
+        "Flag similarity": "Indonesia (white and red flipped, brighter red), Monaco (white and red flipped, narrower)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-poland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008483,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Portugal",
+        "Country info": "",
+        "Capital": "Lisbon",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-portugal.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-portugal.png\" />"
+      }
+    },
+    {
+      "id": 1708201008485,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Romania",
+        "Country info": "",
+        "Capital": "Bucharest",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-romania.svg\" />",
+        "Flag similarity": "Chad (slightly darker blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-romania.png\" />"
+      }
+    },
+    {
+      "id": 1708201008487,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Russia",
+        "Country info": "",
+        "Capital": "Moscow",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-russia.svg\" />",
+        "Flag similarity": "Slovakia (with coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-russia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008489,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "San Marino",
+        "Country info": "",
+        "Capital": "City of San Marino",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-san_marino.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-san_marino.png\" />"
+      }
+    },
+    {
+      "id": 1708201008492,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Serbia",
+        "Country info": "",
+        "Capital": "Belgrade",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-serbia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-serbia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008494,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Slovakia",
+        "Country info": "",
+        "Capital": "Bratislava",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-slovakia.svg\" />",
+        "Flag similarity": "Russia (no coat of arms), Slovenia (wider, smaller coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-slovakia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008496,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Slovenia",
+        "Country info": "",
+        "Capital": "Ljubljana",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-slovenia.svg\" />",
+        "Flag similarity": "Slovakia (narrower, bigger coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-slovenia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008499,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Spain",
+        "Country info": "",
+        "Capital": "Madrid",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-spain.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-spain.png\" />"
+      }
+    },
+    {
+      "id": 1708201008501,
+      "tags": [
+        "UG::Europe",
+        "UG::European_Union",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Sweden",
+        "Country info": "",
+        "Capital": "Stockholm",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sweden.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sweden.png\" />"
+      }
+    },
+    {
+      "id": 1708201008503,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Switzerland",
+        "Country info": "",
+        "Capital": "Bern",
+        "Capital info": "Switzerland has no official capital; Bern is the de facto capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-switzerland.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-switzerland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008505,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Turkey",
+        "Country info": "Also known as Türkiye",
+        "Capital": "Ankara",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-turkey.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-turkey.png\" />"
+      }
+    },
+    {
+      "id": 1708201008507,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Ukraine",
+        "Country info": "",
+        "Capital": "Kyiv",
+        "Capital info": "Also known as Kiev.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ukraine.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ukraine.png\" />"
+      }
+    },
+    {
+      "id": 1708201008509,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Vatican City",
+        "Country info": "",
+        "Capital": "Vatican City",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-vatican_city.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-vatican_city.png\" />"
+      }
+    },
+    {
+      "id": 1708201008512,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Armenia",
+        "Country info": "",
+        "Capital": "Yerevan",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-armenia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-armenia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008514,
+      "tags": [
+        "UG::Asia",
+        "UG::European_Union",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Cyprus",
+        "Country info": "",
+        "Capital": "Nicosia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cyprus.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cyprus.png\" />"
+      }
+    },
+    {
+      "id": 1708201008516,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kazakhstan",
+        "Country info": "",
+        "Capital": "Astana",
+        "Capital info": "Known as Nur-Sultan until September 2022.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kazakhstan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kazakhstan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008518,
+      "tags": [
+        "UG::Africa",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Egypt",
+        "Country info": "",
+        "Capital": "Cairo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-egypt.svg\" />",
+        "Flag similarity": "Iraq (text instead of emblem), Yemen (no emblem)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-egypt.png\" />"
+      }
+    },
+    {
+      "id": 1708201008520,
+      "tags": [
+        "UG::Africa",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Algeria",
+        "Country info": "",
+        "Capital": "Algiers",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-algeria.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-algeria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008523,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Angola",
+        "Country info": "",
+        "Capital": "Luanda",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-angola.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-angola.png\" />"
+      }
+    },
+    {
+      "id": 1708201008525,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Benin",
+        "Country info": "",
+        "Capital": "Porto-Novo",
+        "Capital info": "While Porto-Novo is the official capital, Cotonou is the de facto seat of government.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-benin.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-benin.png\" />"
+      }
+    },
+    {
+      "id": 1708201008527,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Botswana",
+        "Country info": "",
+        "Capital": "Gaborone",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-botswana.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-botswana.png\" />"
+      }
+    },
+    {
+      "id": 1708201008529,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Burkina Faso",
+        "Country info": "",
+        "Capital": "Ouagadougou",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-burkina_faso.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-burkina_faso.png\" />"
+      }
+    },
+    {
+      "id": 1708201008531,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Cameroon",
+        "Country info": "",
+        "Capital": "Yaoundé",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cameroon.svg\" />",
+        "Flag similarity": "Senegal (green/yellow/red, green star)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cameroon.png\" />"
+      }
+    },
+    {
+      "id": 1708201008533,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Burundi",
+        "Country info": "",
+        "Capital": "Gitega",
+        "Capital info": "Official capital was moved from Bujumbura to Gitega in 2019.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-burundi.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-burundi.png\" />"
+      }
+    },
+    {
+      "id": 1708201008536,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Cape Verde",
+        "Country info": "Also known as Cabo Verde.",
+        "Capital": "Praia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cape_verde.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cape_verde.png\" />"
+      }
+    },
+    {
+      "id": 1708201008538,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "São Tomé and Príncipe",
+        "Country info": "",
+        "Capital": "São Tomé",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sao_tome_and_principe.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sao_tome_and_principe.png\" />"
+      }
+    },
+    {
+      "id": 1708201008540,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Central African Republic",
+        "Country info": "",
+        "Capital": "Bangui",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-central_african_republic.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-central_african_republic.png\" />"
+      }
+    },
+    {
+      "id": 1708201008542,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Chad",
+        "Country info": "",
+        "Capital": "N'Djamena",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-chad.svg\" />",
+        "Flag similarity": "Romania (slightly lighter blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-chad.png\" />"
+      }
+    },
+    {
+      "id": 1708201008544,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Equatorial Guinea",
+        "Country info": "",
+        "Capital": "Malabo",
+        "Capital info": "Ciudad de la Paz is being built to replace Malabo as capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-equatorial_guinea.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-equatorial_guinea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008546,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kenya",
+        "Country info": "",
+        "Capital": "Nairobi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kenya.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kenya.png\" />"
+      }
+    },
+    {
+      "id": 1708201008548,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Comoros",
+        "Country info": "",
+        "Capital": "Moroni",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-comoros.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-comoros.png\" />"
+      }
+    },
+    {
+      "id": 1708201008551,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Ivory Coast",
+        "Country info": "Officially Côte d'Ivoire.",
+        "Capital": "Yamoussoukro",
+        "Capital info": "While Yamoussoukro is the official capital, Abidjan is the de facto seat of government.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ivory_coast.svg\" />",
+        "Flag similarity": "Ireland (orange and green flipped, wider)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ivory_coast.png\" />"
+      }
+    },
+    {
+      "id": 1708201008554,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Democratic Republic of the Congo",
+        "Country info": "Formerly Zaire.",
+        "Capital": "Kinshasa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-democratic_republic_of_the_congo.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-democratic_republic_of_the_congo.png\" />"
+      }
+    },
+    {
+      "id": 1708201008556,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Djibouti",
+        "Country info": "",
+        "Capital": "Djibouti",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-djibouti.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-djibouti.png\" />"
+      }
+    },
+    {
+      "id": 1708201008559,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Guinea-Bissau",
+        "Country info": "",
+        "Capital": "Bissau",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-guinea-bissau.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guinea-bissau.png\" />"
+      }
+    },
+    {
+      "id": 1708201008561,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Eritrea",
+        "Country info": "",
+        "Capital": "Asmara",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-eritrea.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-eritrea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008563,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Ethiopia",
+        "Country info": "",
+        "Capital": "Addis Ababa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ethiopia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ethiopia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008566,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Gabon",
+        "Country info": "",
+        "Capital": "Libreville",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-gabon.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gabon.png\" />"
+      }
+    },
+    {
+      "id": 1708201008568,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "The Gambia",
+        "Country info": "",
+        "Capital": "Banjul",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-the_gambia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-the_gambia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008570,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Lesotho",
+        "Country info": "",
+        "Capital": "Maseru",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-lesotho.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-lesotho.png\" />"
+      }
+    },
+    {
+      "id": 1708201008572,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Liberia",
+        "Country info": "",
+        "Capital": "Monrovia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-liberia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-liberia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008574,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Madagascar",
+        "Country info": "",
+        "Capital": "Antananarivo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-madagascar.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-madagascar.png\" />"
+      }
+    },
+    {
+      "id": 1708201008576,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Malawi",
+        "Country info": "",
+        "Capital": "Lilongwe",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-malawi.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-malawi.png\" />"
+      }
+    },
+    {
+      "id": 1708201008579,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Mali",
+        "Country info": "",
+        "Capital": "Bamako",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mali.svg\" />",
+        "Flag similarity": "Guinea (green and red flipped, slightly darker green)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mali.png\" />"
+      }
+    },
+    {
+      "id": 1708201008582,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Mauritania",
+        "Country info": "",
+        "Capital": "Nouakchott",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mauritania.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mauritania.png\" />"
+      }
+    },
+    {
+      "id": 1708201008584,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Mauritius",
+        "Country info": "",
+        "Capital": "Port Louis",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mauritius.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mauritius.png\" />"
+      }
+    },
+    {
+      "id": 1708201008587,
+      "tags": [
+        "UG::Africa",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Morocco",
+        "Country info": "",
+        "Capital": "Rabat",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-morocco.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-morocco.png\" />"
+      }
+    },
+    {
+      "id": 1708201008589,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Mozambique",
+        "Country info": "",
+        "Capital": "Maputo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mozambique.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mozambique.png\" />"
+      }
+    },
+    {
+      "id": 1708201008592,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Namibia",
+        "Country info": "",
+        "Capital": "Windhoek",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-namibia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-namibia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008599,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Niger",
+        "Country info": "",
+        "Capital": "Niamey",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-niger.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-niger.png\" />"
+      }
+    },
+    {
+      "id": 1708201008603,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Nigeria",
+        "Country info": "",
+        "Capital": "Abuja",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-nigeria.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-nigeria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008605,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Republic of the Congo",
+        "Country info": "",
+        "Capital": "Brazzaville",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-republic_of_the_congo.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-republic_of_the_congo.png\" />"
+      }
+    },
+    {
+      "id": 1708201008606,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Rwanda",
+        "Country info": "",
+        "Capital": "Kigali",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-rwanda.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-rwanda.png\" />"
+      }
+    },
+    {
+      "id": 1708201008608,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Senegal",
+        "Country info": "",
+        "Capital": "Dakar",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-senegal.svg\" />",
+        "Flag similarity": "Cameroon (green/red/yellow, yellow star)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-senegal.png\" />"
+      }
+    },
+    {
+      "id": 1708201008610,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Seychelles",
+        "Country info": "",
+        "Capital": "Victoria",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-seychelles.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-seychelles.png\" />"
+      }
+    },
+    {
+      "id": 1708201008612,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Sierra Leone",
+        "Country info": "",
+        "Capital": "Freetown",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sierra_leone.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sierra_leone.png\" />"
+      }
+    },
+    {
+      "id": 1708201008614,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "South Africa",
+        "Country info": "",
+        "Capital": "Pretoria, Cape Town, Bloemfontein",
+        "Capital info": "South Africa has no legally defined capital: the branches of government are split over three cities: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-south_africa.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_africa.png\" />"
+      }
+    },
+    {
+      "id": 1708201008616,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Sudan",
+        "Country info": "",
+        "Capital": "Khartoum",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sudan.svg\" />",
+        "Flag similarity": "Palestine (black/white/green, red arrow)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sudan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008619,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Eswatini",
+        "Country info": "Known as Swaziland until 2018.",
+        "Capital": "Mbabane",
+        "Capital info": "While Mbabane is the official, executive capital, Lobamba is the traditional, spiritual and legislative capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-eswatini.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-eswatini.png\" />"
+      }
+    },
+    {
+      "id": 1708201008621,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Tanzania",
+        "Country info": "",
+        "Capital": "Dodoma",
+        "Capital info": "While Dodoma is the official capital, Dar es Salaam is the de facto seat of government.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-tanzania.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tanzania.png\" />"
+      }
+    },
+    {
+      "id": 1708201008623,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Togo",
+        "Country info": "",
+        "Capital": "Lomé",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-togo.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-togo.png\" />"
+      }
+    },
+    {
+      "id": 1708201008626,
+      "tags": [
+        "UG::Africa",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Tunisia",
+        "Country info": "",
+        "Capital": "Tunis",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-tunisia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tunisia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008628,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Uganda",
+        "Country info": "",
+        "Capital": "Kampala",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-uganda.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-uganda.png\" />"
+      }
+    },
+    {
+      "id": 1708201008631,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Sahrawi Arab Democratic Republic",
+        "Country info": "Partially recognised state claimed by Morocco. Also known as Western Sahara.",
+        "Capital": "Laayoune",
+        "Capital info": "While Laayoune, also known as El Aaiún, is the declared capital, Tifariti is the de facto seat of government.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sahrawi_arab_democratic_republic.svg\" />",
+        "Flag similarity": "Palestine (no symbol)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sahrawi_arab_democratic_republic.png\" />"
+      }
+    },
+    {
+      "id": 1708201008633,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Zambia",
+        "Country info": "",
+        "Capital": "Lusaka",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-zambia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-zambia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008636,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Zimbabwe",
+        "Country info": "",
+        "Capital": "Harare",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-zimbabwe.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-zimbabwe.png\" />"
+      }
+    },
+    {
+      "id": 1708201008638,
+      "tags": [
+        "UG::Africa"
+      ],
+      "fields": {
+        "Country": "Canary Islands",
+        "Country info": "Autonomous community of Spain.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-canary_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008641,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Afghanistan",
+        "Country info": "",
+        "Capital": "Kabul",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-afghanistan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-afghanistan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008643,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bahrain",
+        "Country info": "",
+        "Capital": "Manama",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bahrain.svg\" />",
+        "Flag similarity": "Qatar (wider, more serrated edges, maroon)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bahrain.png\" />"
+      }
+    },
+    {
+      "id": 1708201008645,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bangladesh",
+        "Country info": "",
+        "Capital": "Dhaka",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bangladesh.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bangladesh.png\" />"
+      }
+    },
+    {
+      "id": 1708201008648,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bhutan",
+        "Country info": "",
+        "Capital": "Thimphu",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bhutan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bhutan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008650,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Brunei",
+        "Country info": "",
+        "Capital": "Bandar Seri Begawan",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-brunei.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-brunei.png\" />"
+      }
+    },
+    {
+      "id": 1708201008653,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "China",
+        "Country info": "",
+        "Capital": "Beijing",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-china.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-china.png\" />"
+      }
+    },
+    {
+      "id": 1708201008655,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Cambodia",
+        "Country info": "",
+        "Capital": "Phnom Penh",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cambodia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cambodia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008657,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Indonesia",
+        "Country info": "",
+        "Capital": "Jakarta",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-indonesia.svg\" />",
+        "Flag similarity": "Monaco (narrower, darker red), Poland (red and white flipped, darker red)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-indonesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008659,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "India",
+        "Country info": "",
+        "Capital": "New Delhi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-india.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-india.png\" />"
+      }
+    },
+    {
+      "id": 1708201008661,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Hong Kong",
+        "Country info": "Special Administrative Region of China.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-hong_kong.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-hong_kong.png\" />"
+      }
+    },
+    {
+      "id": 1708201008664,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Iran",
+        "Country info": "",
+        "Capital": "Tehran",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-iran.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-iran.png\" />"
+      }
+    },
+    {
+      "id": 1708201008666,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Israel",
+        "Country info": "",
+        "Capital": "Jerusalem",
+        "Capital info": "Disputed; claimed by Palestine.",
+        "Capital hint": "Claimed and controlled",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-israel.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-israel.png\" />"
+      }
+    },
+    {
+      "id": 1708201008668,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Iraq",
+        "Country info": "",
+        "Capital": "Baghdad",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-iraq.svg\" />",
+        "Flag similarity": "Egypt (emblem instead of text), Yemen (no text)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-iraq.png\" />"
+      }
+    },
+    {
+      "id": 1708201008670,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "South Korea",
+        "Country info": "",
+        "Capital": "Seoul",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-south_korea.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_korea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008672,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "North Korea",
+        "Country info": "",
+        "Capital": "Pyongyang",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-north_korea.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-north_korea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008674,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Jordan",
+        "Country info": "",
+        "Capital": "Amman",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-jordan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-jordan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008676,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Japan",
+        "Country info": "",
+        "Capital": "Tokyo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-japan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-japan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008678,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Lebanon",
+        "Country info": "",
+        "Capital": "Beirut",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-lebanon.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-lebanon.png\" />"
+      }
+    },
+    {
+      "id": 1708201008680,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Laos",
+        "Country info": "",
+        "Capital": "Vientiane",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-laos.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-laos.png\" />"
+      }
+    },
+    {
+      "id": 1708201008682,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kyrgyzstan",
+        "Country info": "",
+        "Capital": "Bishkek",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kyrgyzstan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kyrgyzstan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008684,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kuwait",
+        "Country info": "",
+        "Capital": "Kuwait City",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kuwait.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kuwait.png\" />"
+      }
+    },
+    {
+      "id": 1708201008686,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Myanmar",
+        "Country info": "Also known as Burma.",
+        "Capital": "Naypyidaw",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-myanmar.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-myanmar.png\" />"
+      }
+    },
+    {
+      "id": 1708201008688,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Mongolia",
+        "Country info": "",
+        "Capital": "Ulaanbaatar",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mongolia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mongolia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008689,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Maldives",
+        "Country info": "",
+        "Capital": "Malé",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-maldives.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-maldives.png\" />"
+      }
+    },
+    {
+      "id": 1708201008692,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Malaysia",
+        "Country info": "",
+        "Capital": "Kuala Lumpur",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-malaysia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-malaysia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008694,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Oman",
+        "Country info": "",
+        "Capital": "Muscat",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-oman.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-oman.png\" />"
+      }
+    },
+    {
+      "id": 1708201008696,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Nepal",
+        "Country info": "",
+        "Capital": "Kathmandu",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-nepal-nobox.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-nepal.png\" />"
+      }
+    },
+    {
+      "id": 1708201008698,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Palestine",
+        "Country info": "",
+        "Capital": "Jerusalem",
+        "Capital info": "Disputed; claimed by Israel; Ramallah is the administrative centre.",
+        "Capital hint": "Claimed but not controlled",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-palestine.svg\" />",
+        "Flag similarity": "Sudan (red/white/black, green arrow), Sahrawi Arab Democratic Republic (with star and crescent)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-palestine.png\" />"
+      }
+    },
+    {
+      "id": 1708201008700,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Pakistan",
+        "Country info": "",
+        "Capital": "Islamabad",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-pakistan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-pakistan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008702,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Qatar",
+        "Country info": "",
+        "Capital": "Doha",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-qatar.svg\" />",
+        "Flag similarity": "Bahrain (narrower, fewer serrated edges, red)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-qatar.png\" />"
+      }
+    },
+    {
+      "id": 1708201008704,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Saudi Arabia",
+        "Country info": "",
+        "Capital": "Riyadh",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-saudi_arabia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-saudi_arabia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008706,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Singapore",
+        "Country info": "",
+        "Capital": "Singapore",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-singapore.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-singapore.png\" />"
+      }
+    },
+    {
+      "id": 1708201008708,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Syria",
+        "Country info": "",
+        "Capital": "Damascus",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-syria.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-syria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008710,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Taiwan",
+        "Country info": "Partially recognised state claimed by China.",
+        "Capital": "Taipei",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-taiwan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-taiwan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008712,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Sri Lanka",
+        "Country info": "",
+        "Capital": "Sri Jayawardenepura Kotte",
+        "Capital info": "Colombo is often referred to as the capital but Sri Jayawardenepura Kotte, a suburb of Colombo, is the official, legislative capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-sri_lanka.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sri_lanka.png\" />"
+      }
+    },
+    {
+      "id": 1708201008714,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Tajikistan",
+        "Country info": "",
+        "Capital": "Dushanbe",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-tajikistan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tajikistan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008716,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Thailand",
+        "Country info": "",
+        "Capital": "Bangkok",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-thailand.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-thailand.png\" />"
+      }
+    },
+    {
+      "id": 1708201008718,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Timor-Leste",
+        "Country info": "Also known as Timor-Leste.",
+        "Capital": "Dili",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-timor-leste.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-timor-leste.png\" />"
+      }
+    },
+    {
+      "id": 1708201008720,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "United Arab Emirates",
+        "Country info": "",
+        "Capital": "Abu Dhabi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-united_arab_emirates.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-united_arab_emirates.png\" />"
+      }
+    },
+    {
+      "id": 1708201008722,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Turkmenistan",
+        "Country info": "",
+        "Capital": "Ashgabat",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-turkmenistan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-turkmenistan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008724,
+      "tags": [
+        "UG::Asia",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Yemen",
+        "Country info": "",
+        "Capital": "Sanaa",
+        "Capital info": "Also spelled as Sana'a.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-yemen.svg\" />",
+        "Flag similarity": "Egypt (with emblem), Iraq (with text)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-yemen.png\" />"
+      }
+    },
+    {
+      "id": 1708201008726,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Vietnam",
+        "Country info": "",
+        "Capital": "Hanoi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-vietnam.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-vietnam.png\" />"
+      }
+    },
+    {
+      "id": 1708201008728,
+      "tags": [
+        "UG::Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Uzbekistan",
+        "Country info": "",
+        "Capital": "Tashkent",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-uzbekistan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-uzbekistan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008730,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Fiji",
+        "Country info": "",
+        "Capital": "Suva",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-fiji.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-fiji.png\" />"
+      }
+    },
+    {
+      "id": 1708201008732,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Papua New Guinea",
+        "Country info": "",
+        "Capital": "Port Moresby",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-papua_new_guinea.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-papua_new_guinea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008734,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Australia",
+        "Country info": "",
+        "Capital": "Canberra",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-australia.svg\" />",
+        "Flag similarity": "New Zealand (red stars, two fewer stars)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-australia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008736,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Solomon Islands",
+        "Country info": "",
+        "Capital": "Honiara",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-solomon_islands.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-solomon_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008738,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Argentina",
+        "Country info": "",
+        "Capital": "Buenos Aires",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-argentina.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-argentina.png\" />"
+      }
+    },
+    {
+      "id": 1708201008741,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Bolivia",
+        "Country info": "",
+        "Capital": "Sucre",
+        "Capital info": "While Sucre is the constitutional capital, La Paz is the seat of government.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-bolivia-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-bolivia.svg\" />",
+        "Flag similarity": "Ghana (star instead of coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bolivia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008743,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Brazil",
+        "Country info": "",
+        "Capital": "Brasília",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-brazil.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-brazil.png\" />"
+      }
+    },
+    {
+      "id": 1708201008744,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Chile",
+        "Country info": "",
+        "Capital": "Santiago",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-chile.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-chile.png\" />"
+      }
+    },
+    {
+      "id": 1708201008747,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Colombia",
+        "Country info": "",
+        "Capital": "Bogotá",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-colombia.svg\" />",
+        "Flag similarity": "Ecuador (with coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-colombia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008748,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Ecuador",
+        "Country info": "",
+        "Capital": "Quito",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ecuador.svg\" />",
+        "Flag similarity": "Colombia (no coat of arms)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ecuador.png\" />"
+      }
+    },
+    {
+      "id": 1708201008751,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Guyana",
+        "Country info": "",
+        "Capital": "Georgetown",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-guyana.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guyana.png\" />"
+      }
+    },
+    {
+      "id": 1708201008753,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Paraguay",
+        "Country info": "",
+        "Capital": "Asunción",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-paraguay-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-paraguay.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-paraguay.png\" />"
+      }
+    },
+    {
+      "id": 1708201008755,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Peru",
+        "Country info": "",
+        "Capital": "Lima",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-peru.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-peru.png\" />"
+      }
+    },
+    {
+      "id": 1708201008756,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Suriname",
+        "Country info": "",
+        "Capital": "Paramaribo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-suriname.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-suriname.png\" />"
+      }
+    },
+    {
+      "id": 1708201008759,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Uruguay",
+        "Country info": "",
+        "Capital": "Montevideo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-uruguay.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-uruguay.png\" />"
+      }
+    },
+    {
+      "id": 1708201008761,
+      "tags": [
+        "UG::South_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Venezuela",
+        "Country info": "",
+        "Capital": "Caracas",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-venezuela.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-venezuela.png\" />"
+      }
+    },
+    {
+      "id": 1708201008763,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Cook Islands",
+        "Country info": "",
+        "Capital": "Avarua",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cook_islands.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cook_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008765,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Federated States of Micronesia",
+        "Country info": "",
+        "Capital": "Palikir",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-federated_states_of_micronesia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-federated_states_of_micronesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008766,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Guam",
+        "Country info": "Unincorporated territory of the United States.",
+        "Capital": "Hagåtña",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-guam-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-guam.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guam.png\" />"
+      }
+    },
+    {
+      "id": 1708201008768,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Vanuatu",
+        "Country info": "",
+        "Capital": "Port Vila",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-vanuatu.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-vanuatu.png\" />"
+      }
+    },
+    {
+      "id": 1708201008770,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Canada",
+        "Country info": "",
+        "Capital": "Ottawa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-canada.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-canada.png\" />"
+      }
+    },
+    {
+      "id": 1708201008772,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "United States of America",
+        "Country info": "",
+        "Capital": "Washington, D.C.",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-united_states_of_america.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-united_states_of_america.png\" />"
+      }
+    },
+    {
+      "id": 1708201008774,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Mexico",
+        "Country info": "",
+        "Capital": "Mexico City",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-mexico.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mexico.png\" />"
+      }
+    },
+    {
+      "id": 1708201008776,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Puerto Rico",
+        "Country info": "Unincorporated territory of the United States.",
+        "Capital": "San Juan",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-puerto_rico.svg\" />",
+        "Flag similarity": "Cuba (red triangle, blue stripes)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-puerto_rico.png\" />"
+      }
+    },
+    {
+      "id": 1708201008783,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Cuba",
+        "Country info": "",
+        "Capital": "Havana",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-cuba.svg\" />",
+        "Flag similarity": "Puerto Rico (blue triangle, red stripes)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cuba.png\" />"
+      }
+    },
+    {
+      "id": 1708201008786,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Dominican Republic",
+        "Country info": "",
+        "Capital": "Santo Domingo",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-dominican_republic.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-dominican_republic.png\" />"
+      }
+    },
+    {
+      "id": 1708201008788,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Haiti",
+        "Country info": "",
+        "Capital": "Port-au-Prince",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-haiti.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-haiti.png\" />"
+      }
+    },
+    {
+      "id": 1708201008790,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Jamaica",
+        "Country info": "",
+        "Capital": "Kingston",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-jamaica.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-jamaica.png\" />"
+      }
+    },
+    {
+      "id": 1708201008791,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Trinidad and Tobago",
+        "Country info": "",
+        "Capital": "Port of Spain",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-trinidad_and_tobago.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-trinidad_and_tobago.png\" />"
+      }
+    },
+    {
+      "id": 1708201008793,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Bermuda",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bermuda.png\" />"
+      }
+    },
+    {
+      "id": 1708201008795,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Guadeloupe",
+        "Country info": "Overseas department of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guadeloupe.png\" />"
+      }
+    },
+    {
+      "id": 1708201008797,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "The Bahamas",
+        "Country info": "",
+        "Capital": "Nassau",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-the_bahamas.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-the_bahamas.png\" />"
+      }
+    },
+    {
+      "id": 1708201008799,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Barbados",
+        "Country info": "",
+        "Capital": "Bridgetown",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-barbados.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-barbados.png\" />"
+      }
+    },
+    {
+      "id": 1708201008802,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Belize",
+        "Country info": "",
+        "Capital": "Belmopan",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-belize.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-belize.png\" />"
+      }
+    },
+    {
+      "id": 1708201008804,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Costa Rica",
+        "Country info": "",
+        "Capital": "San José",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-costa_rica-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-costa_rica.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-costa_rica.png\" />"
+      }
+    },
+    {
+      "id": 1708201008807,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "El Salvador",
+        "Country info": "",
+        "Capital": "San Salvador",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-el_salvador-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-el_salvador.svg\" />",
+        "Flag similarity": "Nicaragua (different coat of arms, slightly lighter blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-el_salvador.png\" />"
+      }
+    },
+    {
+      "id": 1708201008809,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Guatemala",
+        "Country info": "",
+        "Capital": "Guatemala City",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-guatemala.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guatemala.png\" />"
+      }
+    },
+    {
+      "id": 1708201008812,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Honduras",
+        "Country info": "",
+        "Capital": "Tegucigalpa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-honduras.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-honduras.png\" />"
+      }
+    },
+    {
+      "id": 1708201008814,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Nicaragua",
+        "Country info": "",
+        "Capital": "Managua",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-nicaragua-blur.svg\" /><img src=\"media/ultimate-geography/ug-flag-nicaragua.svg\" />",
+        "Flag similarity": "El Salvador (different coat of arms, slightly darker blue)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-nicaragua.png\" />"
+      }
+    },
+    {
+      "id": 1708201008816,
+      "tags": [
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Panama",
+        "Country info": "",
+        "Capital": "Panama City",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-panama.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-panama.png\" />"
+      }
+    },
+    {
+      "id": 1708201008819,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Antigua and Barbuda",
+        "Country info": "",
+        "Capital": "St. John's",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-antigua_and_barbuda.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-antigua_and_barbuda.png\" />"
+      }
+    },
+    {
+      "id": 1708201008821,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Dominica",
+        "Country info": "",
+        "Capital": "Roseau",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-dominica.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-dominica.png\" />"
+      }
+    },
+    {
+      "id": 1708201008824,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Saint Vincent and the Grenadines",
+        "Country info": "",
+        "Capital": "Kingstown",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-saint_vincent_and_the_grenadines.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-saint_vincent_and_the_grenadines.png\" />"
+      }
+    },
+    {
+      "id": 1708201008826,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Somalia",
+        "Country info": "",
+        "Capital": "Mogadishu",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-somalia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-somalia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008829,
+      "tags": [
+        "UG::Africa"
+      ],
+      "fields": {
+        "Country": "Zanzibar",
+        "Country info": "Semi-autonomous region of Tanzania.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-zanzibar.png\" />"
+      }
+    },
+    {
+      "id": 1708201008831,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Ghana",
+        "Country info": "",
+        "Capital": "Accra",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-ghana.svg\" />",
+        "Flag similarity": "Bolivia (coat of arms instead of star)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-ghana.png\" />"
+      }
+    },
+    {
+      "id": 1708201008834,
+      "tags": [
+        "UG::Africa",
+        "UG::Sovereign_State",
+        "UG::West_Africa"
+      ],
+      "fields": {
+        "Country": "Guinea",
+        "Country info": "",
+        "Capital": "Conakry",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-guinea.svg\" />",
+        "Flag similarity": "Mali (red and green flipped, slightly brighter green)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guinea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008836,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "New Zealand",
+        "Country info": "",
+        "Capital": "Wellington",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-new_zealand.svg\" />",
+        "Flag similarity": "Australia (white stars, two more stars)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-new_zealand.png\" />"
+      }
+    },
+    {
+      "id": 1708201008839,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "French Polynesia",
+        "Country info": "Overseas territory of France.",
+        "Capital": "Papeete",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-french_polynesia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-french_polynesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008841,
+      "tags": [
+        "UG::Asia",
+        "UG::Southeast_Asia",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Philippines",
+        "Country info": "",
+        "Capital": "Manila",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-philippines.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-philippines.png\" />"
+      }
+    },
+    {
+      "id": 1708201008844,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kosovo",
+        "Country info": "Partially recognised state claimed by Serbia.",
+        "Capital": "Pristina",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kosovo.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kosovo.png\" />"
+      }
+    },
+    {
+      "id": 1708201008848,
+      "tags": [
+        "UG::Africa",
+        "UG::Mediterranean",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Libya",
+        "Country info": "",
+        "Capital": "Tripoli",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-libya.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-libya.png\" />"
+      }
+    },
+    {
+      "id": 1708201008850,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Palau",
+        "Country info": "",
+        "Capital": "Ngerulmud",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-palau.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-palau.png\" />"
+      }
+    },
+    {
+      "id": 1708201008853,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Saint Lucia",
+        "Country info": "",
+        "Capital": "Castries",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-saint_lucia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-saint_lucia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008855,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Bali",
+        "Country info": "Island of Indonesia.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bali.png\" />"
+      }
+    },
+    {
+      "id": 1708201008857,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Grenada",
+        "Country info": "",
+        "Capital": "St. George's",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-grenada.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-grenada.png\" />"
+      }
+    },
+    {
+      "id": 1708201008860,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "British Virgin Islands",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-british_virgin_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008862,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Turks and Caicos Islands",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-turks_and_caicos_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008865,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Cayman Islands",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-cayman_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008867,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Anguilla",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-anguilla.png\" />"
+      }
+    },
+    {
+      "id": 1708201008870,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Azores",
+        "Country info": "Autonomous region of Portugal.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-azores.png\" />"
+      }
+    },
+    {
+      "id": 1708201008872,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Curaçao",
+        "Country info": "Constituent country of the Kingdom of the Netherlands.",
+        "Capital": "Willemstad",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-curacao.svg\" />",
+        "Flag similarity": "Nauru (single star below yellow band)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-curacao.png\" />"
+      }
+    },
+    {
+      "id": 1708201008875,
+      "tags": [
+        "UG::South_America"
+      ],
+      "fields": {
+        "Country": "French Guiana",
+        "Country info": "Overseas department of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-french_guiana.png\" />"
+      }
+    },
+    {
+      "id": 1708201008877,
+      "tags": [
+        "UG::Europe",
+        "UG::Mediterranean"
+      ],
+      "fields": {
+        "Country": "Gibraltar",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gibraltar.png\" />"
+      }
+    },
+    {
+      "id": 1708201008879,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Guernsey",
+        "Country info": "Crown dependency of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-guernsey.png\" />"
+      }
+    },
+    {
+      "id": 1708201008882,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Isle of Man",
+        "Country info": "Crown dependency of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-isle_of_man.png\" />"
+      }
+    },
+    {
+      "id": 1708201008884,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Jersey",
+        "Country info": "Crown dependency of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-jersey.png\" />"
+      }
+    },
+    {
+      "id": 1708201008886,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Kiribati",
+        "Country info": "",
+        "Capital": "South Tarawa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-kiribati.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kiribati.png\" />"
+      }
+    },
+    {
+      "id": 1708201008889,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Macau",
+        "Country info": "Special Administrative Region of China.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-macau.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-macau.png\" />"
+      }
+    },
+    {
+      "id": 1708201008891,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Madeira",
+        "Country info": "Autonomous region of Portugal.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-madeira.png\" />"
+      }
+    },
+    {
+      "id": 1708201008894,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Marshall Islands",
+        "Country info": "",
+        "Capital": "Majuro",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-marshall_islands.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-marshall_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008896,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Nauru",
+        "Country info": "",
+        "Capital": "Yaren",
+        "Capital info": "Nauru has no official capital; the Yaren District is the de facto capital.",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-nauru.svg\" />",
+        "Flag similarity": "Curaçao (two stars in top-left corner)",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-nauru.png\" />"
+      }
+    },
+    {
+      "id": 1708201008898,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "New Caledonia",
+        "Country info": "Overseas territory of France.",
+        "Capital": "Nouméa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-new_caledonia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-new_caledonia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008901,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Niue",
+        "Country info": "",
+        "Capital": "Alofi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-niue.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-niue.png\" />"
+      }
+    },
+    {
+      "id": 1708201008903,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Northern Cyprus",
+        "Country info": "State recognised only by Turkey and claimed by Cyprus.",
+        "Capital": "North Nicosia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-northern_cyprus.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-northern_cyprus.png\" />"
+      }
+    },
+    {
+      "id": 1708201008905,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Saint Kitts and Nevis",
+        "Country info": "",
+        "Capital": "Basseterre",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-saint_kitts_and_nevis.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-saint_kitts_and_nevis.png\" />"
+      }
+    },
+    {
+      "id": 1708201008908,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Samoa",
+        "Country info": "",
+        "Capital": "Apia",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-samoa.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-samoa.png\" />"
+      }
+    },
+    {
+      "id": 1708201008910,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Somaliland",
+        "Country info": "Independent state claimed by Somalia.",
+        "Capital": "Hargeisa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-somaliland.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-somaliland.png\" />"
+      }
+    },
+    {
+      "id": 1708201008912,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "South Sudan",
+        "Country info": "",
+        "Capital": "Juba",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-south_sudan.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_sudan.png\" />"
+      }
+    },
+    {
+      "id": 1708201008915,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Tuvalu",
+        "Country info": "",
+        "Capital": "Funafuti",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-tuvalu.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tuvalu.png\" />"
+      }
+    },
+    {
+      "id": 1708201008917,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "United States Virgin Islands",
+        "Country info": "Unincorporated territory of the United States.",
+        "Capital": "Charlotte Amalie",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-united_states_virgin_islands.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-united_states_virgin_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008920,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Åland Islands",
+        "Country info": "Autonomous region of Finland.",
+        "Capital": "Mariehamn",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-aland_islands.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-aland_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008922,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "South Ossetia",
+        "Country info": "Independent state claimed by Georgia.",
+        "Capital": "Tskhinvali",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-south_ossetia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_ossetia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008924,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "American Samoa",
+        "Country info": "Unincorporated territory of the United States.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-american_samoa.png\" />"
+      }
+    },
+    {
+      "id": 1708201008927,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Northern Mariana Islands",
+        "Country info": "Unincorporated territory of the United States.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-northern_mariana_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201008929,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Aruba",
+        "Country info": "Constituent country of the Kingdom of the Netherlands.",
+        "Capital": "Oranjestad",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-aruba.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-aruba.png\" />"
+      }
+    },
+    {
+      "id": 1708201008931,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Abkhazia",
+        "Country info": "Independent state claimed by Georgia.",
+        "Capital": "Sukhumi",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-abkhazia.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-abkhazia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008933,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Sint Maarten",
+        "Country info": "Constituent country of the Kingdom of the Netherlands.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sint_maarten.png\" />"
+      }
+    },
+    {
+      "id": 1708201008935,
+      "tags": [
+        "UG::Oceania",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Tonga",
+        "Country info": "",
+        "Capital": "Nukuʻalofa",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-tonga.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tonga.png\" />"
+      }
+    },
+    {
+      "id": 1708201008937,
+      "tags": [
+        "UG::Europe",
+        "UG::Sovereign_State"
+      ],
+      "fields": {
+        "Country": "Transnistria",
+        "Country info": "Independent state claimed by Moldova.",
+        "Capital": "Tiraspol",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-transnistria.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-transnistria.png\" />"
+      }
+    },
+    {
+      "id": 1708201008939,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Sardinia",
+        "Country info": "Autonomous region of Italy.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sardinia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008941,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Kaliningrad Oblast",
+        "Country info": "Oblast (administrative region) of the Russian Federation.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-kaliningrad_oblast.png\" />"
+      }
+    },
+    {
+      "id": 1708201008943,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Martinique",
+        "Country info": "Overseas department of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-martinique.png\" />"
+      }
+    },
+    {
+      "id": 1708201008945,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Java",
+        "Country info": "Island of Indonesia.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-java.png\" />"
+      }
+    },
+    {
+      "id": 1708201008947,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Corsica",
+        "Country info": "Region of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-corsica.png\" />"
+      }
+    },
+    {
+      "id": 1708201008949,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "European Union",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "<img src=\"media/ultimate-geography/ug-flag-european_union.svg\" />",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-european_union.png\" />"
+      }
+    },
+    {
+      "id": 1708201008951,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of Mexico",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_mexico.png\" />"
+      }
+    },
+    {
+      "id": 1708201008953,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Philippine Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-philippine_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008955,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Southern Ocean",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-southern_ocean-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201008957,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of Thailand",
+        "Country info": "Also known as the Gulf of Siam.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_thailand.png\" />"
+      }
+    },
+    {
+      "id": 1708201008959,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Micronesia",
+        "Country info": "Subregion of Oceania comprising thousands of small islands in the western Pacific Ocean.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-micronesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201008961,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Pacific Ocean",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-pacific_ocean-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201008963,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Atlantic Ocean",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-atlantic_ocean-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201008965,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Indian Ocean",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-indian_ocean-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201008967,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Arctic Ocean",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-arctic_ocean-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201008969,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Hudson Bay",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-hudson_bay.png\" />"
+      }
+    },
+    {
+      "id": 1708201008971,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Labrador Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-labrador_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008973,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "White Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-white_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008975,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Denmark Strait",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-denmark_strait.png\" />"
+      }
+    },
+    {
+      "id": 1708201008977,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Norwegian Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-norwegian_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008979,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Baltic Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-baltic_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008981,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Celtic Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-celtic_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008988,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "English Channel",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-english_channel.png\" />"
+      }
+    },
+    {
+      "id": 1708201008991,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Adriatic Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-adriatic_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008993,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Bay of Biscay",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bay_of_biscay.png\" />"
+      }
+    },
+    {
+      "id": 1708201008995,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Black Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-black_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008997,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Aegean Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-aegean_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201008999,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Balkan Peninsula",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-balkan_peninsula.png\" />"
+      }
+    },
+    {
+      "id": 1708201009000,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Caspian Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-caspian_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009002,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Mediterranean Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mediterranean_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009004,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "East Siberian Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-east_siberian_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009006,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Bering Strait",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bering_strait.png\" />"
+      }
+    },
+    {
+      "id": 1708201009008,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Arabian Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-arabian_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009010,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Red Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-red_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009012,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Dead Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-dead_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009014,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Bay of Bengal",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bay_of_bengal.png\" />"
+      }
+    },
+    {
+      "id": 1708201009017,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Sea of Japan",
+        "Country info": "A naming dispute exists between the sea's bordering countries, with South Korea notably supporting the name East Sea.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sea_of_japan.png\" />"
+      }
+    },
+    {
+      "id": 1708201009019,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Yellow Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-yellow_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009021,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Coral Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-coral_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009024,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "South China Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_china_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009026,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Tasman Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-tasman_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009029,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of Carpentaria",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_carpentaria.png\" />"
+      }
+    },
+    {
+      "id": 1708201009031,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Aral Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-aral_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009033,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Persian Gulf",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-persian_gulf.png\" />"
+      }
+    },
+    {
+      "id": 1708201009035,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Caribbean Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-caribbean_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009038,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of California",
+        "Country info": "Also known as the Sea of Cortez.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_california.png\" />"
+      }
+    },
+    {
+      "id": 1708201009040,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Polynesia",
+        "Country info": "Subregion of Oceania comprising thousands of small islands in the central and southern Pacific Ocean.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-polynesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201009042,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Melanesia",
+        "Country info": "Subregion of Oceania, which includes the four countries of Vanuatu, the Solomon Islands, Fiji, and Papua New Guinea.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-melanesia.png\" />"
+      }
+    },
+    {
+      "id": 1708201009045,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Scandinavia",
+        "Country info": "Historical and cultural region in Northern Europe, which includes the countries of Denmark, Norway and Sweden, and sometimes Finland and Iceland.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-scandinavia.png\" />"
+      }
+    },
+    {
+      "id": 1708201009048,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Sea of Galilee",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sea_of_galilee.png\" />"
+      }
+    },
+    {
+      "id": 1708201009051,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Sumatra",
+        "Country info": "Island of Indonesia.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sumatra.png\" />"
+      }
+    },
+    {
+      "id": 1708201009053,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Sicily",
+        "Country info": "Autonomous region of Italy.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sicily.png\" />"
+      }
+    },
+    {
+      "id": 1708201009055,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa"
+      ],
+      "fields": {
+        "Country": "Mayotte",
+        "Country info": "Overseas department of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-mayotte.png\" />"
+      }
+    },
+    {
+      "id": 1708201009058,
+      "tags": [
+        "UG::Africa",
+        "UG::East_Africa"
+      ],
+      "fields": {
+        "Country": "Réunion",
+        "Country info": "Overseas department of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-reunion.png\" />"
+      }
+    },
+    {
+      "id": 1708201009060,
+      "tags": [
+        "UG::South_America"
+      ],
+      "fields": {
+        "Country": "Falkland Islands",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-falkland_islands.png\" />"
+      }
+    },
+    {
+      "id": 1708201009063,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "Europe",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-europe-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009065,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "North America",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-north_america-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009067,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "South America",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-south_america-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009069,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "Asia",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-asia-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009071,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "Africa",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-africa-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009073,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "Oceania",
+        "Country info": "World region covering the Australian continent and most of the islands in the Pacific Ocean.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-oceania-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009075,
+      "tags": [
+        "UG::Continents"
+      ],
+      "fields": {
+        "Country": "Antarctica",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-antarctica-nobox.png\" />"
+      }
+    },
+    {
+      "id": 1708201009077,
+      "tags": [
+        "UG::Caribbean",
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Saint Martin",
+        "Country info": "Overseas territory of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-saint_martin.png\" />"
+      }
+    },
+    {
+      "id": 1708201009079,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Wallis and Futuna",
+        "Country info": "Overseas territory of France.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-wallis_and_futuna.png\" />"
+      }
+    },
+    {
+      "id": 1708201009081,
+      "tags": [
+        "UG::Asia",
+        "UG::Mediterranean",
+        "UG::Middle_East"
+      ],
+      "fields": {
+        "Country": "Akrotiri and Dhekelia",
+        "Country info": "Overseas territory of the United Kingdom.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-akrotiri_and_dhekelia.png\" />"
+      }
+    },
+    {
+      "id": 1708201009083,
+      "tags": [
+        "UG::Europe"
+      ],
+      "fields": {
+        "Country": "Svalbard",
+        "Country info": "Unincorporated internal area of Norway.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-svalbard.png\" />"
+      }
+    },
+    {
+      "id": 1708201009085,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Hawaii",
+        "Country info": "State of the United States.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-hawaii.png\" />"
+      }
+    },
+    {
+      "id": 1708201009087,
+      "tags": [
+        "UG::North_America"
+      ],
+      "fields": {
+        "Country": "Alaska",
+        "Country info": "State of the United States.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-alaska.png\" />"
+      }
+    },
+    {
+      "id": 1708201009089,
+      "tags": [
+        "UG::Oceania"
+      ],
+      "fields": {
+        "Country": "Bougainville",
+        "Country info": "Autonomous region of Papua New Guinea.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-bougainville.png\" />"
+      }
+    },
+    {
+      "id": 1708201009092,
+      "tags": [
+        "UG::Asia"
+      ],
+      "fields": {
+        "Country": "Jeju",
+        "Country info": "Autonomous province of South Korea.",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-jeju.png\" />"
+      }
+    },
+    {
+      "id": 1708201009094,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Banda Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-banda_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009096,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Barents Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-barents_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009098,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Celebes Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-celebes_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009100,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "East China Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-east_china_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009102,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of Alaska",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_alaska.png\" />"
+      }
+    },
+    {
+      "id": 1708201009104,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Gulf of Guinea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-gulf_of_guinea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009106,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "North Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-north_sea.png\" />"
+      }
+    },
+    {
+      "id": 1708201009108,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Sea of Okhotsk",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-sea_of_okhotsk.png\" />"
+      }
+    },
+    {
+      "id": 1708201009110,
+      "tags": [
+        "UG::Oceans+Seas"
+      ],
+      "fields": {
+        "Country": "Timor Sea",
+        "Country info": "",
+        "Capital": "",
+        "Capital info": "",
+        "Capital hint": "",
+        "Flag": "",
+        "Flag similarity": "",
+        "Map": "<img src=\"media/ultimate-geography/ug-map-timor_sea.png\" />"
+      }
+    }
+  ]
+}
