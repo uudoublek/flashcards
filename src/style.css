@@ -326,9 +326,10 @@ body {
 
 .card-content img {
   max-width: 100%;
-  max-height: 200px;
+  max-height: 60vh;
   border-radius: 8px;
   margin: 12px 0;
+  object-fit: contain;
 }
 
 .card-content svg {
@@ -376,6 +377,16 @@ body {
 .rate-hard:active,  .rate-hard:focus-visible  { background: rgba(255,145,0,0.2); border-color: var(--orange); }
 .rate-good:active,  .rate-good:focus-visible  { background: rgba(0,200,83,0.2); border-color: var(--green); }
 .rate-easy:active,  .rate-easy:focus-visible  { background: rgba(108,99,255,0.2); border-color: var(--accent); }
+
+/* Browse nav bar (always visible) */
+.browse-nav-bar {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  max-width: 400px;
+  padding: 16px 0;
+  justify-content: center;
+}
 
 /* Browse nav */
 .browse-nav {

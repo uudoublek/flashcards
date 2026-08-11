@@ -317,14 +317,18 @@ function renderCard(opts: CardOptions): void {
         <button class="rate-btn rate-good"  data-rating="good">😊<br>顺利</button>
         <button class="rate-btn rate-easy"  data-rating="easy">😎<br>简单</button>
       ` : ""}
-      ${onPrev ? `<button class="browse-nav" id="browse-prev">← 上一张</button>` : ""}
-      ${onNext ? `<button class="browse-nav" id="browse-next">下一张 →</button>` : ""}
+      ${mode !== "browse" && onPrev ? `<button class="browse-nav" id="browse-prev">← 上一张</button>` : ""}
+      ${mode !== "browse" && onNext ? `<button class="browse-nav" id="browse-next">下一张 →</button>` : ""}
     </div>
 
     ${mode !== "browse" ? `
       <div class="learn-actions" id="learn-actions">
         <button class="btn btn-show" id="btn-show">显示答案</button>
-      </div>` : ""}
+      </div>` : `
+      <div class="browse-nav-bar" id="browse-nav-bar">
+        ${onPrev ? `<button class="browse-nav" id="browse-prev">← 上一张</button>` : ""}
+        ${onNext ? `<button class="browse-nav" id="browse-next">下一张 →</button>` : ""}
+      </div>`}
   `;
 
   $app.appendChild(container);
