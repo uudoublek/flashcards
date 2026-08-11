@@ -25,6 +25,7 @@ interface TopicEntry {
 const TOPICS: TopicEntry[] = [
   { id: "ultimate-geography", name: "Ultimate Geography", file: "./data/ultimate-geography.json" },
   { id: "multiplication-table", name: "大九九乘法表", file: "./data/multiplication-table.json" },
+  { id: "wubi86root", name: "五笔单字根（全）", file: "./data/wubi86root.json" },
 ];
 
 // ========== 全局状态 ==========
