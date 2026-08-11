@@ -355,12 +355,11 @@ document.addEventListener("start-browse", (e) => {
   if (!currentTopic) return;
   const detail = (e as CustomEvent).detail as { tags: string[] };
 
-  // 构建浏览列表：卡片 × 所有 cardType，按标签筛选
-  const tagSet = new Set(detail.tags.length > 0 ? detail.tags : currentTopic.cards.flatMap(c => c.tags));
-  // 无标签的主题：显示全部卡片
-  const filtered = tagSet.size === 0
+  // 构建浏览列表：卡片 × 所有 cardType
+  // 未选标签 → 显示全部；选了标签 → 按标签筛选
+  const filtered = detail.tags.length === 0
     ? currentTopic.cards
-    : currentTopic.cards.filter(c => c.tags.some(t => tagSet.has(t)));
+    : currentTopic.cards.filter(c => c.tags.some(t => (detail.tags as string[]).includes(t)));
   const allItems: { card: Card; cardType: CardTypeDef }[] = [];
   for (const card of filtered) {
     for (const ct of currentTopic.meta.cardTypes) {
