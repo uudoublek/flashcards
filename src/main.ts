@@ -28,6 +28,7 @@ const TOPICS: TopicEntry[] = [
   { id: "wubi86root", name: "五笔单字根（全）", file: "./data/wubi86root.json" },
   { id: "organic-chemistry", name: "化学::有机化学", file: "./data/organic-chemistry.json" },
   { id: "chemical-elements", name: "化学::化学元素", file: "./data/chemical-elements.json" },
+  { id: "chemical-equations", name: "化学::化学方程式", file: "./data/chemical-equations.json" },
 ];
 
 // ========== 全局状态 ==========

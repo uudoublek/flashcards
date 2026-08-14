@@ -1,0 +1,1900 @@
+{
+  "meta": {
+    "id": "chemical-equations",
+    "name": "化学::化学方程式",
+    "fields": [
+      "问题",
+      "《》",
+      "答案",
+      "评论",
+      "举例",
+      "拓展"
+    ],
+    "cardTypes": [
+      {
+        "id": "qa",
+        "front": [
+          "问题"
+        ],
+        "back": [
+          "答案",
+          "评论",
+          "举例",
+          "拓展"
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": 1516031097128,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<font color=\"#00007f\"><b>&nbsp; &nbsp; &nbsp; 钠与氧气<u>常温下</u></b></font>",
+        "《》": "化学方程式",
+        "答案": "&nbsp; &nbsp; &nbsp; 4Na + O<sub style=\"\">2</sub> == 2Na<sub style=\"\">2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516078768782,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#5500ff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 钠点燃</font></b>",
+        "《》": "化学方程式",
+        "答案": "<div><font color=\"#aa0000\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>点燃</sub></font></div><div><font color=\"#aa0000\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2Na+O<sub>2</sub>===Na<sub>2</sub>O<sub>2</sub></font></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516078887597,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#4810ff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;钠与水</font></b>",
+        "《》": "化学方程式",
+        "答案": "<font color=\"#aaaaff\">&nbsp; &nbsp; &nbsp; &nbsp; 2Na + 2H<sub>2</sub>O = 2NaOH + H<sub>2</sub>↑</font>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516078974889,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#aaaaff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;钠与硫酸</font></b>",
+        "《》": "化学方程式",
+        "答案": "<b><font color=\"#0055ff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2Na + H<sub>2</sub>SO<sub>4</sub> = Na<sub>2</sub>SO<sub>4</sub>+ H<sub>2</sub>↑</font></b>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079079644,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#0055ff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;氧化钠与水</font></b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Na<sub>2</sub>O+H<sub>2</sub>O =&nbsp;2NaOH</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079144752,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#0055ff\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;过氧化钠与二氧化碳</font></b>",
+        "《》": "化学方程式",
+        "答案": "<div><font color=\"#550000\">&nbsp; &nbsp; &nbsp; &nbsp; 2Na<sub>2</sub>O<sub>2</sub> + 2CO<sub>2</sub>&nbsp;= 2Na<sub>2</sub>CO<sub>3</sub>+ O<sub>2</sub></font></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079241655,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#550000\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 过氧化钠与水反应</font></b>",
+        "《》": "化学方程式",
+        "答案": "<b>&nbsp; &nbsp; &nbsp;2Na<sub>2</sub>O<sub>2</sub> +2H<sub>2</sub>O == 4NaOH + O<sub>2</sub>↑</b>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079310447,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=\"#0d1255\">NaOH溶液通入<u>少量CO<sub>2</sub></u></font></b><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=\"#55020a\">NaOH溶液通入<u>过量CO<sub>2</sub></u></font></b></div>",
+        "《》": "化学方程式",
+        "答案": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2NaOH +CO<sub>2</sub> == Na<sub>2</sub>CO<sub>3</sub> +H<sub>2</sub>O<div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NaOH +CO<sub>2</sub> == NaHCO<sub>3</sub></div></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079454437,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#00007f\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;向碳酸钠溶液滴入少量稀盐酸</font></b>",
+        "《》": "化学方程式",
+        "答案": "<b><font color=\"#00aaff\">&nbsp; &nbsp; &nbsp; &nbsp;Na<sub>2</sub>CO<sub>3</sub>+ HCl == NaHCO<sub>3</sub>&nbsp;+ NaCl&nbsp;</font></b>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079591428,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#555500\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 向稀盐酸溶液滴入少量碳酸钠</font></b>",
+        "《》": "化学方程式",
+        "答案": "<div><b>&nbsp; &nbsp; &nbsp;Na<sub>2</sub>CO<sub>3</sub>+ 2HCl == 2NaCl +CO<sub>2</sub>↑+H2O&nbsp;</b></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516079660516,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#555500\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 除去碳酸氢钠中混有的碳酸钠</font></b>",
+        "《》": "化学方程式",
+        "答案": "<div><b>&nbsp; &nbsp; &nbsp; Na<sub>2</sub>CO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O == 2NaHCO<sub>3</sub></b></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080016163,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>碳酸钠与氢氧化钙</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Na<sub>2</sub>CO<sub>3</sub> +Ca(OH)<sub>3</sub> == CaCO<sub>3</sub> ↓+2NaOH&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080051111,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>碳酸氢钠与盐酸</b>",
+        "《》": "化学方程式",
+        "答案": "<div>NaHCO<sub>3</sub> + HCl == NaCl +CO<sub>2</sub>↑+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080088296,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>少量碳酸氢钠溶液滴入氢氧化钙溶液中</b>",
+        "《》": "化学方程式",
+        "答案": "<div>NaHCO<sub>3</sub> +Ca(OH)<sub>2</sub> = NaOH+CaCO<sub>3</sub>↓+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080245079,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>&nbsp;少量氢氧化钙溶液滴入碳酸氢钠溶液中</b>",
+        "《》": "化学方程式",
+        "答案": "<div>2NaHCO<sub>3</sub>+Ca(OH)<sub>2</sub>=Na<sub>2</sub>CO<sub>3</sub>+CaCO<sub>3</sub>↓+2H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080320184,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>除去碳酸钠溶液中的碳酸氢钠</b>",
+        "《》": "化学方程式",
+        "答案": "NaHCO<sub>2</sub> + NaOH == Na<sub>2</sub>CO<sub>3</sub> +H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080346919,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>除去碳酸钠固体中的碳酸氢钠</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<sub>加热▲</sub></div><div>2NaHCO<sub>3 </sub>=====&nbsp;Na<sub>2</sub>CO<sub>3</sub> +CO<sub>2</sub>↑+H<sub>2</sub>O&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516080537262,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>鉴别碳酸钠和碳酸氢钠溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Na<sub>2</sub>CO<sub>3</sub>&nbsp;+CaCl<sub>2</sub>&nbsp;== CaCO<sub>3</sub> ↓+2NaCl&nbsp;",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516112086459,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铝与氧气</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<sub>点燃</sub></div><div>4Al + 3O<sub>2</sub>====2Al<sub>2</sub>O<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114294778,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铝和稀盐酸</b>",
+        "《》": "化学方程式",
+        "答案": "2Al +6HCl == 2AlCl<sub>3</sub> +3H<sub>2</sub>↑",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114361478,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铝和NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "2Al +2NaOH +2H<sub>2</sub>O == 2NaAlO<sub>2</sub> +3H<sub>2</sub>↑",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114388944,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氧化铝和稀硫酸</b>",
+        "《》": "化学方程式",
+        "答案": "Al<sub>2</sub>O<sub>3</sub> +3H<sub>2</sub>SO<sub>4</sub> == Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> +3H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114442256,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氧化铝和NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Al<sub>2</sub>O<sub>3</sub> + 2NaOH == 2NaAlO<sub>2</sub> +H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114476776,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢氧化铝和稀盐酸</b>",
+        "《》": "化学方程式",
+        "答案": "Al(OH)<sub>3</sub> +3HCl == AlCl<sub>3</sub> +3H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114500623,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢氧化铝和NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Al(OH)<sub>3</sub> + NaOH == NaAlO<sub>2</sub> +2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114524367,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢氧化铝受热分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>▲</sub></div><div>2Al(OH)<sub>3</sub>===Al<sub>2</sub>O<sub>3</sub>&nbsp;+3H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114606594,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硫酸铝与氨水反应</b>",
+        "《》": "化学方程式",
+        "答案": "&nbsp;Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> +6NH<sub>3</sub>•H<sub>2</sub>O ==2Al(OH)<sub>3</sub>↓+3(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114718335,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<font color=\"#aa0000\">AlCl3溶液中加入</font><u>少量</u><font color=\"#aa0000\">NaOH溶液</font><br /><div><font color=\"#00aaff\">AlCl3溶液中加入</font><u>过量</u><font color=\"#00aaff\">NaOH溶液</font></div>",
+        "《》": "化学方程式",
+        "答案": "<div>AlCl<sub>3</sub> + 3NaOH ==Al(OH)<sub>3</sub>↓+&nbsp;3NaCl</div><div><div>AlCl<sub>3</sub> + 4NaOH == NaAlO<sub>2</sub>+ 3NaCl+ 2H<sub>2</sub>O</div></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516114851965,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#ff0000\">往NaAlO</font><sub style=\"color: rgb(255, 0, 0); \">2</sub><font color=\"#ff0000\">溶液中通入</font><u>少量</u><font color=\"#ff0000\">CO</font><sub style=\"color: rgb(255, 0, 0); \">2</sub></b><div><b><font color=\"#00aaff\">往NaAlO</font><sub style=\"color: rgb(0, 170, 255); \">2</sub><font color=\"#00aaff\">溶液中通入</font><u>过量</u><font color=\"#00aaff\">CO</font><sub style=\"color: rgb(0, 170, 255); \">2</sub></b></div>",
+        "《》": "化学方程式",
+        "答案": "<div>2NaAlO<sub>2</sub> +CO<sub>2</sub>&nbsp;+ 3H<sub>2</sub>O == 2Al(OH)<sub>3</sub>↓ + Na<sub>2</sub>CO<sub>3</sub></div><div>&nbsp; NaAlO<sub>2</sub> +CO<sub>2</sub> + 2H<sub>2</sub>O == Al(OH)<sub>3</sub>↓ + NaHCO<sub>3</sub>&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115078172,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>电解氧化铝</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>通电</sub></div><div>2Al<sub>2</sub>O<sub>3</sub>（熔融）==== 4Al+3O<sub>2</sub>↑</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115175844,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铁与氧气反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub><i>点燃</i></sub></div><div>3Fe + 2O<sub>2</sub>====2Fe<sub>3</sub>O<sub>4</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115249700,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>&nbsp;铁与硫反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;▲</div><div>Fe + S===FeS&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115274095,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铁与盐酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "Fe + 2HCl == FeCl<sub>2</sub> +H<sub>2</sub>↑",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115293635,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>&nbsp;铁与CuSO<sub>4</sub>溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Fe +CuSO<sub>4</sub> == FeSO<sub>4</sub> + Cu",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115312844,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铁和水蒸气</b>",
+        "《》": "化学方程式",
+        "答案": "<div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<sub>▲</sub></b></div><div><b>3Fe +4H<sub>2</sub></b><b>O(g) === Fe<sub>3</sub>O<sub>4</sub> + 4H<sub>2</sub></b><b>&nbsp;</b></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115376012,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氧化亚铁与盐酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "FeO + 2HCl == FeCl<sub>2</sub> +H<sub>2</sub>O&nbsp;",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516115421013,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氧化铁与盐酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "Fe<sub>2</sub>O<sub>3</sub> + 6HCl == 2FeCl<sub>3</sub> +3H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516116871818,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>CO还原氧化铁</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><sub>高温</sub></b></div><div>3CO+Fe<sub>2</sub>O<sub>3</sub>&nbsp;==== 3CO<sub>2</sub>&nbsp;+ 2Fe</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516116913848,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯化铁与NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "FeCl<sub>3</sub> +3NaOH == Fe(OH)<sub>3</sub> ↓+3NaCl",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516116944038,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硫酸亚铁与NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "FeSO<sub>4</sub> + 2NaOH == Fe(OH)<sub>2</sub> ↓+ Na<sub>2</sub>SO<sub>4</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516116973286,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢氧化铁加热分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>▲</sub></div><div>2Fe(OH)<sub>3</sub>&nbsp;=== Fe<sub>2</sub>O<sub>3</sub> +3H<sub>2</sub>O&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117041894,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢氧化亚铁被氧化为氢氧化铁</b>",
+        "《》": "化学方程式",
+        "答案": "4Fe(OH)<sub>2</sub> + O<sub>2</sub> + 2H<sub>2</sub>O == 4Fe(OH)<sub>3</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117064237,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>除去FeCl<sub>2</sub>中的FeCl<sub>3</sub></b>",
+        "《》": "化学方程式",
+        "答案": "Fe +2FeCl<sub>3</sub> == 3FeCl<sub>2</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117099861,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>FeCl<sub>2</sub>与Cl<sub>2</sub>反应</b>",
+        "《》": "化学方程式",
+        "答案": "2FeCl<sub>2</sub> + Cl<sub>2</sub> == 2FeCl<sub>3</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117125542,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "FeCl<sub>3</sub>与Cu",
+        "《》": "化学方程式",
+        "答案": "Cu +2FeCl<sub>3</sub> == 2FeCl<sub>2</sub> +CuCl<sub>2</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117153341,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯化铁与硫氰化钾反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>FeCl<sub>3</sub>&nbsp;+ 3KSCN ⇌ Fe(SCN)<sub>3</sub>&nbsp;+ 3KCl</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117233165,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硅与氧气加热</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>加热</sub></div><div>Si + O<sub>2</sub>&nbsp;==== SiO<sub>2</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117288036,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硅与氟气</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Si + 2F<sub>2</sub> == SiF<sub>4</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117316900,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硅单质与氢氟酸</b>",
+        "《》": "化学方程式",
+        "答案": "Si + 4HF == SiF<sub>4</sub>↑+2H<sub>2</sub>↑",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117336684,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硅与NaOH溶液反应</b>",
+        "《》": "化学方程式",
+        "答案": "Si + 2NaOH+ H<sub>2</sub>O == Na<sub>2</sub>SiO<sub>3</sub> + 2H<sub>2</sub>↑",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117590890,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硅与氢氟酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "SiO<sub>2</sub> + 4HF == SiF<sub>4</sub>↑+2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117617050,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硅与氧化钙高温</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>高温</sub></div><div>SiO<sub>2</sub>&nbsp;+ CaO ==== CaSiO<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117669921,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "二氧化硅与NaOH溶液反应",
+        "《》": "化学方程式",
+        "答案": "SiO<sub>2</sub> + 2NaOH == Na<sub>2</sub>SiO<sub>3</sub> +H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117748394,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硅与碳反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>高温</sub></div><div>SiO<sub>2</sub>&nbsp;+ 2C===2CO + Si</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117778946,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硅酸钠与与盐酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "Na<sub>2</sub>SiO<sub>3</sub> + 2HCl == 2NaCl +H<sub>2</sub>SiO<sub>3</sub>↓",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117799905,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>往硅酸钠溶液中通入二氧化碳</b>",
+        "《》": "化学方程式",
+        "答案": "Na<sub>2</sub>SiO<sub>3</sub> + CO<sub>2</sub> +H<sub>2</sub>O == Na<sub>2</sub>CO<sub>3</sub> +H<sub>2</sub>SiO<sub>3</sub>↓",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117830056,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硅与纯碱反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>高 温</sub></div><div>SiO<sub>2</sub> +Na<sub>2</sub>CO<sub>3</sub>===Na<sub>2</sub>SiO<sub>3</sub> + CO<sub>2</sub>↑</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117880592,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硅与石灰石</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>高温</sub></div><div>SiO<sub>2</sub> +CaCO<sub>3</sub>===CaSiO<sub>3</sub> + CO<sub>2</sub>↑</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117914251,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>加热硅酸</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>▲</sub></div><div>H<sub>2</sub>SiO<sub>3</sub>&nbsp;=== SiO<sub>2</sub> +H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516117959784,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>实验室制氯气</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>▲</sub></div><div>MnO<sub>2</sub> +4HCl(浓) === MnCl<sub>2</sub> +Cl<sub>2</sub>↑+2H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516118325495,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>钠在氯气中燃烧</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>点燃</sub></div><div>2Fe +3Cl<sub>2</sub>====2FeCl<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516118814169,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>&nbsp;铜在氯气中燃烧</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>点 燃</sub></div><div>Cu +Cl<sub>2</sub>====CuCl<sub>2</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516118840954,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氢气在氯气中燃烧</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点 燃</div><div>H<sub>2</sub> +Cl<sub>2</sub>====2HCl</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516118889746,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯气和水反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Cl<sub>2</sub> + H<sub>2</sub>O ⇌&nbsp;&nbsp;HCl + HClO</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516118977954,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>次氯酸光照分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;光照</div><div>2HClO ==== 2HCl+O<sub>2</sub>↑</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119022593,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯水中通入SO<sub>2</sub></b>",
+        "《》": "化学方程式",
+        "答案": "Cl<sub>2</sub> +SO<sub>2</sub> +2H<sub>2</sub>O==2HCl+H<sub>2</sub>SO<sub>4</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119108096,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯气与NaOH溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Cl<sub>2</sub>+2NaOH ==NaCl +NaClO +H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119132247,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>工业生产漂白粉</b>",
+        "《》": "化学方程式",
+        "答案": "2Cl<sub>2</sub>+2Ca(OH)<sub>2</sub> ==CaCl<sub>2</sub>+Ca(ClO)<sub>2</sub>+2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119178033,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>漂白粉漂白原理</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Ca(ClO)<sub>2</sub>+CO<sub>2</sub>+H<sub>2</sub>O==CaCO<sub>3</sub>↓+2HClO</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119267272,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>向漂白粉溶液中加入稀盐酸</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Ca(ClO)<sub>2</sub>+2HCl==CaCl<sub>2</sub>+2HClO&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119284095,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯气通入溴化钾溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Cl<sub>2</sub> + 2KBr ==2KCl +Br<sub>2</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119302543,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯气通入碘化钾溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Cl<sub>2</sub> + 2KI ==2KCl +I<sub>2</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119322975,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>溴水和碘化钾溶液</b>",
+        "《》": "化学方程式",
+        "答案": "Br<sub>2</sub> + 2KI ==2KBr +I<sub>2</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119339507,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯化钠和硝酸银溶液</b>",
+        "《》": "化学方程式",
+        "答案": "NaCl +AgNO<sub>3</sub> ==AgCl ↓+NaNO<sub>3</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119359359,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硫在空气中燃烧</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>点燃</sub></div><div>S + O<sub>2&nbsp;</sub>==== SO<sub>2</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119398654,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<div>硫与氢气加热</div>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<sub>▲</sub></div><div>H<sub>2</sub>&nbsp;+ S === H<sub>2</sub>S</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119587737,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硫与水</b>",
+        "《》": "化学方程式",
+        "答案": "<div>SO<sub>2</sub> + H<sub>2</sub>O ⇌&nbsp;H<sub>2</sub>SO<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119650557,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硫与氧化钙</b>",
+        "《》": "化学方程式",
+        "答案": "<div>SO<sub>2</sub> +CaO ==CaSO<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119668357,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<font color=\"#aa55ff\"><b><u>少量</u>SO<sub>2</sub>与NaOH溶液</b></font><div><font color=\"#555500\"><b><u>过量</u>SO<sub>2</sub>与NaOH溶液</b></font></div>",
+        "《》": "化学方程式",
+        "答案": "SO<sub>2</sub>+2NaOH==Na<sub>2</sub>SO<sub>3</sub>&nbsp;+H<sub>2</sub>O<br /><div>SO<sub>2</sub>+NaOH==NaHSO<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119762061,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b><font color=\"#00aaff\">SO<sub>2</sub>通入<u>过量</u>的澄清石灰水</font></b><div><b><font color=\"#aa5500\"><u>过量</u>的SO2通入澄清石灰水</font></b></div>",
+        "《》": "化学方程式",
+        "答案": "SO<sub>2</sub>+Ca(OH)<sub>2</sub> ==CaSO<sub>3</sub>↓+H<sub>2</sub>O<div>2SO<sub>2</sub>+Ca(OH)<sub>2</sub> ==Ca(HSO<sub>3</sub>)<sub>2</sub>&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119935313,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硫与硫化氢</b>",
+        "《》": "化学方程式",
+        "答案": "SO<sub>2</sub> + 2H<sub>2</sub>S == 3S↓+ 2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516119966996,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硫催化氧化</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>催化剂(五氧化二钒)</sub></div><div>2SO2+O2 &nbsp; &nbsp; &nbsp;⇌⇌⇌⇌⇌ &nbsp; &nbsp; &nbsp; &nbsp;2SO3</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;加热</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516120149856,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>亚硫酸钠和硫酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>Na<sub>2</sub>SO<sub>3</sub>&nbsp;+H<sub>2</sub>SO<sub>4</sub> == Na<sub>2</sub>SO<sub>4</sub>+SO<sub>2</sub>↑+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516120292828,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>Na<sub>2</sub>SO<sub>3</sub> 与氧气反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>2Na<sub>2</sub>SO<sub>3</sub>+O<sub>2</sub>==2Na<sub>2</sub>SO<sub>4</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516120439223,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>三氧化硫与水反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>SO<sub>3</sub> + H<sub>2</sub>O==H<sub>2</sub>SO<sub>4</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516120460918,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>三氧化硫与氧化钙</b>",
+        "《》": "化学方程式",
+        "答案": "<div>SO<sub>3</sub>&nbsp;+CaO ==CaSO<sub>4</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516120481582,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>三氧化硫与氢氧化钙</b>",
+        "《》": "化学方程式",
+        "答案": "SO<sub>2</sub> +Ca(OH)<sub>2</sub>==CaSO<sub>4</sub>↓+H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121227791,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>铜与浓硫酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>加热</sub></div><div>Cu +2H<sub>2</sub>SO<sub>4</sub>(浓)===CuSO<sub>4</sub>+SO<sub>2</sub>↑+2H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121281089,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>碳与浓硫酸反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<sub>加热</sub></div><div>C +2H<sub>2</sub>SO<sub>4</sub>(浓)====CO<sub>2</sub>↑+2SO<sub>2</sub>↑+2H<sub>2</sub>O&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121327640,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>二氧化硫和过氧化氢</b>",
+        "《》": "化学方程式",
+        "答案": "SO<sub>2</sub>+H<sub>2</sub>O<sub>2</sub>=H<sub>2</sub>SO<span style=\"font-size: 16.6667px;\"><sub>4</sub></span>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121369775,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氮气和氧气反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>放电</sub></div><div>N<sub>2</sub>+O<sub>2</sub>===2NO&nbsp;</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121432967,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>工业合成氨</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>高温高压</sub></div><div>N2+3H2 ====== 2NH3</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121517566,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>一氧化氮与氧气反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>2NO+O<sub>2</sub>==2NO<sub>2</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121539170,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>NO<sub>2</sub>溶于水</b>",
+        "《》": "化学方程式",
+        "答案": "3NO<sub>2</sub>+H<sub>2</sub>O==2HNO<sub>3</sub>+NO",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121561167,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氨气溶于水</b>",
+        "《》": "化学方程式",
+        "答案": "<div>NH3+H2O ⇌&nbsp;NH3•H2O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121607958,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>浓氨水受热分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>加热</sub></div><div>NH<sub>3</sub>•H<sub>2</sub>O == NH<sub>3</sub>↑+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121683973,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氨气和氯化氢</b>",
+        "《》": "化学方程式",
+        "答案": "<div>NH<sub>3</sub>+HCl==NH<sub>4</sub>Cl（产生白烟）</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121706213,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氨的催化氧化</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 催化剂</div><div>4NH3+5O2====4NO+6H2O</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;加热</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121763900,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>氯化铵受热分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>加热</sub></div><div>NH<sub>4</sub>Cl === NH<sub>3</sub>↑+HCl↑</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121801652,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>碳酸氢铵受热分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▲</div><div>NH<sub>4</sub>HCO<sub>3</sub>===NH<sub>3</sub>↑+CO<sub>2</sub>↑+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121854824,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硝酸铵和NaOH</b>",
+        "《》": "化学方程式",
+        "答案": "<div>NH<sub>4</sub>NO<sub>3</sub>+NaOH====NaNO<sub>3</sub>+NH<sub>3</sub>↑+H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121884340,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>实验室制氨气</b>",
+        "《》": "化学方程式",
+        "答案": "<div>2NH<sub>4</sub>Cl+Ca(OH)<sub>2</sub> ==== CaCl<sub>2</sub>+2NH<sub>3</sub>↑+2H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121919267,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>浓硝酸与铜反应</b>",
+        "《》": "化学方程式",
+        "答案": "Cu +4HNO<sub>3</sub>==Cu(NO<sub>3</sub>)<sub>2</sub>+2NO<sub>2</sub>↑+2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121954571,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>稀硝酸与铜反应</b>",
+        "《》": "化学方程式",
+        "答案": "<div>3Cu +8HNO<sub>3</sub>==3Cu(NO<sub>3</sub>)<sub>2</sub>+2NO↑+4H<sub>2</sub>O</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516121979986,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>硝酸见光分解</b>",
+        "《》": "化学方程式",
+        "答案": "<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 见光</div>4HNO<sub>3</sub>===4NO<sub>2</sub>↑+O<sub>2</sub>↑+2H<sub>2</sub>O",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516122015315,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>NO<sub>2</sub>、O<sub>2</sub>混合气通入水中无剩余气体</b>",
+        "《》": "化学方程式",
+        "答案": "4NO<sub>2</sub>+O<sub>2</sub>+2H<sub>2</sub>O==4HNO<sub>3</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516122051042,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>NH<sub>4</sub><sup>+</sup>检验的离子方程式</b>",
+        "《》": "化学方程式",
+        "答案": "<div><div>NH<sub>4</sub><sup>+</sup>+OH<sup>－</sup>&nbsp;=&nbsp; NH<sub>3</sub>↑+H<sub>2</sub>O</div></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516122212731,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>NO、O<sub>2</sub>混合气通入水中无剩余气体</b>",
+        "《》": "化学方程式",
+        "答案": "<div>4NO+3O<sub>2</sub>+2H<sub>2</sub>O==4HNO<sub>3</sub></div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516122237609,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>少量氨气与氯气</b>",
+        "《》": "化学方程式",
+        "答案": "<div>2NH<sub>3</sub>+3Cl<sub>2</sub>&nbsp;= N<sub>2</sub>+6HCl</div>",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    },
+    {
+      "id": 1516122262553,
+      "tags": [
+        "化学方程式"
+      ],
+      "cardTypeIds": [
+        "qa"
+      ],
+      "fields": {
+        "问题": "<b>过量氨气与氯气</b>",
+        "《》": "化学方程式",
+        "答案": "8NH<sub>3</sub>+3Cl<sub>2</sub> = N<sub>2</sub>+6NH<sub>4</sub>Cl",
+        "评论": "",
+        "举例": "",
+        "拓展": ""
+      }
+    }
+  ]
+}
