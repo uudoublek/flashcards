@@ -31,6 +31,7 @@ const TOPICS: TopicEntry[] = [
   { id: "chemical-equations", name: "化学::化学方程式", file: "./data/chemical-equations.json" },
   { id: "classical-chinese-patterns", name: "语文::文言句式", file: "./data/classical-chinese-patterns.json" },
   { id: "reaction-principles", name: "化学::反应原理", file: "./data/reaction-principles.json" },
+  { id: "structure-properties", name: "化学::物质结构与性质", file: "./data/structure-properties.json" },
 ];
 
 // ========== 全局状态 ==========
