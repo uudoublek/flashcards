@@ -1,0 +1,1170 @@
+{
+  "meta": {
+    "id": "trigonometry",
+    "name": "数学::三角函数及解三角形",
+    "fields": [
+      "知识",
+      "《》",
+      "评论",
+      "举例",
+      "拓展"
+    ],
+    "cardTypes": [
+      {
+        "id": "cloze",
+        "front": [
+          "知识_正面"
+        ],
+        "back": [
+          "知识_背面",
+          "评论",
+          "举例",
+          "拓展"
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": 1531962228244,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\sin(\\pi-\\alpha)=\\){{c1::\\(\\sin\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\sin(\\pi-\\alpha)=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\sin(\\pi-\\alpha)=\\)<span class=\"cloze-answer\">\\(\\sin\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531962732065,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\cos(\\pi-\\alpha)=\\){{c1::\\(-\\cos\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\cos(\\pi-\\alpha)=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\cos(\\pi-\\alpha)=\\)<span class=\"cloze-answer\">\\(-\\cos\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531962849148,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\sin(\\pi+\\alpha)=\\){{c1::-\\(\\sin\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\sin(\\pi+\\alpha)=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\sin(\\pi+\\alpha)=\\)<span class=\"cloze-answer\">-\\(\\sin\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531962935317,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "\\(\\cos(\\pi+\\alpha)=\\){{c1::\\(-\\cos\\alpha \\)}}",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "\\(\\cos(\\pi+\\alpha)=\\)<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "\\(\\cos(\\pi+\\alpha)=\\)<span class=\"cloze-answer\">\\(-\\cos\\alpha \\)</span>"
+      }
+    },
+    {
+      "id": 1531962994066,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\sin(-\\alpha+\\frac{\\pi}{2})\\)={{c1::\\(\\cos\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\sin(-\\alpha+\\frac{\\pi}{2})\\)=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\sin(-\\alpha+\\frac{\\pi}{2})\\)=<span class=\"cloze-answer\">\\(\\cos\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963089186,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\cos(-\\alpha+\\frac{\\pi}{2})=\\){{c1::\\(\\sin\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\cos(-\\alpha+\\frac{\\pi}{2})=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\cos(-\\alpha+\\frac{\\pi}{2})=\\)<span class=\"cloze-answer\">\\(\\sin\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963138336,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\sin(\\alpha+\\frac{\\pi}{2})=\\){{c1::\\(\\cos\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\sin(\\alpha+\\frac{\\pi}{2})=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\sin(\\alpha+\\frac{\\pi}{2})=\\)<span class=\"cloze-answer\">\\(\\cos\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963211244,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(\\cos(\\alpha + \\frac{\\pi}{2})=\\){{c1::\\(-\\sin\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(\\cos(\\alpha + \\frac{\\pi}{2})=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>\\(\\cos(\\alpha + \\frac{\\pi}{2})=\\)<span class=\"cloze-answer\">\\(-\\sin\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963385898,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin(\\alpha+\\beta)\\)}}\\(=\\){{c2::\\(\\sin\\alpha \\cos\\beta+\\cos\\alpha \\sin\\beta\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin(\\alpha+\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\sin\\alpha \\cos\\beta+\\cos\\alpha \\sin\\beta\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963481799,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin(\\alpha-\\beta)\\)}}\\(=\\){{c2::\\(\\sin\\alpha \\cos\\beta-\\cos\\alpha \\sin\\beta\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin(\\alpha-\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\sin\\alpha \\cos\\beta-\\cos\\alpha \\sin\\beta\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963634896,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos(\\alpha+\\beta)\\)}}\\(=\\){{c2::\\(\\cos\\alpha \\cos\\beta-\\sin\\alpha \\sin\\beta\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos(\\alpha+\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\cos\\alpha \\cos\\beta-\\sin\\alpha \\sin\\beta\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963658161,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos(\\alpha-\\beta)\\)}}\\(=\\){{c2::\\(\\cos\\alpha \\cos\\beta+\\sin\\alpha \\sin\\beta\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos(\\alpha-\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\cos\\alpha \\cos\\beta+\\sin\\alpha \\sin\\beta\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963888660,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\tan(\\alpha+\\beta)\\)}}\\(=\\){{c2::\\(\\frac{\\tan\\alpha+\\tan\\beta}{1-\\tan\\alpha \\tan\\beta}\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\tan(\\alpha+\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{\\tan\\alpha+\\tan\\beta}{1-\\tan\\alpha \\tan\\beta}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531963908767,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\tan(\\alpha-\\beta)\\)}}\\(=\\){{c2::\\(\\frac{\\tan\\alpha-\\tan\\beta}{1+\\tan\\alpha \\tan\\beta}\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\tan(\\alpha-\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{\\tan\\alpha-\\tan\\beta}{1+\\tan\\alpha \\tan\\beta}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531964111416,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin 2\\alpha\\)}}\\(=\\){{c2::\\(2\\sin\\alpha \\cos\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin 2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(2\\sin\\alpha \\cos\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531964131934,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos 2\\alpha\\)}}</div><div>\\(=\\){{c2::\\(\\cos^2\\alpha-\\sin^2\\alpha\\)}}</div><div>\\(=\\){{c3::\\(2\\cos^2\\alpha-1\\)}}</div><div>\\(=\\){{c4::\\(1-\\sin^2\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span></div><div>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div><div>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div><div>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos 2\\alpha\\)</span></div><div>\\(=\\)<span class=\"cloze-answer\">\\(\\cos^2\\alpha-\\sin^2\\alpha\\)</span></div><div>\\(=\\)<span class=\"cloze-answer\">\\(2\\cos^2\\alpha-1\\)</span></div><div>\\(=\\)<span class=\"cloze-answer\">\\(1-\\sin^2\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531964410036,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\tan 2\\alpha\\)}}\\(=\\){{c2::\\(\\frac{2\\tan\\alpha}{1-\\tan^2\\alpha}\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\tan 2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{2\\tan\\alpha}{1-\\tan^2\\alpha}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531964708921,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::\\(\\sin^2\\alpha+\\cos^2\\alpha\\)}}\\(=\\){{c2::\\(1\\)}}",
+        "《》": "三角恒等式",
+        "评论": "注意可在齐次式比例化时运用",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">\\(\\sin^2\\alpha+\\cos^2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(1\\)</span>"
+      }
+    },
+    {
+      "id": 1531964888364,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(1+\\tan^2\\alpha\\)}}\\(=\\){{c2::\\(\\frac{1}{\\cos^2\\alpha}\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(1+\\tan^2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{1}{\\cos^2\\alpha}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531965247302,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "降幂公式:<div>{{c1::\\(\\sin^2\\alpha\\)}}\\(=\\){{c2::\\(\\frac{1-cos2\\alpha}{2}\\)}}</div><div><div>{{c1::\\(cos^2\\alpha\\)}}\\(=\\){{c2::\\(\\frac{1+cos2\\alpha}{2}\\)}}</div></div>",
+        "《》": "三角恒等式",
+        "评论": "注意:比较记忆两个式子！",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "降幂公式:<div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div><div><div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div></div>",
+        "知识_背面": "降幂公式:<div><span class=\"cloze-answer\">\\(\\sin^2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{1-cos2\\alpha}{2}\\)</span></div><div><div><span class=\"cloze-answer\">\\(cos^2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{1+cos2\\alpha}{2}\\)</span></div></div>"
+      }
+    },
+    {
+      "id": 1531965597123,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<b>万能公式</b><div>{{c3::\\(\\sin 2\\alpha\\)}}\\(=\\){{c1::\\(\\frac{2\\tan\\alpha}{1+\\tan^2\\alpha}\\)}}</div><div><div>{{c4::\\(\\cos2\\alpha\\)}}\\(=\\){{c2::\\(\\frac{1-\\tan^2\\alpha}{1+\\tan^2\\alpha}\\)}}</div></div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<b>万能公式</b><div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div><div><div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div></div>",
+        "知识_背面": "<b>万能公式</b><div><span class=\"cloze-answer\">\\(\\sin 2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{2\\tan\\alpha}{1+\\tan^2\\alpha}\\)</span></div><div><div><span class=\"cloze-answer\">\\(\\cos2\\alpha\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\frac{1-\\tan^2\\alpha}{1+\\tan^2\\alpha}\\)</span></div></div>"
+      }
+    },
+    {
+      "id": 1531965665110,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "万能公式:<div>\\(sin2\\alpha=\\frac{2tan\\alpha}{1+tan^2\\alpha}\\)<div>{{c1::\\(cos2\\alpha\\)}}\\(=\\frac{1-tan^2\\alpha}{1+tan^2\\alpha}\\)</div></div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "万能公式:<div>\\(sin2\\alpha=\\frac{2tan\\alpha}{1+tan^2\\alpha}\\)<div><span class=\"cloze-blank\">＿＿</span>\\(=\\frac{1-tan^2\\alpha}{1+tan^2\\alpha}\\)</div></div>",
+        "知识_背面": "万能公式:<div>\\(sin2\\alpha=\\frac{2tan\\alpha}{1+tan^2\\alpha}\\)<div><span class=\"cloze-answer\">\\(cos2\\alpha\\)</span>\\(=\\frac{1-tan^2\\alpha}{1+tan^2\\alpha}\\)</div></div>"
+      }
+    },
+    {
+      "id": 1531965704878,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "三倍角公式（了解）:<br><div>\\(\\sin3\\alpha=\\){{c1::\\(3\\sin\\alpha-4\\sin^3\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "三倍角公式（了解）:<br><div>\\(\\sin3\\alpha=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "三倍角公式（了解）:<br><div>\\(\\sin3\\alpha=\\)<span class=\"cloze-answer\">\\(3\\sin\\alpha-4\\sin^3\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531967430765,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "三倍角公式（了解）:<div>\\(\\cos 3\\alpha=\\){{c1::\\(4\\cos^3\\alpha-3\\cos\\alpha\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "三倍角公式（了解）:<div>\\(\\cos 3\\alpha=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "三倍角公式（了解）:<div>\\(\\cos 3\\alpha=\\)<span class=\"cloze-answer\">\\(4\\cos^3\\alpha-3\\cos\\alpha\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531967472552,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "三倍角公式（了解）:<div>\\(tan3 \\alpha={{c1::\\frac{3tan\\alpha-tan^3\\alpha}{1-3tan^3\\alpha} }}\\)</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "三倍角公式（了解）:<div>\\(tan3 \\alpha=<span class=\"cloze-blank\">＿＿</span>\\)</div>",
+        "知识_背面": "三倍角公式（了解）:<div>\\(tan3 \\alpha=<span class=\"cloze-answer\">\\frac{3tan\\alpha-tan^3\\alpha}{1-3tan^3\\alpha} </span>\\)</div>"
+      }
+    },
+    {
+      "id": 1531967911047,
+      "tags": [
+        "三角函数",
+        "三角恒等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "平方差公式:<br><div>{{c1::\\(\\sin(\\alpha+\\beta)\\sin(\\alpha-\\beta)\\)}}\\(=\\){{c2::\\(\\sin^2\\alpha-\\sin^2\\beta\\)}}</div><div>{{c3::\\(\\cos(\\alpha+\\beta)\\cos(\\alpha-\\beta)\\)}}\\(=\\){{c4::\\(\\cos^2\\alpha -\\sin^2\\beta\\)}}</div>",
+        "《》": "三角恒等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "平方差公式:<br><div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span>\\(=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "平方差公式:<br><div><span class=\"cloze-answer\">\\(\\sin(\\alpha+\\beta)\\sin(\\alpha-\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\sin^2\\alpha-\\sin^2\\beta\\)</span></div><div><span class=\"cloze-answer\">\\(\\cos(\\alpha+\\beta)\\cos(\\alpha-\\beta)\\)</span>\\(=\\)<span class=\"cloze-answer\">\\(\\cos^2\\alpha -\\sin^2\\beta\\)</span></div>"
+      }
+    },
+    {
+      "id": 1531967967755,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在△ABC中，有:<div>①{{c1::a&gt;b}}⇔{{c2::∠A&gt;∠B}}<div>②{{c3::\\(\\sin{(A+B)}\\)}}={{c4::\\(\\sin C\\)}}</div><div>③{{c5::\\(\\cos{(A+B)}\\)}}={{c6::\\(-\\cos C\\)}}</div><div>④{{c7::\\(\\tan A+\\tan B+\\tan C\\)}}={{c8::\\(\\tan A\\tan B\\tan C\\)}}</div><div>⑤\\(S=\\frac{1}{2}ab\\sin C=\\frac{1}{2}ac\\sin B=\\frac{1}{2}bc\\sin&nbsp; A\\)</div><div>\\(S=\\){{c9::\\(\\sqrt{p(p-a)(p-b)(p-c)}\\)}}，其中{{c9::\\(p=\\frac{a+b+c}{2}\\)}}（海伦公式）</div></div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在△ABC中，有:<div>①<span class=\"cloze-blank\">＿＿</span>⇔<span class=\"cloze-blank\">＿＿</span><div>②<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div><div>③<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div><div>④<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div><div>⑤\\(S=\\frac{1}{2}ab\\sin C=\\frac{1}{2}ac\\sin B=\\frac{1}{2}bc\\sin&nbsp; A\\)</div><div>\\(S=\\)<span class=\"cloze-blank\">＿＿</span>，其中<span class=\"cloze-blank\">＿＿</span>（海伦公式）</div></div>",
+        "知识_背面": "在△ABC中，有:<div>①<span class=\"cloze-answer\">a&gt;b</span>⇔<span class=\"cloze-answer\">∠A&gt;∠B</span><div>②<span class=\"cloze-answer\">\\(\\sin{(A+B)}\\)</span>=<span class=\"cloze-answer\">\\(\\sin C\\)</span></div><div>③<span class=\"cloze-answer\">\\(\\cos{(A+B)}\\)</span>=<span class=\"cloze-answer\">\\(-\\cos C\\)</span></div><div>④<span class=\"cloze-answer\">\\(\\tan A+\\tan B+\\tan C\\)</span>=<span class=\"cloze-answer\">\\(\\tan A\\tan B\\tan C\\)</span></div><div>⑤\\(S=\\frac{1}{2}ab\\sin C=\\frac{1}{2}ac\\sin B=\\frac{1}{2}bc\\sin&nbsp; A\\)</div><div>\\(S=\\)<span class=\"cloze-answer\">\\(\\sqrt{p(p-a)(p-b)(p-c)}\\)</span>，其中<span class=\"cloze-answer\">\\(p=\\frac{a+b+c}{2}\\)</span>（海伦公式）</div></div>"
+      }
+    },
+    {
+      "id": 1532084807569,
+      "tags": [
+        "三角函数"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "辅助角公式:<br>①保证“\\(\\sin\\)”在{{c1::前}}<div>②保证“\\(\\sin\\)”为{{c2::正}}</div><div>③系数平方和开根号，写“{{c3::\\(\\sin\\)}}”</div><div>④是x就写{{c4::x}}，是2x就写{{c4::2x}}</div><div>⑤“\\(\\cos\\)”前面是正就写{{c5::正}}，是负就写{{c5::负}}</div><div>⑥“后面”(\\(\\cos\\))系数绝对值除以“前面”(\\(\\sin\\))系数绝对值，记作</div><div>⑦为x后面角度的{{c6::\\(\\tan\\)}}值，即推出角度</div>",
+        "《》": "三角函数",
+        "评论": "",
+        "举例": "<img src='IMG_20180720_191556.jpg'/>",
+        "拓展": "",
+        "知识_正面": "辅助角公式:<br>①保证“\\(\\sin\\)”在<span class=\"cloze-blank\">＿＿</span><div>②保证“\\(\\sin\\)”为<span class=\"cloze-blank\">＿＿</span></div><div>③系数平方和开根号，写“<span class=\"cloze-blank\">＿＿</span>”</div><div>④是x就写<span class=\"cloze-blank\">＿＿</span>，是2x就写<span class=\"cloze-blank\">＿＿</span></div><div>⑤“\\(\\cos\\)”前面是正就写<span class=\"cloze-blank\">＿＿</span>，是负就写<span class=\"cloze-blank\">＿＿</span></div><div>⑥“后面”(\\(\\cos\\))系数绝对值除以“前面”(\\(\\sin\\))系数绝对值，记作</div><div>⑦为x后面角度的<span class=\"cloze-blank\">＿＿</span>值，即推出角度</div>",
+        "知识_背面": "辅助角公式:<br>①保证“\\(\\sin\\)”在<span class=\"cloze-answer\">前</span><div>②保证“\\(\\sin\\)”为<span class=\"cloze-answer\">正</span></div><div>③系数平方和开根号，写“<span class=\"cloze-answer\">\\(\\sin\\)</span>”</div><div>④是x就写<span class=\"cloze-answer\">x</span>，是2x就写<span class=\"cloze-answer\">2x</span></div><div>⑤“\\(\\cos\\)”前面是正就写<span class=\"cloze-answer\">正</span>，是负就写<span class=\"cloze-answer\">负</span></div><div>⑥“后面”(\\(\\cos\\))系数绝对值除以“前面”(\\(\\sin\\))系数绝对值，记作</div><div>⑦为x后面角度的<span class=\"cloze-answer\">\\(\\tan\\)</span>值，即推出角度</div>"
+      }
+    },
+    {
+      "id": 1532085701253,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理:<br>设\\(\\Delta ABC\\)的内角A，B，C所对边分别为a，b，c，其外接圆半径为R，则{{c1::\\(\\frac{a}{\\sin A}\\)}}={{c1::\\(\\frac{b}{\\sin B}\\)}}={{c1::\\(\\frac{c}{\\sin C}\\)}}={{c2::\\(2R\\)}}&nbsp;",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理:<br>设\\(\\Delta ABC\\)的内角A，B，C所对边分别为a，b，c，其外接圆半径为R，则<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span>&nbsp;",
+        "知识_背面": "正弦定理:<br>设\\(\\Delta ABC\\)的内角A，B，C所对边分别为a，b，c，其外接圆半径为R，则<span class=\"cloze-answer\">\\(\\frac{a}{\\sin A}\\)</span>=<span class=\"cloze-answer\">\\(\\frac{b}{\\sin B}\\)</span>=<span class=\"cloze-answer\">\\(\\frac{c}{\\sin C}\\)</span>=<span class=\"cloze-answer\">\\(2R\\)</span>&nbsp;"
+      }
+    },
+    {
+      "id": 1532085945213,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理最重要的作用是{{c1::“边角转化”}}，如\\(b^2=2ac\\Leftrightarrow \\sin^2B=2\\sin A\\sin C\\)",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理最重要的作用是<span class=\"cloze-blank\">＿＿</span>，如\\(b^2=2ac\\Leftrightarrow \\sin^2B=2\\sin A\\sin C\\)",
+        "知识_背面": "正弦定理最重要的作用是<span class=\"cloze-answer\">“边角转化”</span>，如\\(b^2=2ac\\Leftrightarrow \\sin^2B=2\\sin A\\sin C\\)"
+      }
+    },
+    {
+      "id": 1532086924478,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理最重要的作用是“边角转化”，如\\(b^2=2ac \\){{c1::\\(\\Leftrightarrow\\)}}\\(\\sin^2 B=2\\sin A\\sin C\\)",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理最重要的作用是“边角转化”，如\\(b^2=2ac \\)<span class=\"cloze-blank\">＿＿</span>\\(\\sin^2 B=2\\sin A\\sin C\\)",
+        "知识_背面": "正弦定理最重要的作用是“边角转化”，如\\(b^2=2ac \\)<span class=\"cloze-answer\">\\(\\Leftrightarrow\\)</span>\\(\\sin^2 B=2\\sin A\\sin C\\)"
+      }
+    },
+    {
+      "id": 1532087451302,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理<div>应注意:<br>①\\(b^3=2ac\\)推导{{c1::不出 }} \\(\\sin^3 B=2\\sin A\\sin C\\)</div><div></div><div>，因为{{c1::\\(b^3 \\to 3\\)次\\(\\neq 2A^1C^1 \\to 2\\)次}}</div><div>②平方较多的情况，往{{c2::边}}上转化，方便运用{{c2::余弦定理}}\\)</div><div>如:\\(\\sin^2A+\\sin^2B-\\sin^2C+\\sin A\\sin B=0 \\Rightarrow a^2+b^2-c^2＋ab=0\\)</div><div>③“自边×自角”，往{{c3::边}}上转化，如\\(a\\cdot\\sin A＋\\dots=0 \\Rightarrow a^2+\\dots=0\\)</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理<div>应注意:<br>①\\(b^3=2ac\\)推导<span class=\"cloze-blank\">＿＿</span> \\(\\sin^3 B=2\\sin A\\sin C\\)</div><div></div><div>，因为<span class=\"cloze-blank\">＿＿</span></div><div>②平方较多的情况，往<span class=\"cloze-blank\">＿＿</span>上转化，方便运用<span class=\"cloze-blank\">＿＿</span>\\)</div><div>如:\\(\\sin^2A+\\sin^2B-\\sin^2C+\\sin A\\sin B=0 \\Rightarrow a^2+b^2-c^2＋ab=0\\)</div><div>③“自边×自角”，往<span class=\"cloze-blank\">＿＿</span>上转化，如\\(a\\cdot\\sin A＋\\dots=0 \\Rightarrow a^2+\\dots=0\\)</div>",
+        "知识_背面": "正弦定理<div>应注意:<br>①\\(b^3=2ac\\)推导<span class=\"cloze-answer\">不出 </span> \\(\\sin^3 B=2\\sin A\\sin C\\)</div><div></div><div>，因为<span class=\"cloze-answer\">\\(b^3 \\to 3\\)次\\(\\neq 2A^1C^1 \\to 2\\)次</span></div><div>②平方较多的情况，往<span class=\"cloze-answer\">边</span>上转化，方便运用<span class=\"cloze-answer\">余弦定理</span>\\)</div><div>如:\\(\\sin^2A+\\sin^2B-\\sin^2C+\\sin A\\sin B=0 \\Rightarrow a^2+b^2-c^2＋ab=0\\)</div><div>③“自边×自角”，往<span class=\"cloze-answer\">边</span>上转化，如\\(a\\cdot\\sin A＋\\dots=0 \\Rightarrow a^2+\\dots=0\\)</div>"
+      }
+    },
+    {
+      "id": 1532087561931,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往{{c1::<b>边</b>}}上转化，方便运用{{c1::<b>余弦定理</b>}}</div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往<b>边</b>上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往<span class=\"cloze-blank\">＿＿</span>上转化，方便运用<span class=\"cloze-blank\">＿＿</span></div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往<b>边</b>上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>",
+        "知识_背面": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往<span class=\"cloze-answer\"><b>边</b></span>上转化，方便运用<span class=\"cloze-answer\"><b>余弦定理</b></span></div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往<b>边</b>上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>"
+      }
+    },
+    {
+      "id": 1532087619532,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往<b>边</b>上转化，方便运用<b>余弦定理</b></div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往{{c1::<b>边</b>}}上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往<b>边</b>上转化，方便运用<b>余弦定理</b></div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往<span class=\"cloze-blank\">＿＿</span>上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>",
+        "知识_背面": "正弦定理<div><font color=\"#0000ff\">应注意:<br>①b<sup>3</sup>=2ac推不出sin<sup>3</sup>B=2sin<sup></sup>AsinC，因为b<sup>3→3次≠</sup>2R<sup>1</sup>C<sup>1→共二次</sup><div>②平方较多的情况，往<b>边</b>上转化，方便运用<b>余弦定理</b></div></font></div><div>如:sin<sup>2</sup>A+sin<sup>2</sup>B-sin<sup>2</sup>C+sinAsinB=0⇒a²＋b²－c²＋ab=0</div><div>③“自边×自角”，往<span class=\"cloze-answer\"><b>边</b></span>上转化，如a·sinA＋…=0⇒a<sup>2</sup>+…=0</div>"
+      }
+    },
+    {
+      "id": 1532087732189,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "余弦定理:<br>\\(a^2=\\){{c1::\\(b^2+c^2-2bc\\cdot\\cos A\\)}}<div>\\(b^2=\\){{c1::\\(a^2+c^2-2ac\\cdot\\cos B\\)}}</div><div>\\(c^2=\\){{c1::\\(a^2+b^2-2ab\\cdot\\cos C\\)}},</div><div>认真写一遍！</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "余弦定理:<br>\\(a^2=\\)<span class=\"cloze-blank\">＿＿</span><div>\\(b^2=\\)<span class=\"cloze-blank\">＿＿</span></div><div>\\(c^2=\\)<span class=\"cloze-blank\">＿＿</span>,</div><div>认真写一遍！</div>",
+        "知识_背面": "余弦定理:<br>\\(a^2=\\)<span class=\"cloze-answer\">\\(b^2+c^2-2bc\\cdot\\cos A\\)</span><div>\\(b^2=\\)<span class=\"cloze-answer\">\\(a^2+c^2-2ac\\cdot\\cos B\\)</span></div><div>\\(c^2=\\)<span class=\"cloze-answer\">\\(a^2+b^2-2ab\\cdot\\cos C\\)</span>,</div><div>认真写一遍！</div>"
+      }
+    },
+    {
+      "id": 1532088062254,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "余弦定理:<br><div>\\(\\cos A=\\){{c1::\\(\\frac{b^2+c^2-a^2}{2bc}\\)}}</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "余弦定理:<br><div>\\(\\cos A=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "余弦定理:<br><div>\\(\\cos A=\\)<span class=\"cloze-answer\">\\(\\frac{b^2+c^2-a^2}{2bc}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532088212454,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "余弦定理:<div>\\(\\cos B=\\){{c1::\\(\\frac{a^2+c^2-b^2}{2ac}\\)}}</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "余弦定理:<div>\\(\\cos B=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "余弦定理:<div>\\(\\cos B=\\)<span class=\"cloze-answer\">\\(\\frac{a^2+c^2-b^2}{2ac}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532088251245,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "余弦定理:<br><div>\\(\\cos C=\\){{c1::\\(\\frac{a^2+b^2-c^2}{2ab}\\)}}</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "余弦定理:<br><div>\\(\\cos C=\\)<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "余弦定理:<br><div>\\(\\cos C=\\)<span class=\"cloze-answer\">\\(\\frac{a^2+b^2-c^2}{2ab}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532088277874,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在解三角形中，{{c1::面积}}问题多要使用余弦定理",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在解三角形中，<span class=\"cloze-blank\">＿＿</span>问题多要使用余弦定理",
+        "知识_背面": "在解三角形中，<span class=\"cloze-answer\">面积</span>问题多要使用余弦定理"
+      }
+    },
+    {
+      "id": 1532088399529,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在解三角形中，面积问题多要使用{{c1::余弦定理}}。",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在解三角形中，面积问题多要使用<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_背面": "在解三角形中，面积问题多要使用<span class=\"cloze-answer\">余弦定理</span>。"
+      }
+    },
+    {
+      "id": 1532164453101,
+      "tags": [
+        "解三角形"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<img src=\"media/trigonometry/IMG_20180721_171509.jpg\"><div>(关注数学思想的本质:{{c1::多变量转化为单一变量}}！)转化与化归</div>",
+        "《》": "解三角形",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<img src=\"media/trigonometry/IMG_20180721_171509.jpg\"><div>(关注数学思想的本质:<span class=\"cloze-blank\">＿＿</span>！)转化与化归</div>",
+        "知识_背面": "<img src=\"media/trigonometry/IMG_20180721_171509.jpg\"><div>(关注数学思想的本质:<span class=\"cloze-answer\">多变量转化为单一变量</span>！)转化与化归</div>"
+      }
+    },
+    {
+      "id": 1532164976769,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "平移：秘诀{{c1::“上加下减”“左加右减”}}<br>将\\(y=2\\sin(2x+\\frac{\\pi}{3})+1\\)，<div>向上平移2个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1+\\){{c2::\\(2\\)}}，</div><div>向下平移3个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1-3\\)</div><div>向左平移\\(\\frac{\\pi}{4}\\)个单位→\\(y=2\\sin[2(x+\\frac{\\pi}{4})+\\frac{\\pi}{3}]+1\\)</div><div>向右平移\\(\\frac{\\pi}{2}\\)个单位→\\(y=2\\sin[2(\\){{c3::\\(x-\\frac{\\pi}{2}\\)}})\\(+\\frac{\\pi}{3}]+1\\)</div>",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "平移：秘诀<span class=\"cloze-blank\">＿＿</span><br>将\\(y=2\\sin(2x+\\frac{\\pi}{3})+1\\)，<div>向上平移2个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1+\\)<span class=\"cloze-blank\">＿＿</span>，</div><div>向下平移3个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1-3\\)</div><div>向左平移\\(\\frac{\\pi}{4}\\)个单位→\\(y=2\\sin[2(x+\\frac{\\pi}{4})+\\frac{\\pi}{3}]+1\\)</div><div>向右平移\\(\\frac{\\pi}{2}\\)个单位→\\(y=2\\sin[2(\\)<span class=\"cloze-blank\">＿＿</span>)\\(+\\frac{\\pi}{3}]+1\\)</div>",
+        "知识_背面": "平移：秘诀<span class=\"cloze-answer\">“上加下减”“左加右减”</span><br>将\\(y=2\\sin(2x+\\frac{\\pi}{3})+1\\)，<div>向上平移2个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1+\\)<span class=\"cloze-answer\">\\(2\\)</span>，</div><div>向下平移3个单位→\\(y=2\\sin(2x+\\frac{\\pi}{3})+1-3\\)</div><div>向左平移\\(\\frac{\\pi}{4}\\)个单位→\\(y=2\\sin[2(x+\\frac{\\pi}{4})+\\frac{\\pi}{3}]+1\\)</div><div>向右平移\\(\\frac{\\pi}{2}\\)个单位→\\(y=2\\sin[2(\\)<span class=\"cloze-answer\">\\(x-\\frac{\\pi}{2}\\)</span>)\\(+\\frac{\\pi}{3}]+1\\)</div>"
+      }
+    },
+    {
+      "id": 1532165961005,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "\\(注意以下说法：\\)<br>\\(将y=f(x)向左平移\\frac{\\pi}{4}个单位得到y=2sin(2x＋\\frac{\\pi}{3})＋1，求f(x)的解析式\\)<br>\\(f(x)={{c1::y=2sin[2(x－\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1::y=2sin[2(x－\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1还是y=2sin[2(x＋\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1？}} \\)",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "\\(注意以下说法：\\)<br>\\(将y=f(x)向左平移\\frac{\\pi}{4}个单位得到y=2sin(2x＋\\frac{\\pi}{3})＋1，求f(x)的解析式\\)<br>\\(f(x)=<span class=\"cloze-blank\">＿＿</span> \\)",
+        "知识_背面": "\\(注意以下说法：\\)<br>\\(将y=f(x)向左平移\\frac{\\pi}{4}个单位得到y=2sin(2x＋\\frac{\\pi}{3})＋1，求f(x)的解析式\\)<br>\\(f(x)=<span class=\"cloze-answer\">y=2sin[2(x－\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1::y=2sin[2(x－\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1还是y=2sin[2(x＋\\frac{\\pi}{4})＋\\frac{\\pi}{3}]＋1？</span> \\)"
+      }
+    },
+    {
+      "id": 1532256360298,
+      "tags": [
+        "三角函数"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "对称轴与对称中心：<br>从正余弦函数图像知，在{{c1::对称轴}}位置函数取得{{c2::最大}}值或{{c2::最小}}值。",
+        "《》": "三角函数",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_184524.jpg'/>",
+        "拓展": "",
+        "知识_正面": "对称轴与对称中心：<br>从正余弦函数图像知，在<span class=\"cloze-blank\">＿＿</span>位置函数取得<span class=\"cloze-blank\">＿＿</span>值或<span class=\"cloze-blank\">＿＿</span>值。",
+        "知识_背面": "对称轴与对称中心：<br>从正余弦函数图像知，在<span class=\"cloze-answer\">对称轴</span>位置函数取得<span class=\"cloze-answer\">最大</span>值或<span class=\"cloze-answer\">最小</span>值。"
+      }
+    },
+    {
+      "id": 1532256391379,
+      "tags": [
+        "三角函数"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\){{c1::\\(\\frac{\\pi}{2}+k\\pi\\)}}\\(,k\\in z;\\)解出\\(x=\\dots\\)即为{{c2::对称轴}}方程</div>",
+        "《》": "三角函数",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_185456.jpg'/>",
+        "拓展": "",
+        "知识_正面": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-blank\">＿＿</span>\\(,k\\in z;\\)解出\\(x=\\dots\\)即为<span class=\"cloze-blank\">＿＿</span>方程</div>",
+        "知识_背面": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-answer\">\\(\\frac{\\pi}{2}+k\\pi\\)</span>\\(,k\\in z;\\)解出\\(x=\\dots\\)即为<span class=\"cloze-answer\">对称轴</span>方程</div>"
+      }
+    },
+    {
+      "id": 1532257258874,
+      "tags": [
+        "三角函数"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>对\\(y=A\\cos(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\){{c1::\\(k\\pi\\)}}\\(,k\\in z;\\)解出\\(x=\\dots\\)即为{{c2::对称轴}}方程。</div>",
+        "《》": "三角函数",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_190007.jpg'/>",
+        "拓展": "",
+        "知识_正面": "<div>对\\(y=A\\cos(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-blank\">＿＿</span>\\(,k\\in z;\\)解出\\(x=\\dots\\)即为<span class=\"cloze-blank\">＿＿</span>方程。</div>",
+        "知识_背面": "<div>对\\(y=A\\cos(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-answer\">\\(k\\pi\\)</span>\\(,k\\in z;\\)解出\\(x=\\dots\\)即为<span class=\"cloze-answer\">对称轴</span>方程。</div>"
+      }
+    },
+    {
+      "id": 1532257626771,
+      "tags": [
+        "三角函数"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\){{c1::\\(k\\pi\\)}},\\(k\\in z\\);解出\\(x=\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega}\\)即为{{c2::对称中心}}\\((\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega},B)\\)</div>",
+        "《》": "三角函数",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_190623.jpg'/>",
+        "拓展": "",
+        "知识_正面": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-blank\">＿＿</span>,\\(k\\in z\\);解出\\(x=\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega}\\)即为<span class=\"cloze-blank\">＿＿</span>\\((\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega},B)\\)</div>",
+        "知识_背面": "<div>对\\(y=A\\sin(\\omega x+\\phi)+B\\),令\\(\\omega x+\\phi=\\)<span class=\"cloze-answer\">\\(k\\pi\\)</span>,\\(k\\in z\\);解出\\(x=\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega}\\)即为<span class=\"cloze-answer\">对称中心</span>\\((\\frac{-\\phi}{\\omega}\\frac{k\\pi}{\\omega},B)\\)</div>"
+      }
+    },
+    {
+      "id": 1532258238950,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>对\\(y=A\\cos(\\omega{x}+\\phi)+B\\),令\\(\\omega{x}+\\phi=\\){{c1::\\({\\frac{\\pi}{2}+k\\pi}\\)}},\\(k\\in z\\); 解出\\(x=\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega}\\)即为{{c2::对称中心}}\\((\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega},B)\\)</div>",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_191440.jpg'/>",
+        "拓展": "",
+        "知识_正面": "<div>对\\(y=A\\cos(\\omega{x}+\\phi)+B\\),令\\(\\omega{x}+\\phi=\\)<span class=\"cloze-blank\">＿＿</span>,\\(k\\in z\\); 解出\\(x=\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega}\\)即为<span class=\"cloze-blank\">＿＿</span>\\((\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega},B)\\)</div>",
+        "知识_背面": "<div>对\\(y=A\\cos(\\omega{x}+\\phi)+B\\),令\\(\\omega{x}+\\phi=\\)<span class=\"cloze-answer\">\\({\\frac{\\pi}{2}+k\\pi}\\)</span>,\\(k\\in z\\); 解出\\(x=\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega}\\)即为<span class=\"cloze-answer\">对称中心</span>\\((\\frac{(-\\phi+\\frac{\\pi}{2})}{\\omega}+\\frac{k\\pi}{\\omega},B)\\)</div>"
+      }
+    },
+    {
+      "id": 1532258266288,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "单调性：<br><div>\\(y=\\sin x\\)在{{c1::\\([\\frac{-\\pi}{2}+2k\\pi,\\frac{\\pi}{2}+2k\\pi]\\)}}上单调{{c2::递增}}，在{{c3::\\([\\frac{\\pi}{2}+2k\\pi,\\frac{3\\pi}{2}+2k\\pi]\\)}}上单调{{c4::递减}}。</div>",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "单调性：<br><div>\\(y=\\sin x\\)在<span class=\"cloze-blank\">＿＿</span>上单调<span class=\"cloze-blank\">＿＿</span>，在<span class=\"cloze-blank\">＿＿</span>上单调<span class=\"cloze-blank\">＿＿</span>。</div>",
+        "知识_背面": "单调性：<br><div>\\(y=\\sin x\\)在<span class=\"cloze-answer\">\\([\\frac{-\\pi}{2}+2k\\pi,\\frac{\\pi}{2}+2k\\pi]\\)</span>上单调<span class=\"cloze-answer\">递增</span>，在<span class=\"cloze-answer\">\\([\\frac{\\pi}{2}+2k\\pi,\\frac{3\\pi}{2}+2k\\pi]\\)</span>上单调<span class=\"cloze-answer\">递减</span>。</div>"
+      }
+    },
+    {
+      "id": 1532258518031,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(y=\\cos x\\)在{{c1::\\([-\\pi+2k\\pi,2k\\pi]\\)}}上单调{{c2::递增}}，在{{c3::\\([2k\\pi,\\pi+2k\\pi]\\)}}上单调{{c4::递减}}。</div>",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(y=\\cos x\\)在<span class=\"cloze-blank\">＿＿</span>上单调<span class=\"cloze-blank\">＿＿</span>，在<span class=\"cloze-blank\">＿＿</span>上单调<span class=\"cloze-blank\">＿＿</span>。</div>",
+        "知识_背面": "<div>\\(y=\\cos x\\)在<span class=\"cloze-answer\">\\([-\\pi+2k\\pi,2k\\pi]\\)</span>上单调<span class=\"cloze-answer\">递增</span>，在<span class=\"cloze-answer\">\\([2k\\pi,\\pi+2k\\pi]\\)</span>上单调<span class=\"cloze-answer\">递减</span>。</div>"
+      }
+    },
+    {
+      "id": 1532258626487,
+      "tags": [
+        "三角函数",
+        "三角函数图像"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "单调性：<br>对任意三角函数应先将{{c1::“\\(\\omega\\)”}}化为正，如\\(y=-\\sin(-2x＋\\frac{\\pi}{3})\\)，应该化成：\\(y=\\sin(2x-\\frac{\\pi}{3})\\)，再如\\(y=-\\cos(-2x＋\\frac{\\pi}{6})\\)化成\\(y=-\\cos(2x-\\frac{\\pi}{6})\\)再求其{{c2::单调区间}}。",
+        "《》": "三角函数图像",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "单调性：<br>对任意三角函数应先将<span class=\"cloze-blank\">＿＿</span>化为正，如\\(y=-\\sin(-2x＋\\frac{\\pi}{3})\\)，应该化成：\\(y=\\sin(2x-\\frac{\\pi}{3})\\)，再如\\(y=-\\cos(-2x＋\\frac{\\pi}{6})\\)化成\\(y=-\\cos(2x-\\frac{\\pi}{6})\\)再求其<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_背面": "单调性：<br>对任意三角函数应先将<span class=\"cloze-answer\">“\\(\\omega\\)”</span>化为正，如\\(y=-\\sin(-2x＋\\frac{\\pi}{3})\\)，应该化成：\\(y=\\sin(2x-\\frac{\\pi}{3})\\)，再如\\(y=-\\cos(-2x＋\\frac{\\pi}{6})\\)化成\\(y=-\\cos(2x-\\frac{\\pi}{6})\\)再求其<span class=\"cloze-answer\">单调区间</span>。"
+      }
+    },
+    {
+      "id": 1532260874748,
+      "tags": [
+        "向量基本定理",
+        "解三角形",
+        "三角形中线"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div><div>\\(\\overrightarrow{AD}=\\){{c1::\\(\\frac{1}{2}(\\overrightarrow{AB}+\\overrightarrow{AC})\\)}}</div><div>\\(|\\overrightarrow{AD}|^2=\\frac{1}{4}(\\overrightarrow{AB}+\\overrightarrow{AC})^2\\)</div><div>\\(=\\frac{1}{4}(\\overrightarrow{AB}^2+2\\overrightarrow{AB}\\cdot \\overrightarrow{AC}+\\overrightarrow{AC}^2)\\)</div><div>\\(\\Rightarrow4|AD|^2=|AB|^2+|AC|^2+2|AB||AC|\\cos A\\dots\\)①</div><div>再用余弦定理:</div></div><div>\\(|BC|^2=|AB|^2+|AC|^2-2|AB||AC|\\cos A\\dots\\)②</div><div>注意到{{c2::\\(|BC|=2|BD|\\)}}</div><div>\\(\\therefore|BC|^2=4|BD|^2 \\)</div><div>①＋②得：{{c3::\\(|AB|^2+|AC|^2=2(|AD|^2+|BD|^2)\\)}}(中线公式)</div><div>①-②得：\\(|AB||AC|\\cos A=|AD|^2-|BD|^2\\)</div><div>\\(\\therefore \\){{c4::\\(\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=|AD|^2-|BD|^2\\)}}（向量恒等式(GODWEAPON)）</div>",
+        "《》": "三角形中线",
+        "评论": "",
+        "举例": "<img src='IMG_20180722_193147.jpg'/>",
+        "拓展": "",
+        "知识_正面": "<div><div>\\(\\overrightarrow{AD}=\\)<span class=\"cloze-blank\">＿＿</span></div><div>\\(|\\overrightarrow{AD}|^2=\\frac{1}{4}(\\overrightarrow{AB}+\\overrightarrow{AC})^2\\)</div><div>\\(=\\frac{1}{4}(\\overrightarrow{AB}^2+2\\overrightarrow{AB}\\cdot \\overrightarrow{AC}+\\overrightarrow{AC}^2)\\)</div><div>\\(\\Rightarrow4|AD|^2=|AB|^2+|AC|^2+2|AB||AC|\\cos A\\dots\\)①</div><div>再用余弦定理:</div></div><div>\\(|BC|^2=|AB|^2+|AC|^2-2|AB||AC|\\cos A\\dots\\)②</div><div>注意到<span class=\"cloze-blank\">＿＿</span></div><div>\\(\\therefore|BC|^2=4|BD|^2 \\)</div><div>①＋②得：<span class=\"cloze-blank\">＿＿</span>(中线公式)</div><div>①-②得：\\(|AB||AC|\\cos A=|AD|^2-|BD|^2\\)</div><div>\\(\\therefore \\)<span class=\"cloze-blank\">＿＿</span>（向量恒等式(GODWEAPON)）</div>",
+        "知识_背面": "<div><div>\\(\\overrightarrow{AD}=\\)<span class=\"cloze-answer\">\\(\\frac{1}{2}(\\overrightarrow{AB}+\\overrightarrow{AC})\\)</span></div><div>\\(|\\overrightarrow{AD}|^2=\\frac{1}{4}(\\overrightarrow{AB}+\\overrightarrow{AC})^2\\)</div><div>\\(=\\frac{1}{4}(\\overrightarrow{AB}^2+2\\overrightarrow{AB}\\cdot \\overrightarrow{AC}+\\overrightarrow{AC}^2)\\)</div><div>\\(\\Rightarrow4|AD|^2=|AB|^2+|AC|^2+2|AB||AC|\\cos A\\dots\\)①</div><div>再用余弦定理:</div></div><div>\\(|BC|^2=|AB|^2+|AC|^2-2|AB||AC|\\cos A\\dots\\)②</div><div>注意到<span class=\"cloze-answer\">\\(|BC|=2|BD|\\)</span></div><div>\\(\\therefore|BC|^2=4|BD|^2 \\)</div><div>①＋②得：<span class=\"cloze-answer\">\\(|AB|^2+|AC|^2=2(|AD|^2+|BD|^2)\\)</span>(中线公式)</div><div>①-②得：\\(|AB||AC|\\cos A=|AD|^2-|BD|^2\\)</div><div>\\(\\therefore \\)<span class=\"cloze-answer\">\\(\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=|AD|^2-|BD|^2\\)</span>（向量恒等式(GODWEAPON)）</div>"
+      }
+    },
+    {
+      "id": 1532261158089,
+      "tags": [
+        "三角函数",
+        "积化和差公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::\\(\\sin\\alpha \\cos\\beta\\)}}={{c2::\\(\\frac{1}{2}[\\sin(\\alpha+\\beta)+\\sin(\\alpha-\\beta)]\\)}}",
+        "《》": "积化和差公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">\\(\\sin\\alpha \\cos\\beta\\)</span>=<span class=\"cloze-answer\">\\(\\frac{1}{2}[\\sin(\\alpha+\\beta)+\\sin(\\alpha-\\beta)]\\)</span>"
+      }
+    },
+    {
+      "id": 1532261170970,
+      "tags": [
+        "三角函数",
+        "积化和差公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos\\alpha \\sin\\beta\\)}}={{c2::\\(\\frac{1}{2}[\\sin(\\alpha+\\beta)-\\sin(\\alpha-\\beta)]\\)}}</div>",
+        "《》": "积化和差公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos\\alpha \\sin\\beta\\)</span>=<span class=\"cloze-answer\">\\(\\frac{1}{2}[\\sin(\\alpha+\\beta)-\\sin(\\alpha-\\beta)]\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261220947,
+      "tags": [
+        "三角函数",
+        "积化和差公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos\\alpha \\cos\\beta\\)}}={{c2::\\(\\frac{1}{2}[\\cos(\\alpha+\\beta)+\\cos(\\alpha-\\beta)]\\)}}</div>",
+        "《》": "积化和差公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos\\alpha \\cos\\beta\\)</span>=<span class=\"cloze-answer\">\\(\\frac{1}{2}[\\cos(\\alpha+\\beta)+\\cos(\\alpha-\\beta)]\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261317350,
+      "tags": [
+        "三角函数",
+        "积化和差公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin\\alpha \\sin\\beta\\)}}={{c2::\\(-\\frac{1}{2}[\\cos(\\alpha+\\beta)-\\cos(\\alpha-\\beta)]\\)}}</div>",
+        "《》": "积化和差公式",
+        "评论": "注意符号！",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin\\alpha \\sin\\beta\\)</span>=<span class=\"cloze-answer\">\\(-\\frac{1}{2}[\\cos(\\alpha+\\beta)-\\cos(\\alpha-\\beta)]\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261496019,
+      "tags": [
+        "三角函数",
+        "和差化积公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin\\alpha+\\sin\\beta\\)}}={{c2::\\(2\\sin\\frac{\\alpha+\\beta}{2}\\cos\\frac{\\alpha-\\beta}{2}\\)}}</div>",
+        "《》": "和差化积公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin\\alpha+\\sin\\beta\\)</span>=<span class=\"cloze-answer\">\\(2\\sin\\frac{\\alpha+\\beta}{2}\\cos\\frac{\\alpha-\\beta}{2}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261669290,
+      "tags": [
+        "三角函数",
+        "和差化积公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\sin\\alpha-\\sin\\beta\\)}}={{c2::\\(2\\cos\\frac{\\alpha+\\beta}{2}\\sin\\frac{\\alpha-\\beta}{2}\\)}}</div>",
+        "《》": "和差化积公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\sin\\alpha-\\sin\\beta\\)</span>=<span class=\"cloze-answer\">\\(2\\cos\\frac{\\alpha+\\beta}{2}\\sin\\frac{\\alpha-\\beta}{2}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261716857,
+      "tags": [
+        "三角函数",
+        "和差化积公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos\\alpha+\\cos\\beta\\)}}={{c2::\\(2\\cos\\frac{\\alpha+\\beta}{2} \\cos\\frac{\\alpha-\\beta}{2}\\)}}</div>",
+        "《》": "和差化积公式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos\\alpha+\\cos\\beta\\)</span>=<span class=\"cloze-answer\">\\(2\\cos\\frac{\\alpha+\\beta}{2} \\cos\\frac{\\alpha-\\beta}{2}\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261770347,
+      "tags": [
+        "三角函数",
+        "和差化积公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>{{c1::\\(\\cos\\alpha-\\cos\\beta\\)}}={{c2::\\(-2{\\sin\\frac{\\alpha+\\beta}{2} }{\\sin\\frac{\\alpha-\\beta}{2} }\\)}}</div>",
+        "《》": "和差化积公式",
+        "评论": "注意符号！",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div><span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div><span class=\"cloze-answer\">\\(\\cos\\alpha-\\cos\\beta\\)</span>=<span class=\"cloze-answer\">\\(-2{\\sin\\frac{\\alpha+\\beta}{2} }{\\sin\\frac{\\alpha-\\beta}{2} }\\)</span></div>"
+      }
+    },
+    {
+      "id": 1532261825244,
+      "tags": [
+        "三角函数",
+        "四个三角不等式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>①若\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则{{c1::\\(\\sin\\alpha&lt;\\alpha\\)}}</div><div>②\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则{{c2::\\(\\sin\\alpha+\\tan\\alpha&gt;2\\alpha\\)}}</div><div>③\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\),则{{c3::\\(\\frac{\\tan\\alpha}{\\alpha}&gt;\\frac{\\alpha}{\\sin\\alpha}\\)}}</div><div>④\\(0&lt;\\alpha&lt;\\beta&lt;\\frac{\\pi}{2}\\),则{{c4::\\(\\frac{\\tan\\beta}{\\tan\\alpha}&gt;\\frac{\\beta}{\\alpha}\\)}}</div>",
+        "《》": "四个三角不等式",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>①若\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则<span class=\"cloze-blank\">＿＿</span></div><div>②\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则<span class=\"cloze-blank\">＿＿</span></div><div>③\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\),则<span class=\"cloze-blank\">＿＿</span></div><div>④\\(0&lt;\\alpha&lt;\\beta&lt;\\frac{\\pi}{2}\\),则<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "<div>①若\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则<span class=\"cloze-answer\">\\(\\sin\\alpha&lt;\\alpha\\)</span></div><div>②\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\)，则<span class=\"cloze-answer\">\\(\\sin\\alpha+\\tan\\alpha&gt;2\\alpha\\)</span></div><div>③\\(0&lt;\\alpha&lt;\\frac{\\pi}{2}\\),则<span class=\"cloze-answer\">\\(\\frac{\\tan\\alpha}{\\alpha}&gt;\\frac{\\alpha}{\\sin\\alpha}\\)</span></div><div>④\\(0&lt;\\alpha&lt;\\beta&lt;\\frac{\\pi}{2}\\),则<span class=\"cloze-answer\">\\(\\frac{\\tan\\beta}{\\tan\\alpha}&gt;\\frac{\\beta}{\\alpha}\\)</span></div>"
+      }
+    }
+  ]
+}

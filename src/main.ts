@@ -38,6 +38,7 @@ const TOPICS: TopicEntry[] = [
   { id: "genetics-evolution", name: "生物::遗传与进化", file: "./data/genetics-evolution.json" },
   { id: "homeostasis-environment", name: "生物::稳态与环境", file: "./data/homeostasis-environment.json" },
   { id: "number-sequences", name: "数学::数列", file: "./data/number-sequences.json" },
+  { id: "trigonometry", name: "数学::三角函数及解三角形", file: "./data/trigonometry.json" },
 ];
 
 // ========== 全局状态 ==========
