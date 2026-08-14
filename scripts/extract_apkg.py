@@ -90,20 +90,20 @@ def is_dirty_tag(text: str) -> bool:
     return False
 
 
-def cloze_split(text: str):
-    """Split {{cN::answer}} into (blank_version, answer_version)."""
-    blank = re.sub(
-        r"\{\{c\d+::(.*?)\}\}",
-        r'<span class="cloze-blank">＿＿</span>',
-        text,
-        flags=re.S,
-    )
-    answer = re.sub(
-        r"\{\{c\d+::(.*?)\}\}",
-        r'<span class="cloze-answer">\1</span>',
-        text,
-        flags=re.S,
-    )
+def make_cloze_versions(text: str, target_cid: str):
+    """Generate (blank_version, answer_version) for ONE cloze card.
+    target_cid: only this cloze id is blanked; other ids show their answers.
+    This mirrors Anki semantics — each {{cN::...}} is a separate card."""
+    def repl_blank(m):
+        if m.group(1) != target_cid:
+            return f'<span class="cloze-answer">{m.group(2)}</span>'
+        return '<span class="cloze-blank">＿＿</span>'
+
+    def repl_answer(m):
+        return f'<span class="cloze-answer">{m.group(2)}</span>'
+
+    blank = re.sub(r"\{\{c(\d+)::(.*?)\}\}", repl_blank, text, flags=re.S)
+    answer = re.sub(r"\{\{c(\d+)::(.*?)\}\}", repl_answer, text, flags=re.S)
     return blank, answer
 
 
@@ -184,14 +184,7 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
         for i, fname in enumerate(field_names):
             fields[fname] = values[i] if i < len(values) else ""
 
-        # cloze preprocessing
-        for cf in rule["cloze_fields"]:
-            if cf in fields and "{{c" in fields[cf]:
-                blank_v, ans_v = cloze_split(fields[cf])
-                fields[f"{cf}_正面"] = blank_v
-                fields[f"{cf}_背面"] = ans_v
-
-        # rewrite image refs
+        # rewrite image refs（先做，cloze 拆分会继承重写后的内容）
         for fname, val in fields.items():
             if "<img" in val:
                 def replace_img(m):
@@ -217,12 +210,41 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
             if chapter not in tags and not is_dirty_tag(chapter):
                 tags.append(chapter)
 
-        cards.append({
-            "id": note_id,
-            "tags": tags,
-            "cardTypeIds": [rule["card_type_id"]],
-            "fields": fields,
-        })
+        # cloze 拆分：每个 {{cN::...}} 编号生成一张独立卡片
+        if rule["cloze_fields"]:
+            cf = rule["cloze_fields"][0]
+            zhishi = fields.get(cf, "")
+            cloze_ids = sorted(set(re.findall(r"\{\{c(\d+)::", zhishi)))
+            if cloze_ids:
+                for idx, cid in enumerate(cloze_ids):
+                    blank_v, ans_v = make_cloze_versions(zhishi, cid)
+                    card_fields = dict(fields)
+                    card_fields[f"{cf}_正面"] = blank_v
+                    card_fields[f"{cf}_背面"] = ans_v
+                    cards.append({
+                        "id": note_id * 100 + idx,
+                        "tags": tags,
+                        "cardTypeIds": [rule["card_type_id"]],
+                        "fields": card_fields,
+                    })
+            else:
+                # 无 cloze 的填空：正面=背面=原文
+                card_fields = dict(fields)
+                card_fields[f"{cf}_正面"] = zhishi
+                card_fields[f"{cf}_背面"] = zhishi
+                cards.append({
+                    "id": note_id,
+                    "tags": tags,
+                    "cardTypeIds": [rule["card_type_id"]],
+                    "fields": card_fields,
+                })
+        else:
+            cards.append({
+                "id": note_id,
+                "tags": tags,
+                "cardTypeIds": [rule["card_type_id"]],
+                "fields": fields,
+            })
 
     conn.close()
 

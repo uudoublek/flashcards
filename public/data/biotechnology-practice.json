@@ -1085,7 +1085,7 @@
       }
     },
     {
-      "id": 1492846406841,
+      "id": 149284640684100,
       "tags": [
         "生物选修1",
         "生物选修一微生物的实验室培养",
@@ -2131,7 +2131,7 @@
       }
     },
     {
-      "id": 1492848185862,
+      "id": 149284818586200,
       "tags": [
         "生物选修1",
         "生物选修一土壤中分解尿素的细菌的分离与计数",
@@ -4381,7 +4381,7 @@
       }
     },
     {
-      "id": 1521125880699,
+      "id": 152112588069900,
       "tags": [
         "生物选修1",
         "生物选修一制作泡菜",
@@ -4396,12 +4396,112 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "在<span class=\"cloze-blank\">＿＿</span>条件下，亚硝酸盐与<span class=\"cloze-blank\">＿＿</span>发生<span class=\"cloze-blank\">＿＿</span>反应后，与<span class=\"cloze-blank\">＿＿</span>结合形成<span class=\"cloze-blank\">＿＿</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-blank\">＿＿</span></b>泡菜中亚硝酸盐含量。",
+        "知识_正面": "在<span class=\"cloze-blank\">＿＿</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。",
         "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
       }
     },
     {
-      "id": 1521592808942,
+      "id": 152112588069901,
+      "tags": [
+        "生物选修1",
+        "生物选修一制作泡菜",
+        "生物选修1-制作泡菜"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在{{c1::盐酸酸化}}条件下，亚硝酸盐与{{c2::对氨基苯磺酸}}发生{{c3::重氮化}}反应后，与{{c4::N-1-萘基乙二胺盐酸盐}}结合形成{{c5::玫瑰红色染料}}。与已知浓度的标准显色液目测比较，<b>{{c6::估算}}</b>泡菜中亚硝酸盐含量。",
+        "《》": "生物选修1-制作泡菜",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-blank\">＿＿</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。",
+        "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
+      }
+    },
+    {
+      "id": 152112588069902,
+      "tags": [
+        "生物选修1",
+        "生物选修一制作泡菜",
+        "生物选修1-制作泡菜"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在{{c1::盐酸酸化}}条件下，亚硝酸盐与{{c2::对氨基苯磺酸}}发生{{c3::重氮化}}反应后，与{{c4::N-1-萘基乙二胺盐酸盐}}结合形成{{c5::玫瑰红色染料}}。与已知浓度的标准显色液目测比较，<b>{{c6::估算}}</b>泡菜中亚硝酸盐含量。",
+        "《》": "生物选修1-制作泡菜",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-blank\">＿＿</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。",
+        "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
+      }
+    },
+    {
+      "id": 152112588069903,
+      "tags": [
+        "生物选修1",
+        "生物选修一制作泡菜",
+        "生物选修1-制作泡菜"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在{{c1::盐酸酸化}}条件下，亚硝酸盐与{{c2::对氨基苯磺酸}}发生{{c3::重氮化}}反应后，与{{c4::N-1-萘基乙二胺盐酸盐}}结合形成{{c5::玫瑰红色染料}}。与已知浓度的标准显色液目测比较，<b>{{c6::估算}}</b>泡菜中亚硝酸盐含量。",
+        "《》": "生物选修1-制作泡菜",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-blank\">＿＿</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。",
+        "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
+      }
+    },
+    {
+      "id": 152112588069904,
+      "tags": [
+        "生物选修1",
+        "生物选修一制作泡菜",
+        "生物选修1-制作泡菜"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在{{c1::盐酸酸化}}条件下，亚硝酸盐与{{c2::对氨基苯磺酸}}发生{{c3::重氮化}}反应后，与{{c4::N-1-萘基乙二胺盐酸盐}}结合形成{{c5::玫瑰红色染料}}。与已知浓度的标准显色液目测比较，<b>{{c6::估算}}</b>泡菜中亚硝酸盐含量。",
+        "《》": "生物选修1-制作泡菜",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-blank\">＿＿</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。",
+        "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
+      }
+    },
+    {
+      "id": 152112588069905,
+      "tags": [
+        "生物选修1",
+        "生物选修一制作泡菜",
+        "生物选修1-制作泡菜"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在{{c1::盐酸酸化}}条件下，亚硝酸盐与{{c2::对氨基苯磺酸}}发生{{c3::重氮化}}反应后，与{{c4::N-1-萘基乙二胺盐酸盐}}结合形成{{c5::玫瑰红色染料}}。与已知浓度的标准显色液目测比较，<b>{{c6::估算}}</b>泡菜中亚硝酸盐含量。",
+        "《》": "生物选修1-制作泡菜",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-blank\">＿＿</span></b>泡菜中亚硝酸盐含量。",
+        "知识_背面": "在<span class=\"cloze-answer\">盐酸酸化</span>条件下，亚硝酸盐与<span class=\"cloze-answer\">对氨基苯磺酸</span>发生<span class=\"cloze-answer\">重氮化</span>反应后，与<span class=\"cloze-answer\">N-1-萘基乙二胺盐酸盐</span>结合形成<span class=\"cloze-answer\">玫瑰红色染料</span>。与已知浓度的标准显色液目测比较，<b><span class=\"cloze-answer\">估算</span></b>泡菜中亚硝酸盐含量。"
+      }
+    },
+    {
+      "id": 152159280894200,
       "tags": [
         "生物选修1",
         "生物选修一分解纤维素的微生物的分离",
@@ -4416,12 +4516,32 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>的操作：<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>的操作：<span class=\"cloze-answer\">将xxx加入培养液中，振荡培养至培养液变混浊，再吸取一定量的培养液移入新的培养液中重复多次。</span>",
         "知识_背面": "<span class=\"cloze-answer\">选择培养</span>的操作：<span class=\"cloze-answer\">将xxx加入培养液中，振荡培养至培养液变混浊，再吸取一定量的培养液移入新的培养液中重复多次。</span>"
       }
     },
     {
-      "id": 1523402865775,
+      "id": 152159280894201,
+      "tags": [
+        "生物选修1",
+        "生物选修一分解纤维素的微生物的分离",
+        "生物选修1-分解纤维素的微生物的分离"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::选择培养}}的操作：{{c2::将xxx加入培养液中，振荡培养至培养液变混浊，再吸取一定量的培养液移入新的培养液中重复多次。}}",
+        "《》": "生物选修1-分解纤维素的微生物的分离",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">选择培养</span>的操作：<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">选择培养</span>的操作：<span class=\"cloze-answer\">将xxx加入培养液中，振荡培养至培养液变混浊，再吸取一定量的培养液移入新的培养液中重复多次。</span>"
+      }
+    },
+    {
+      "id": 152340286577500,
       "tags": [
         "生物选修1",
         "生物选修一胡萝卜素的提取",
@@ -4479,7 +4599,7 @@
       }
     },
     {
-      "id": 1523575109171,
+      "id": 152357510917100,
       "tags": [
         "生物选修1",
         "生物选修一分解纤维素的微生物的分离",
@@ -4499,7 +4619,7 @@
       }
     },
     {
-      "id": 1524837849188,
+      "id": 152483784918800,
       "tags": [
         "生物选修1",
         "生物选修一微生物的实验室培养",
@@ -4514,7 +4634,27 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "培养基制作需要满足的条件包括：<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "培养基制作需要满足的条件包括：<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">无菌</span>",
+        "知识_背面": "培养基制作需要满足的条件包括：<span class=\"cloze-answer\">pH</span>、<span class=\"cloze-answer\">无菌</span>"
+      }
+    },
+    {
+      "id": 152483784918801,
+      "tags": [
+        "生物选修1",
+        "生物选修一微生物的实验室培养",
+        "生物选修1-微生物的实验室培养"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "培养基制作需要满足的条件包括：{{c1::pH}}、{{c2::无菌}}",
+        "《》": "生物选修1-微生物的实验室培养",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "培养基制作需要满足的条件包括：<span class=\"cloze-answer\">pH</span>、<span class=\"cloze-blank\">＿＿</span>",
         "知识_背面": "培养基制作需要满足的条件包括：<span class=\"cloze-answer\">pH</span>、<span class=\"cloze-answer\">无菌</span>"
       }
     },
@@ -4555,7 +4695,7 @@
       }
     },
     {
-      "id": 1525959696144,
+      "id": 152595969614400,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4566,12 +4706,28 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "配置培养基时，在各成分都溶化后和分装前，要进行的是<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "配置培养基时，在各成分都溶化后和分装前，要进行的是<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-answer\">灭菌</span>",
         "知识_背面": "配置培养基时，在各成分都溶化后和分装前，要进行的是<span class=\"cloze-answer\">调整pH</span>和<span class=\"cloze-answer\">灭菌</span>"
       }
     },
     {
-      "id": 1525959813362,
+      "id": 152595969614401,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "配置培养基时，在各成分都溶化后和分装前，要进行的是{{c1::调整pH}}和{{c2::灭菌}}",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "配置培养基时，在各成分都溶化后和分装前，要进行的是<span class=\"cloze-answer\">调整pH</span>和<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "配置培养基时，在各成分都溶化后和分装前，要进行的是<span class=\"cloze-answer\">调整pH</span>和<span class=\"cloze-answer\">灭菌</span>"
+      }
+    },
+    {
+      "id": 152595981336200,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4587,7 +4743,7 @@
       }
     },
     {
-      "id": 1525959867691,
+      "id": 152595986769100,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4598,12 +4754,28 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "为了提高果醋产量，发酵过程中必须提供<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>等条件。",
+        "知识_正面": "为了提高果醋产量，发酵过程中必须提供<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">适宜的pH</span>等条件。",
         "知识_背面": "为了提高果醋产量，发酵过程中必须提供<span class=\"cloze-answer\">充足的氧气</span>、<span class=\"cloze-answer\">适宜的pH</span>等条件。"
       }
     },
     {
-      "id": 1525960027228,
+      "id": 152595986769101,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "为了提高果醋产量，发酵过程中必须提供{{c1::充足的氧气}}、{{c2::适宜的pH}}等条件。",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "为了提高果醋产量，发酵过程中必须提供<span class=\"cloze-answer\">充足的氧气</span>、<span class=\"cloze-blank\">＿＿</span>等条件。",
+        "知识_背面": "为了提高果醋产量，发酵过程中必须提供<span class=\"cloze-answer\">充足的氧气</span>、<span class=\"cloze-answer\">适宜的pH</span>等条件。"
+      }
+    },
+    {
+      "id": 152596002722800,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4649,7 +4821,7 @@
       }
     },
     {
-      "id": 1526182055404,
+      "id": 152618205540400,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4660,7 +4832,55 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-blank\">＿＿</span><div>2.<span class=\"cloze-blank\">＿＿</span></div><div>3.<span class=\"cloze-blank\">＿＿</span></div><div>4.<span class=\"cloze-blank\">＿＿</span></div></div>",
+        "知识_正面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-blank\">＿＿</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>",
+        "知识_背面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>"
+      }
+    },
+    {
+      "id": 152618205540401,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "制作腐乳时食盐的作用<div>1.{{c1::抑制微生物的生长，避免腐败变质}}<div>2.{{c2::析出水分，使豆腐变硬，在后期制作过程中不易酥烂}}</div><div>3.{{c3::调味作用，给腐乳以必要的咸味}}</div><div>4.{{c4::浸提毛霉菌丝上的蛋白酶。}}</div></div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-blank\">＿＿</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>",
+        "知识_背面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>"
+      }
+    },
+    {
+      "id": 152618205540402,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "制作腐乳时食盐的作用<div>1.{{c1::抑制微生物的生长，避免腐败变质}}<div>2.{{c2::析出水分，使豆腐变硬，在后期制作过程中不易酥烂}}</div><div>3.{{c3::调味作用，给腐乳以必要的咸味}}</div><div>4.{{c4::浸提毛霉菌丝上的蛋白酶。}}</div></div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-blank\">＿＿</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>",
+        "知识_背面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>"
+      }
+    },
+    {
+      "id": 152618205540403,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "制作腐乳时食盐的作用<div>1.{{c1::抑制微生物的生长，避免腐败变质}}<div>2.{{c2::析出水分，使豆腐变硬，在后期制作过程中不易酥烂}}</div><div>3.{{c3::调味作用，给腐乳以必要的咸味}}</div><div>4.{{c4::浸提毛霉菌丝上的蛋白酶。}}</div></div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-blank\">＿＿</span></div></div>",
         "知识_背面": "制作腐乳时食盐的作用<div>1.<span class=\"cloze-answer\">抑制微生物的生长，避免腐败变质</span><div>2.<span class=\"cloze-answer\">析出水分，使豆腐变硬，在后期制作过程中不易酥烂</span></div><div>3.<span class=\"cloze-answer\">调味作用，给腐乳以必要的咸味</span></div><div>4.<span class=\"cloze-answer\">浸提毛霉菌丝上的蛋白酶。</span></div></div>"
       }
     },
@@ -4680,7 +4900,7 @@
       }
     },
     {
-      "id": 1526306270305,
+      "id": 152630627030500,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4711,7 +4931,7 @@
       }
     },
     {
-      "id": 1527555374365,
+      "id": 152755537436500,
       "tags": [],
       "cardTypeIds": [
         "cloze"

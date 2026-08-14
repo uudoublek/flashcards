@@ -441,7 +441,7 @@
       }
     },
     {
-      "id": 1387487724711,
+      "id": 138748772471100,
       "tags": [
         "生物必修3"
       ],
@@ -578,7 +578,7 @@
       }
     },
     {
-      "id": 1388495733376,
+      "id": 138849573337600,
       "tags": [
         "生物必修3"
       ],
@@ -732,7 +732,7 @@
       }
     },
     {
-      "id": 1389186649755,
+      "id": 138918664975500,
       "tags": [
         "生物必修3"
       ],
@@ -745,7 +745,79 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-blank\">＿＿</span><br />1910 鲍森詹森 <span class=\"cloze-blank\">＿＿</span><br />1914 拜尔 <span class=\"cloze-blank\">＿＿</span><br />1928 温特 <span class=\"cloze-blank\">＿＿</span><br />1931 <span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-blank\">＿＿</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>",
+        "知识_背面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>"
+      }
+    },
+    {
+      "id": 138918664975501,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生长素的发现历程来一遍：<div>19世纪 达尔文 {{c1::金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”}}<br />1910 鲍森詹森 {{c2::影响可透过琼脂片传递}}<br />1914 拜尔 {{c3::黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均}}<br />1928 温特 {{c4::燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起}}<br />1931 {{c5::尿液 分离 IAA}}</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-blank\">＿＿</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>",
+        "知识_背面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>"
+      }
+    },
+    {
+      "id": 138918664975502,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生长素的发现历程来一遍：<div>19世纪 达尔文 {{c1::金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”}}<br />1910 鲍森詹森 {{c2::影响可透过琼脂片传递}}<br />1914 拜尔 {{c3::黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均}}<br />1928 温特 {{c4::燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起}}<br />1931 {{c5::尿液 分离 IAA}}</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-blank\">＿＿</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>",
+        "知识_背面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>"
+      }
+    },
+    {
+      "id": 138918664975503,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生长素的发现历程来一遍：<div>19世纪 达尔文 {{c1::金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”}}<br />1910 鲍森詹森 {{c2::影响可透过琼脂片传递}}<br />1914 拜尔 {{c3::黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均}}<br />1928 温特 {{c4::燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起}}<br />1931 {{c5::尿液 分离 IAA}}</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-blank\">＿＿</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>",
+        "知识_背面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>"
+      }
+    },
+    {
+      "id": 138918664975504,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生长素的发现历程来一遍：<div>19世纪 达尔文 {{c1::金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”}}<br />1910 鲍森詹森 {{c2::影响可透过琼脂片传递}}<br />1914 拜尔 {{c3::黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均}}<br />1928 温特 {{c4::燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起}}<br />1931 {{c5::尿液 分离 IAA}}</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-blank\">＿＿</span></div>",
         "知识_背面": "生长素的发现历程来一遍：<div>19世纪 达尔文 <span class=\"cloze-answer\">金丝雀虉草 胚芽鞘尖端受光刺激传递“影响”</span><br />1910 鲍森詹森 <span class=\"cloze-answer\">影响可透过琼脂片传递</span><br />1914 拜尔 <span class=\"cloze-answer\">黑暗里胚芽鞘放在不同端，异端弯曲→前段影响分布不均</span><br />1928 温特 <span class=\"cloze-answer\">燕麦胚芽鞘放在琼脂块上用琼脂块小块重复拜尔→证明是一种化学物质引起</span><br />1931 <span class=\"cloze-answer\">尿液 分离 IAA</span></div>"
       }
     },
@@ -1311,7 +1383,7 @@
       }
     },
     {
-      "id": 1392900912576,
+      "id": 139290091257600,
       "tags": [
         "生物必修3"
       ],
@@ -1346,7 +1418,7 @@
       }
     },
     {
-      "id": 1394371469146,
+      "id": 139437146914600,
       "tags": [
         "生物必修3"
       ],
@@ -1449,7 +1521,7 @@
       }
     },
     {
-      "id": 1398427482726,
+      "id": 139842748272600,
       "tags": [
         "生物必修3"
       ],
@@ -3216,7 +3288,7 @@
       }
     },
     {
-      "id": 1515913052643,
+      "id": 151591305264300,
       "tags": [
         "生物必修3"
       ],
@@ -3625,7 +3697,7 @@
       }
     },
     {
-      "id": 1515916715089,
+      "id": 151591671508900,
       "tags": [
         "生物必修3"
       ],
@@ -3983,7 +4055,7 @@
       }
     },
     {
-      "id": 1515940628341,
+      "id": 151594062834100,
       "tags": [
         "生物必修3"
       ],
@@ -3996,7 +4068,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "酵母菌培养所需的培养基类型是<span class=\"cloze-blank\">＿＿</span>，条件是<span class=\"cloze-blank\">＿＿</span>，一般连续观察<span class=\"cloze-blank\">＿＿</span>天统计数目。",
+        "知识_正面": "酵母菌培养所需的培养基类型是<span class=\"cloze-blank\">＿＿</span>，条件是<span class=\"cloze-answer\">无菌</span>，一般连续观察<span class=\"cloze-answer\">七</span>天统计数目。",
+        "知识_背面": "酵母菌培养所需的培养基类型是<span class=\"cloze-answer\">液体培养基</span>，条件是<span class=\"cloze-answer\">无菌</span>，一般连续观察<span class=\"cloze-answer\">七</span>天统计数目。"
+      }
+    },
+    {
+      "id": 151594062834101,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "酵母菌培养所需的培养基类型是{{c1::液体培养基}}，条件是{{c2::无菌}}，一般连续观察{{c3::七}}天统计数目。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "酵母菌培养所需的培养基类型是<span class=\"cloze-answer\">液体培养基</span>，条件是<span class=\"cloze-blank\">＿＿</span>，一般连续观察<span class=\"cloze-answer\">七</span>天统计数目。",
+        "知识_背面": "酵母菌培养所需的培养基类型是<span class=\"cloze-answer\">液体培养基</span>，条件是<span class=\"cloze-answer\">无菌</span>，一般连续观察<span class=\"cloze-answer\">七</span>天统计数目。"
+      }
+    },
+    {
+      "id": 151594062834102,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "酵母菌培养所需的培养基类型是{{c1::液体培养基}}，条件是{{c2::无菌}}，一般连续观察{{c3::七}}天统计数目。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "酵母菌培养所需的培养基类型是<span class=\"cloze-answer\">液体培养基</span>，条件是<span class=\"cloze-answer\">无菌</span>，一般连续观察<span class=\"cloze-blank\">＿＿</span>天统计数目。",
         "知识_背面": "酵母菌培养所需的培养基类型是<span class=\"cloze-answer\">液体培养基</span>，条件是<span class=\"cloze-answer\">无菌</span>，一般连续观察<span class=\"cloze-answer\">七</span>天统计数目。"
       }
     },
@@ -6071,7 +6179,7 @@
       }
     },
     {
-      "id": 1521784529816,
+      "id": 152178452981600,
       "tags": [
         "生物必修3"
       ],
@@ -6084,7 +6192,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>葡萄糖。",
+        "知识_正面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">利用</span>和<span class=\"cloze-answer\">储存</span>葡萄糖。",
+        "知识_背面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-answer\">摄取</span>、<span class=\"cloze-answer\">利用</span>和<span class=\"cloze-answer\">储存</span>葡萄糖。"
+      }
+    },
+    {
+      "id": 152178452981601,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "胰岛素的作用是促进组织细胞加速{{c1::摄取}}、{{c2::利用}}和{{c3::储存}}葡萄糖。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-answer\">摄取</span>、<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-answer\">储存</span>葡萄糖。",
+        "知识_背面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-answer\">摄取</span>、<span class=\"cloze-answer\">利用</span>和<span class=\"cloze-answer\">储存</span>葡萄糖。"
+      }
+    },
+    {
+      "id": 152178452981602,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "胰岛素的作用是促进组织细胞加速{{c1::摄取}}、{{c2::利用}}和{{c3::储存}}葡萄糖。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-answer\">摄取</span>、<span class=\"cloze-answer\">利用</span>和<span class=\"cloze-blank\">＿＿</span>葡萄糖。",
         "知识_背面": "胰岛素的作用是促进组织细胞加速<span class=\"cloze-answer\">摄取</span>、<span class=\"cloze-answer\">利用</span>和<span class=\"cloze-answer\">储存</span>葡萄糖。"
       }
     },
@@ -6215,7 +6359,7 @@
       }
     },
     {
-      "id": 1522019244150,
+      "id": 152201924415000,
       "tags": [
         "生物必修3"
       ],
@@ -6233,7 +6377,7 @@
       }
     },
     {
-      "id": 1522019371917,
+      "id": 152201937191700,
       "tags": [
         "生物必修3"
       ],
@@ -6268,7 +6412,7 @@
       }
     },
     {
-      "id": 1522019773607,
+      "id": 152201977360700,
       "tags": [
         "生物必修3"
       ],
@@ -6286,7 +6430,7 @@
       }
     },
     {
-      "id": 1522019787873,
+      "id": 152201978787300,
       "tags": [
         "生物必修3"
       ],
@@ -6304,7 +6448,7 @@
       }
     },
     {
-      "id": 1522019884110,
+      "id": 152201988411000,
       "tags": [
         "生物必修3"
       ],
@@ -6317,7 +6461,61 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "群落特有的特征有<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_正面": "群落特有的特征有<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。",
+        "知识_背面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。"
+      }
+    },
+    {
+      "id": 152201988411001,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "群落特有的特征有{{c1::物种组成}}、{{c2::种间关系}}、{{c3::空间结构}}、{{c4::群落演替}}。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。",
+        "知识_背面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。"
+      }
+    },
+    {
+      "id": 152201988411002,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "群落特有的特征有{{c1::物种组成}}、{{c2::种间关系}}、{{c3::空间结构}}、{{c4::群落演替}}。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">群落演替</span>。",
+        "知识_背面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。"
+      }
+    },
+    {
+      "id": 152201988411003,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "群落特有的特征有{{c1::物种组成}}、{{c2::种间关系}}、{{c3::空间结构}}、{{c4::群落演替}}。",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-blank\">＿＿</span>。",
         "知识_背面": "群落特有的特征有<span class=\"cloze-answer\">物种组成</span>、<span class=\"cloze-answer\">种间关系</span>、<span class=\"cloze-answer\">空间结构</span>、<span class=\"cloze-answer\">群落演替</span>。"
       }
     },
@@ -6466,7 +6664,7 @@
       }
     },
     {
-      "id": 1523113117429,
+      "id": 152311311742900,
       "tags": [
         "生物必修3"
       ],
@@ -6569,7 +6767,7 @@
       }
     },
     {
-      "id": 1523228767731,
+      "id": 152322876773100,
       "tags": [
         "生物必修3"
       ],
@@ -6582,7 +6780,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">代谢产物积累</span>、<span class=\"cloze-answer\">生存环境恶化</span>",
+        "知识_背面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-answer\">营养物质消耗</span>、<span class=\"cloze-answer\">代谢产物积累</span>、<span class=\"cloze-answer\">生存环境恶化</span>"
+      }
+    },
+    {
+      "id": 152322876773101,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "培养后期酵母菌数量减少的原因有{{c1::营养物质消耗}}、{{c2::代谢产物积累}}、{{c3::生存环境恶化}}",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-answer\">营养物质消耗</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">生存环境恶化</span>",
+        "知识_背面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-answer\">营养物质消耗</span>、<span class=\"cloze-answer\">代谢产物积累</span>、<span class=\"cloze-answer\">生存环境恶化</span>"
+      }
+    },
+    {
+      "id": 152322876773102,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "培养后期酵母菌数量减少的原因有{{c1::营养物质消耗}}、{{c2::代谢产物积累}}、{{c3::生存环境恶化}}",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-answer\">营养物质消耗</span>、<span class=\"cloze-answer\">代谢产物积累</span>、<span class=\"cloze-blank\">＿＿</span>",
         "知识_背面": "培养后期酵母菌数量减少的原因有<span class=\"cloze-answer\">营养物质消耗</span>、<span class=\"cloze-answer\">代谢产物积累</span>、<span class=\"cloze-answer\">生存环境恶化</span>"
       }
     },
@@ -6655,7 +6889,7 @@
       }
     },
     {
-      "id": 1524664228325,
+      "id": 152466422832500,
       "tags": [
         "生物必修3"
       ],
@@ -6792,7 +7026,7 @@
       }
     },
     {
-      "id": 1524954737505,
+      "id": 152495473750500,
       "tags": [
         "生物必修3"
       ],
@@ -6891,7 +7125,7 @@
       }
     },
     {
-      "id": 1525907623922,
+      "id": 152590762392200,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -6907,7 +7141,7 @@
       }
     },
     {
-      "id": 1525907664768,
+      "id": 152590766476800,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -6918,12 +7152,28 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "生态农业是指运用<span class=\"cloze-blank\">＿＿</span>原理，在<span class=\"cloze-blank\">＿＿</span>的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。",
+        "知识_正面": "生态农业是指运用<span class=\"cloze-blank\">＿＿</span>原理，在<span class=\"cloze-answer\">环境和经济协调发展</span>的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。",
         "知识_背面": "生态农业是指运用<span class=\"cloze-answer\">生态学</span>原理，在<span class=\"cloze-answer\">环境和经济协调发展</span>的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。"
       }
     },
     {
-      "id": 1525907952961,
+      "id": 152590766476801,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生态农业是指运用{{c1::生态学}}原理，在{{c2::环境和经济协调发展}}的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生态农业是指运用<span class=\"cloze-answer\">生态学</span>原理，在<span class=\"cloze-blank\">＿＿</span>的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。",
+        "知识_背面": "生态农业是指运用<span class=\"cloze-answer\">生态学</span>原理，在<span class=\"cloze-answer\">环境和经济协调发展</span>的思想指导下，应用现代科学技术建立起来的多层次、多功能的综合农业生产体系。"
+      }
+    },
+    {
+      "id": 152590795296100,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -6934,12 +7184,28 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "在分子水平上，存在<span class=\"cloze-blank\">＿＿</span><br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，<span class=\"cloze-blank\">＿＿</span>经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］",
+        "知识_正面": "在分子水平上，存在<span class=\"cloze-blank\">＿＿</span><br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，<span class=\"cloze-answer\">种群数量的消长</span>经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］",
         "知识_背面": "在分子水平上，存在<span class=\"cloze-answer\">基因表达</span><br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，<span class=\"cloze-answer\">种群数量的消长</span>经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］"
       }
     },
     {
-      "id": 1526182263405,
+      "id": 152590795296101,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "在分子水平上，存在{{c1::基因表达}}<br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，{{c2::种群数量的消长}}经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "在分子水平上，存在<span class=\"cloze-answer\">基因表达</span><br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，<span class=\"cloze-blank\">＿＿</span>经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］",
+        "知识_背面": "在分子水平上，存在<span class=\"cloze-answer\">基因表达</span><br>的稳态；在器官水平上存在心脏活动（血压、心率）的稳态等；在宏观水平上，<span class=\"cloze-answer\">种群数量的消长</span>经存在稳态现象，最大的生态系统——生物圈也存在稳态。可见在生命系统的各个层次上，都普遍存在着稳态现象。稳态已经成为生物科学的一大基本概念<br>［摘自必修3P11“科学史话”］"
+      }
+    },
+    {
+      "id": 152618226340500,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -6955,7 +7221,7 @@
       }
     },
     {
-      "id": 1526182298032,
+      "id": 152618229803200,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7016,7 +7282,7 @@
       }
     },
     {
-      "id": 1526306582810,
+      "id": 152630658281000,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7027,7 +7293,23 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：<span class=\"cloze-blank\">＿＿</span><br>从物质循环的角度分析原因是：<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：<span class=\"cloze-blank\">＿＿</span><br>从物质循环的角度分析原因是：<span class=\"cloze-answer\">加速了物质循环使土壤中的矿质元素含量增加</span>",
+        "知识_背面": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：<span class=\"cloze-answer\">种群密度下降，竞争减弱</span><br>从物质循环的角度分析原因是：<span class=\"cloze-answer\">加速了物质循环使土壤中的矿质元素含量增加</span>"
+      }
+    },
+    {
+      "id": 152630658281001,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：{{c1::种群密度下降，竞争减弱}}<br>从物质循环的角度分析原因是：{{c2::加速了物质循环使土壤中的矿质元素含量增加}}",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：<span class=\"cloze-answer\">种群密度下降，竞争减弱</span><br>从物质循环的角度分析原因是：<span class=\"cloze-blank\">＿＿</span>",
         "知识_背面": "一场低强度的火灾过后森林中的植被很快恢复，<br>从种间关系的角度分析原因是：<span class=\"cloze-answer\">种群密度下降，竞争减弱</span><br>从物质循环的角度分析原因是：<span class=\"cloze-answer\">加速了物质循环使土壤中的矿质元素含量增加</span>"
       }
     },
@@ -7047,7 +7329,7 @@
       }
     },
     {
-      "id": 1526565490646,
+      "id": 152656549064600,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7093,7 +7375,7 @@
       }
     },
     {
-      "id": 1526911427045,
+      "id": 152691142704500,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7109,7 +7391,7 @@
       }
     },
     {
-      "id": 1527431946872,
+      "id": 152743194687200,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7125,7 +7407,7 @@
       }
     },
     {
-      "id": 1527434200126,
+      "id": 152743420012600,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7141,7 +7423,7 @@
       }
     },
     {
-      "id": 1527497442804,
+      "id": 152749744280400,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -7187,7 +7469,7 @@
       }
     },
     {
-      "id": 1528861039221,
+      "id": 152886103922100,
       "tags": [
         "生物必修3"
       ],
@@ -7205,7 +7487,7 @@
       }
     },
     {
-      "id": 1528861085965,
+      "id": 152886108596500,
       "tags": [
         "生物必修3"
       ],
@@ -7223,7 +7505,7 @@
       }
     },
     {
-      "id": 1528861122466,
+      "id": 152886112246600,
       "tags": [
         "生物必修3"
       ],
@@ -7241,7 +7523,7 @@
       }
     },
     {
-      "id": 1528861157299,
+      "id": 152886115729900,
       "tags": [
         "生物必修3"
       ],
@@ -7259,7 +7541,7 @@
       }
     },
     {
-      "id": 1528861181499,
+      "id": 152886118149900,
       "tags": [
         "生物必修3"
       ],
@@ -7277,7 +7559,7 @@
       }
     },
     {
-      "id": 1528861231961,
+      "id": 152886123196100,
       "tags": [
         "生物必修3"
       ],
@@ -7307,7 +7589,7 @@
       }
     },
     {
-      "id": 1528861293132,
+      "id": 152886129313200,
       "tags": [
         "生物必修3"
       ],
@@ -7325,7 +7607,7 @@
       }
     },
     {
-      "id": 1528861476381,
+      "id": 152886147638100,
       "tags": [
         "生物必修3"
       ],
@@ -7343,7 +7625,7 @@
       }
     },
     {
-      "id": 1528861495761,
+      "id": 152886149576100,
       "tags": [
         "生物必修3"
       ],
@@ -7361,7 +7643,7 @@
       }
     },
     {
-      "id": 1528861504717,
+      "id": 152886150471700,
       "tags": [
         "生物必修3"
       ],
@@ -7379,7 +7661,7 @@
       }
     },
     {
-      "id": 1528861530920,
+      "id": 152886153092000,
       "tags": [
         "生物必修3"
       ],
@@ -7397,7 +7679,7 @@
       }
     },
     {
-      "id": 1528861551144,
+      "id": 152886155114400,
       "tags": [
         "生物必修3"
       ],
@@ -7410,12 +7692,48 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<div>免疫活性物质包括<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>等</div>",
+        "知识_正面": "<div>免疫活性物质包括<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">溶菌酶</span>、<span class=\"cloze-answer\">淋巴因子</span>等</div>",
         "知识_背面": "<div>免疫活性物质包括<span class=\"cloze-answer\">抗体</span>、<span class=\"cloze-answer\">溶菌酶</span>、<span class=\"cloze-answer\">淋巴因子</span>等</div>"
       }
     },
     {
-      "id": 1528861582533,
+      "id": 152886155114401,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>免疫活性物质包括{{c1::抗体}}、{{c2::溶菌酶}}、{{c3::淋巴因子}}等</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>免疫活性物质包括<span class=\"cloze-answer\">抗体</span>、<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">淋巴因子</span>等</div>",
+        "知识_背面": "<div>免疫活性物质包括<span class=\"cloze-answer\">抗体</span>、<span class=\"cloze-answer\">溶菌酶</span>、<span class=\"cloze-answer\">淋巴因子</span>等</div>"
+      }
+    },
+    {
+      "id": 152886155114402,
+      "tags": [
+        "生物必修3"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>免疫活性物质包括{{c1::抗体}}、{{c2::溶菌酶}}、{{c3::淋巴因子}}等</div>",
+        "《》": "生物必修3",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>免疫活性物质包括<span class=\"cloze-answer\">抗体</span>、<span class=\"cloze-answer\">溶菌酶</span>、<span class=\"cloze-blank\">＿＿</span>等</div>",
+        "知识_背面": "<div>免疫活性物质包括<span class=\"cloze-answer\">抗体</span>、<span class=\"cloze-answer\">溶菌酶</span>、<span class=\"cloze-answer\">淋巴因子</span>等</div>"
+      }
+    },
+    {
+      "id": 152886158253300,
       "tags": [
         "生物必修3"
       ],
@@ -7433,7 +7751,7 @@
       }
     },
     {
-      "id": 1528861681564,
+      "id": 152886168156400,
       "tags": [
         "生物必修3"
       ],
@@ -7451,7 +7769,7 @@
       }
     },
     {
-      "id": 1528861696447,
+      "id": 152886169644700,
       "tags": [
         "生物必修3"
       ],
@@ -7469,7 +7787,7 @@
       }
     },
     {
-      "id": 1528861750592,
+      "id": 152886175059200,
       "tags": [
         "生物必修3"
       ],

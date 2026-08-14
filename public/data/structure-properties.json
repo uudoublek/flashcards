@@ -398,7 +398,7 @@
       }
     },
     {
-      "id": 1520521409041,
+      "id": 152052140904100,
       "tags": [
         "化学物质结构与性质"
       ],
@@ -411,7 +411,97 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>",
+        "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
+      }
+    },
+    {
+      "id": 152052140904101,
+      "tags": [
+        "化学物质结构与性质"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "非金属性判断依据:<div>{{c1::与氢气化合难易，负相关。}}</div><div>{{c2::氢化物的稳定性，正相关。}}</div><div>{{c3::最高价含氧酸酸性，正相关。}}</div><div>{{c4::单质的氧化性，正相关。}}</div><div>{{c5::阴离子的还原性，负相关。}}</div><div>{{c6::电负性，正相关。}}</div>",
+        "《》": "化学物质结构与性质",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>",
+        "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
+      }
+    },
+    {
+      "id": 152052140904102,
+      "tags": [
+        "化学物质结构与性质"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "非金属性判断依据:<div>{{c1::与氢气化合难易，负相关。}}</div><div>{{c2::氢化物的稳定性，正相关。}}</div><div>{{c3::最高价含氧酸酸性，正相关。}}</div><div>{{c4::单质的氧化性，正相关。}}</div><div>{{c5::阴离子的还原性，负相关。}}</div><div>{{c6::电负性，正相关。}}</div>",
+        "《》": "化学物质结构与性质",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>",
+        "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
+      }
+    },
+    {
+      "id": 152052140904103,
+      "tags": [
+        "化学物质结构与性质"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "非金属性判断依据:<div>{{c1::与氢气化合难易，负相关。}}</div><div>{{c2::氢化物的稳定性，正相关。}}</div><div>{{c3::最高价含氧酸酸性，正相关。}}</div><div>{{c4::单质的氧化性，正相关。}}</div><div>{{c5::阴离子的还原性，负相关。}}</div><div>{{c6::电负性，正相关。}}</div>",
+        "《》": "化学物质结构与性质",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>",
+        "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
+      }
+    },
+    {
+      "id": 152052140904104,
+      "tags": [
+        "化学物质结构与性质"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "非金属性判断依据:<div>{{c1::与氢气化合难易，负相关。}}</div><div>{{c2::氢化物的稳定性，正相关。}}</div><div>{{c3::最高价含氧酸酸性，正相关。}}</div><div>{{c4::单质的氧化性，正相关。}}</div><div>{{c5::阴离子的还原性，负相关。}}</div><div>{{c6::电负性，正相关。}}</div>",
+        "《》": "化学物质结构与性质",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-blank\">＿＿</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>",
+        "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
+      }
+    },
+    {
+      "id": 152052140904105,
+      "tags": [
+        "化学物质结构与性质"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "非金属性判断依据:<div>{{c1::与氢气化合难易，负相关。}}</div><div>{{c2::氢化物的稳定性，正相关。}}</div><div>{{c3::最高价含氧酸酸性，正相关。}}</div><div>{{c4::单质的氧化性，正相关。}}</div><div>{{c5::阴离子的还原性，负相关。}}</div><div>{{c6::电负性，正相关。}}</div>",
+        "《》": "化学物质结构与性质",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-blank\">＿＿</span></div>",
         "知识_背面": "非金属性判断依据:<div><span class=\"cloze-answer\">与氢气化合难易，负相关。</span></div><div><span class=\"cloze-answer\">氢化物的稳定性，正相关。</span></div><div><span class=\"cloze-answer\">最高价含氧酸酸性，正相关。</span></div><div><span class=\"cloze-answer\">单质的氧化性，正相关。</span></div><div><span class=\"cloze-answer\">阴离子的还原性，负相关。</span></div><div><span class=\"cloze-answer\">电负性，正相关。</span></div>"
       }
     },

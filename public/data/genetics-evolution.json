@@ -747,7 +747,7 @@
       }
     },
     {
-      "id": 1399992287266,
+      "id": 139999228726600,
       "tags": [
         "生物必修2"
       ],
@@ -760,7 +760,61 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "孟德尔假说内容：<div>1 <span class=\"cloze-blank\">＿＿</span><br />2 <span class=\"cloze-blank\">＿＿</span><br />3 <span class=\"cloze-blank\">＿＿</span><br />4 <span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "孟德尔假说内容：<div>1 <span class=\"cloze-blank\">＿＿</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>",
+        "知识_背面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>"
+      }
+    },
+    {
+      "id": 139999228726601,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "孟德尔假说内容：<div>1 {{c1::生物性状是由遗传因子决定的}}<br />2 {{c2::体细胞中遗传因子成对存在}}<br />3 {{c3::生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中}}<br />4 {{c4::受精时，雌雄配子结合随机}}</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-blank\">＿＿</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>",
+        "知识_背面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>"
+      }
+    },
+    {
+      "id": 139999228726602,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "孟德尔假说内容：<div>1 {{c1::生物性状是由遗传因子决定的}}<br />2 {{c2::体细胞中遗传因子成对存在}}<br />3 {{c3::生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中}}<br />4 {{c4::受精时，雌雄配子结合随机}}</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-blank\">＿＿</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>",
+        "知识_背面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>"
+      }
+    },
+    {
+      "id": 139999228726603,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "孟德尔假说内容：<div>1 {{c1::生物性状是由遗传因子决定的}}<br />2 {{c2::体细胞中遗传因子成对存在}}<br />3 {{c3::生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中}}<br />4 {{c4::受精时，雌雄配子结合随机}}</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-blank\">＿＿</span></div>",
         "知识_背面": "孟德尔假说内容：<div>1 <span class=\"cloze-answer\">生物性状是由遗传因子决定的</span><br />2 <span class=\"cloze-answer\">体细胞中遗传因子成对存在</span><br />3 <span class=\"cloze-answer\">生物体在形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中</span><br />4 <span class=\"cloze-answer\">受精时，雌雄配子结合随机</span></div>"
       }
     },
@@ -1037,7 +1091,7 @@
       }
     },
     {
-      "id": 1514547218609,
+      "id": 151454721860900,
       "tags": [
         "生物必修2"
       ],
@@ -1050,7 +1104,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "（107页小结）选择育种是不断从<span class=\"cloze-blank\">＿＿</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_正面": "（107页小结）选择育种是不断从<span class=\"cloze-answer\">变异个体</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">可选择范围有限</span>。",
+        "知识_背面": "（107页小结）选择育种是不断从<span class=\"cloze-answer\">变异个体</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-answer\">周期长</span>，<span class=\"cloze-answer\">可选择范围有限</span>。"
+      }
+    },
+    {
+      "id": 151454721860901,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "（107页小结）选择育种是不断从{{c3::变异个体}}中选择最好的进行繁殖和培育，缺点是{{c1::周期长}}，{{c2::可选择范围有限}}。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "（107页小结）选择育种是不断从<span class=\"cloze-answer\">变异个体</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-answer\">周期长</span>，<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_背面": "（107页小结）选择育种是不断从<span class=\"cloze-answer\">变异个体</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-answer\">周期长</span>，<span class=\"cloze-answer\">可选择范围有限</span>。"
+      }
+    },
+    {
+      "id": 151454721860902,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "（107页小结）选择育种是不断从{{c3::变异个体}}中选择最好的进行繁殖和培育，缺点是{{c1::周期长}}，{{c2::可选择范围有限}}。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "（107页小结）选择育种是不断从<span class=\"cloze-blank\">＿＿</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-answer\">周期长</span>，<span class=\"cloze-answer\">可选择范围有限</span>。",
         "知识_背面": "（107页小结）选择育种是不断从<span class=\"cloze-answer\">变异个体</span>中选择最好的进行繁殖和培育，缺点是<span class=\"cloze-answer\">周期长</span>，<span class=\"cloze-answer\">可选择范围有限</span>。"
       }
     },
@@ -1072,7 +1162,7 @@
       }
     },
     {
-      "id": 1514547252140,
+      "id": 151454725214000,
       "tags": [
         "生物必修2"
       ],
@@ -1085,7 +1175,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "（124页）（知识点）共同进化：<span class=\"cloze-blank\">＿＿</span>之间、<span class=\"cloze-blank\">＿＿</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-blank\">＿＿</span>形成的原因。",
+        "知识_正面": "（124页）（知识点）共同进化：<span class=\"cloze-blank\">＿＿</span>之间、<span class=\"cloze-answer\">生物与无机环境</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-answer\">生物多样性</span>形成的原因。",
+        "知识_背面": "（124页）（知识点）共同进化：<span class=\"cloze-answer\">不同物种</span>之间、<span class=\"cloze-answer\">生物与无机环境</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-answer\">生物多样性</span>形成的原因。"
+      }
+    },
+    {
+      "id": 151454725214001,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "（124页）（知识点）共同进化：{{c1::不同物种}}之间、{{c2::生物与无机环境}}之间在相互影响中不断进化和发展，这就是共同进化，它是{{c3::生物多样性}}形成的原因。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "（124页）（知识点）共同进化：<span class=\"cloze-answer\">不同物种</span>之间、<span class=\"cloze-blank\">＿＿</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-answer\">生物多样性</span>形成的原因。",
+        "知识_背面": "（124页）（知识点）共同进化：<span class=\"cloze-answer\">不同物种</span>之间、<span class=\"cloze-answer\">生物与无机环境</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-answer\">生物多样性</span>形成的原因。"
+      }
+    },
+    {
+      "id": 151454725214002,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "（124页）（知识点）共同进化：{{c1::不同物种}}之间、{{c2::生物与无机环境}}之间在相互影响中不断进化和发展，这就是共同进化，它是{{c3::生物多样性}}形成的原因。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "（124页）（知识点）共同进化：<span class=\"cloze-answer\">不同物种</span>之间、<span class=\"cloze-answer\">生物与无机环境</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-blank\">＿＿</span>形成的原因。",
         "知识_背面": "（124页）（知识点）共同进化：<span class=\"cloze-answer\">不同物种</span>之间、<span class=\"cloze-answer\">生物与无机环境</span>之间在相互影响中不断进化和发展，这就是共同进化，它是<span class=\"cloze-answer\">生物多样性</span>形成的原因。"
       }
     },
@@ -1141,7 +1267,7 @@
       }
     },
     {
-      "id": 1514547410796,
+      "id": 151454741079600,
       "tags": [
         "生物必修2"
       ],
@@ -1154,7 +1280,43 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "基因突变三个意义：<div><div>①<span class=\"cloze-blank\">＿＿</span></div><div>②生物变异的<span class=\"cloze-blank\">＿＿</span>。</div><div>③生物进化的<span class=\"cloze-blank\">＿＿</span>。</div></div>",
+        "知识_正面": "基因突变三个意义：<div><div>①<span class=\"cloze-blank\">＿＿</span></div><div>②生物变异的<span class=\"cloze-answer\">根本来源</span>。</div><div>③生物进化的<span class=\"cloze-answer\">原始材料</span>。</div></div>",
+        "知识_背面": "基因突变三个意义：<div><div>①<span class=\"cloze-answer\">新基因产生的途径。</span></div><div>②生物变异的<span class=\"cloze-answer\">根本来源</span>。</div><div>③生物进化的<span class=\"cloze-answer\">原始材料</span>。</div></div>"
+      }
+    },
+    {
+      "id": 151454741079601,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "基因突变三个意义：<div><div>①{{c1::新基因产生的途径。}}</div><div>②生物变异的{{c2::根本来源}}。</div><div>③生物进化的{{c3::原始材料}}。</div></div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "基因突变三个意义：<div><div>①<span class=\"cloze-answer\">新基因产生的途径。</span></div><div>②生物变异的<span class=\"cloze-blank\">＿＿</span>。</div><div>③生物进化的<span class=\"cloze-answer\">原始材料</span>。</div></div>",
+        "知识_背面": "基因突变三个意义：<div><div>①<span class=\"cloze-answer\">新基因产生的途径。</span></div><div>②生物变异的<span class=\"cloze-answer\">根本来源</span>。</div><div>③生物进化的<span class=\"cloze-answer\">原始材料</span>。</div></div>"
+      }
+    },
+    {
+      "id": 151454741079602,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "基因突变三个意义：<div><div>①{{c1::新基因产生的途径。}}</div><div>②生物变异的{{c2::根本来源}}。</div><div>③生物进化的{{c3::原始材料}}。</div></div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "基因突变三个意义：<div><div>①<span class=\"cloze-answer\">新基因产生的途径。</span></div><div>②生物变异的<span class=\"cloze-answer\">根本来源</span>。</div><div>③生物进化的<span class=\"cloze-blank\">＿＿</span>。</div></div>",
         "知识_背面": "基因突变三个意义：<div><div>①<span class=\"cloze-answer\">新基因产生的途径。</span></div><div>②生物变异的<span class=\"cloze-answer\">根本来源</span>。</div><div>③生物进化的<span class=\"cloze-answer\">原始材料</span>。</div></div>"
       }
     },
@@ -1295,7 +1457,7 @@
       }
     },
     {
-      "id": 1514547863593,
+      "id": 151454786359300,
       "tags": [
         "生物必修2"
       ],
@@ -1308,7 +1470,61 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-blank\">＿＿</span><div><br></div><div>(2)<span class=\"cloze-blank\">＿＿</span></div><div><br></div><div>(3)<span class=\"cloze-blank\">＿＿</span></div><div><br></div><div>(4)<span class=\"cloze-blank\">＿＿</span></div></div>",
+        "知识_正面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-blank\">＿＿</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>",
+        "知识_背面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>"
+      }
+    },
+    {
+      "id": 151454786359301,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "现代生物进化理论的四个要点：<div>(1){{c1::种群是生物进化的基本单位，进化的实质是种群基因频率的改变。}}<div><br></div><div>(2){{c2::突变和基因重组提供进化的原材料。}}</div><div><br></div><div>(3){{c3::自然选择决定生物进化的方向。}}</div><div><br></div><div>(4){{c4::隔离导致物种的形成。}}</div></div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-blank\">＿＿</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>",
+        "知识_背面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>"
+      }
+    },
+    {
+      "id": 151454786359302,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "现代生物进化理论的四个要点：<div>(1){{c1::种群是生物进化的基本单位，进化的实质是种群基因频率的改变。}}<div><br></div><div>(2){{c2::突变和基因重组提供进化的原材料。}}</div><div><br></div><div>(3){{c3::自然选择决定生物进化的方向。}}</div><div><br></div><div>(4){{c4::隔离导致物种的形成。}}</div></div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-blank\">＿＿</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>",
+        "知识_背面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>"
+      }
+    },
+    {
+      "id": 151454786359303,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "现代生物进化理论的四个要点：<div>(1){{c1::种群是生物进化的基本单位，进化的实质是种群基因频率的改变。}}<div><br></div><div>(2){{c2::突变和基因重组提供进化的原材料。}}</div><div><br></div><div>(3){{c3::自然选择决定生物进化的方向。}}</div><div><br></div><div>(4){{c4::隔离导致物种的形成。}}</div></div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-blank\">＿＿</span></div></div>",
         "知识_背面": "现代生物进化理论的四个要点：<div>(1)<span class=\"cloze-answer\">种群是生物进化的基本单位，进化的实质是种群基因频率的改变。</span><div><br></div><div>(2)<span class=\"cloze-answer\">突变和基因重组提供进化的原材料。</span></div><div><br></div><div>(3)<span class=\"cloze-answer\">自然选择决定生物进化的方向。</span></div><div><br></div><div>(4)<span class=\"cloze-answer\">隔离导致物种的形成。</span></div></div>"
       }
     },
@@ -3320,7 +3536,7 @@
       }
     },
     {
-      "id": 1520694290238,
+      "id": 152069429023800,
       "tags": [
         "生物必修2"
       ],
@@ -3338,7 +3554,7 @@
       }
     },
     {
-      "id": 1520805083863,
+      "id": 152080508386300,
       "tags": [
         "生物必修2"
       ],
@@ -3373,7 +3589,7 @@
       }
     },
     {
-      "id": 1521214535024,
+      "id": 152121453502400,
       "tags": [
         "生物必修2"
       ],
@@ -3386,7 +3602,25 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "DNA分子杂交技术可以<span class=\"cloze-blank\">＿＿</span>，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "DNA分子杂交技术可以<span class=\"cloze-blank\">＿＿</span>，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物<span class=\"cloze-answer\">亲缘关系越近</span>",
+        "知识_背面": "DNA分子杂交技术可以<span class=\"cloze-answer\">比较不同种生物DNA分子的差异</span>，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物<span class=\"cloze-answer\">亲缘关系越近</span>"
+      }
+    },
+    {
+      "id": 152121453502401,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "DNA分子杂交技术可以{{c1::比较不同种生物DNA分子的差异}}，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物{{c2::亲缘关系越近}}",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "DNA分子杂交技术可以<span class=\"cloze-answer\">比较不同种生物DNA分子的差异</span>，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物<span class=\"cloze-blank\">＿＿</span>",
         "知识_背面": "DNA分子杂交技术可以<span class=\"cloze-answer\">比较不同种生物DNA分子的差异</span>，不同生物的DNA分子杂交形成的杂合双链区越多，说明两种生物<span class=\"cloze-answer\">亲缘关系越近</span>"
       }
     },
@@ -3763,7 +3997,7 @@
       }
     },
     {
-      "id": 1523403175252,
+      "id": 152340317525200,
       "tags": [
         "生物必修2"
       ],
@@ -3776,7 +4010,25 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "自然选择直接作用的是<span class=\"cloze-blank\">＿＿</span>，而且是<span class=\"cloze-blank\">＿＿</span>，但研究进化不能只研究<span class=\"cloze-blank\">＿＿</span>，还必须研究<span class=\"cloze-blank\">＿＿</span>的变化。",
+        "知识_正面": "自然选择直接作用的是<span class=\"cloze-blank\">＿＿</span>，而且是<span class=\"cloze-blank\">＿＿</span>，但研究进化不能只研究<span class=\"cloze-blank\">＿＿</span>，还必须研究<span class=\"cloze-answer\">群体的基因组成</span>的变化。",
+        "知识_背面": "自然选择直接作用的是<span class=\"cloze-answer\">生物的个体</span>，而且是<span class=\"cloze-answer\">个体的表现型</span>，但研究进化不能只研究<span class=\"cloze-answer\">个体表现型</span>，还必须研究<span class=\"cloze-answer\">群体的基因组成</span>的变化。"
+      }
+    },
+    {
+      "id": 152340317525201,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "自然选择直接作用的是{{c1::生物的个体}}，而且是{{c1::个体的表现型}}，但研究进化不能只研究{{c1::个体表现型}}，还必须研究{{c2::群体的基因组成}}的变化。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "自然选择直接作用的是<span class=\"cloze-answer\">生物的个体</span>，而且是<span class=\"cloze-answer\">个体的表现型</span>，但研究进化不能只研究<span class=\"cloze-answer\">个体表现型</span>，还必须研究<span class=\"cloze-blank\">＿＿</span>的变化。",
         "知识_背面": "自然选择直接作用的是<span class=\"cloze-answer\">生物的个体</span>，而且是<span class=\"cloze-answer\">个体的表现型</span>，但研究进化不能只研究<span class=\"cloze-answer\">个体表现型</span>，还必须研究<span class=\"cloze-answer\">群体的基因组成</span>的变化。"
       }
     },
@@ -3855,7 +4107,7 @@
       }
     },
     {
-      "id": 1525908033116,
+      "id": 152590803311600,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -3871,7 +4123,7 @@
       }
     },
     {
-      "id": 1526181582198,
+      "id": 152618158219800,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -3882,7 +4134,55 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "自然选择学说四大内容：<div><span class=\"cloze-blank\">＿＿</span> 基础<br /><span class=\"cloze-blank\">＿＿</span> 动力<br /><span class=\"cloze-blank\">＿＿</span> 内因<br /><span class=\"cloze-blank\">＿＿</span> 结果</div>",
+        "知识_正面": "自然选择学说四大内容：<div><span class=\"cloze-blank\">＿＿</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>",
+        "知识_背面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>"
+      }
+    },
+    {
+      "id": 152618158219801,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "自然选择学说四大内容：<div>{{c1::过度繁殖}} 基础<br />{{c2::生存斗争}} 动力<br />{{c3::遗传变异}} 内因<br />{{c4::适者生存}} 结果</div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-blank\">＿＿</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>",
+        "知识_背面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>"
+      }
+    },
+    {
+      "id": 152618158219802,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "自然选择学说四大内容：<div>{{c1::过度繁殖}} 基础<br />{{c2::生存斗争}} 动力<br />{{c3::遗传变异}} 内因<br />{{c4::适者生存}} 结果</div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-blank\">＿＿</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>",
+        "知识_背面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>"
+      }
+    },
+    {
+      "id": 152618158219803,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "自然选择学说四大内容：<div>{{c1::过度繁殖}} 基础<br />{{c2::生存斗争}} 动力<br />{{c3::遗传变异}} 内因<br />{{c4::适者生存}} 结果</div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-blank\">＿＿</span> 结果</div>",
         "知识_背面": "自然选择学说四大内容：<div><span class=\"cloze-answer\">过度繁殖</span> 基础<br /><span class=\"cloze-answer\">生存斗争</span> 动力<br /><span class=\"cloze-answer\">遗传变异</span> 内因<br /><span class=\"cloze-answer\">适者生存</span> 结果</div>"
       }
     },
@@ -3992,7 +4292,7 @@
       }
     },
     {
-      "id": 1527432887223,
+      "id": 152743288722300,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4003,7 +4303,23 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，<span class=\"cloze-blank\">＿＿</span>逐渐解体，<span class=\"cloze-blank\">＿＿</span>逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体<span class=\"cloze-blank\">＿＿</span>分布在纺锤体的中央。",
+        "知识_正面": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，<span class=\"cloze-blank\">＿＿</span>逐渐解体，<span class=\"cloze-blank\">＿＿</span>逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体<span class=\"cloze-answer\">散乱地</span>分布在纺锤体的中央。",
+        "知识_背面": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，<span class=\"cloze-answer\">核仁</span>逐渐解体，<span class=\"cloze-answer\">核膜</span>逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体<span class=\"cloze-answer\">散乱地</span>分布在纺锤体的中央。"
+      }
+    },
+    {
+      "id": 152743288722301,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，{{c1::核仁}}逐渐解体，{{c1::核膜}}逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体{{c2::散乱地}}分布在纺锤体的中央。",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，<span class=\"cloze-answer\">核仁</span>逐渐解体，<span class=\"cloze-answer\">核膜</span>逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体<span class=\"cloze-blank\">＿＿</span>分布在纺锤体的中央。",
         "知识_背面": "有丝分裂前期的特征有：染色质丝螺旋缠绕成为染色体，<span class=\"cloze-answer\">核仁</span>逐渐解体，<span class=\"cloze-answer\">核膜</span>逐渐消失，细胞两极发出纺锤丝，形成纺锤体，染色体<span class=\"cloze-answer\">散乱地</span>分布在纺锤体的中央。"
       }
     },
@@ -4038,7 +4354,7 @@
       }
     },
     {
-      "id": 1527682914766,
+      "id": 152768291476600,
       "tags": [],
       "cardTypeIds": [
         "cloze"
@@ -4049,7 +4365,39 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-blank\">＿＿</span><br />②直接原因：<span class=\"cloze-blank\">＿＿</span><br />③进化角度：<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-blank\">＿＿</span><br />②直接原因：<span class=\"cloze-answer\">蛋白质的多样性</span><br />③进化角度：<span class=\"cloze-answer\">多样的环境对生物从不同方向的选择</span></div>",
+        "知识_背面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-answer\">基因的多样性</span><br />②直接原因：<span class=\"cloze-answer\">蛋白质的多样性</span><br />③进化角度：<span class=\"cloze-answer\">多样的环境对生物从不同方向的选择</span></div>"
+      }
+    },
+    {
+      "id": 152768291476601,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生物多样性产生的原因是？<div>①根本原因：{{c1::基因的多样性}}<br />②直接原因：{{c2::蛋白质的多样性}}<br />③进化角度：{{c3::多样的环境对生物从不同方向的选择}}</div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-answer\">基因的多样性</span><br />②直接原因：<span class=\"cloze-blank\">＿＿</span><br />③进化角度：<span class=\"cloze-answer\">多样的环境对生物从不同方向的选择</span></div>",
+        "知识_背面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-answer\">基因的多样性</span><br />②直接原因：<span class=\"cloze-answer\">蛋白质的多样性</span><br />③进化角度：<span class=\"cloze-answer\">多样的环境对生物从不同方向的选择</span></div>"
+      }
+    },
+    {
+      "id": 152768291476602,
+      "tags": [],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "生物多样性产生的原因是？<div>①根本原因：{{c1::基因的多样性}}<br />②直接原因：{{c2::蛋白质的多样性}}<br />③进化角度：{{c3::多样的环境对生物从不同方向的选择}}</div>",
+        "《》": "",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-answer\">基因的多样性</span><br />②直接原因：<span class=\"cloze-answer\">蛋白质的多样性</span><br />③进化角度：<span class=\"cloze-blank\">＿＿</span></div>",
         "知识_背面": "生物多样性产生的原因是？<div>①根本原因：<span class=\"cloze-answer\">基因的多样性</span><br />②直接原因：<span class=\"cloze-answer\">蛋白质的多样性</span><br />③进化角度：<span class=\"cloze-answer\">多样的环境对生物从不同方向的选择</span></div>"
       }
     },
@@ -4114,7 +4462,7 @@
       }
     },
     {
-      "id": 1528845561883,
+      "id": 152884556188300,
       "tags": [
         "生物必修2"
       ],
@@ -4127,12 +4475,48 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<div>豌豆是<span class=\"cloze-blank\">＿＿</span>植物，而且是<span class=\"cloze-blank\">＿＿</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-blank\">＿＿</span>。</div>",
+        "知识_正面": "<div>豌豆是<span class=\"cloze-answer\">自花传粉</span>植物，而且是<span class=\"cloze-blank\">＿＿</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-answer\">纯种</span>。</div>",
         "知识_背面": "<div>豌豆是<span class=\"cloze-answer\">自花传粉</span>植物，而且是<span class=\"cloze-answer\">闭花受粉</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-answer\">纯种</span>。</div>"
       }
     },
     {
-      "id": 1528859823259,
+      "id": 152884556188301,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>豌豆是{{c3::自花传粉}}植物，而且是{{c1::闭花受粉}}，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是{{c2::纯种}}。</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>豌豆是<span class=\"cloze-answer\">自花传粉</span>植物，而且是<span class=\"cloze-answer\">闭花受粉</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-blank\">＿＿</span>。</div>",
+        "知识_背面": "<div>豌豆是<span class=\"cloze-answer\">自花传粉</span>植物，而且是<span class=\"cloze-answer\">闭花受粉</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-answer\">纯种</span>。</div>"
+      }
+    },
+    {
+      "id": 152884556188302,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>豌豆是{{c3::自花传粉}}植物，而且是{{c1::闭花受粉}}，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是{{c2::纯种}}。</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>豌豆是<span class=\"cloze-blank\">＿＿</span>植物，而且是<span class=\"cloze-answer\">闭花受粉</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-answer\">纯种</span>。</div>",
+        "知识_背面": "<div>豌豆是<span class=\"cloze-answer\">自花传粉</span>植物，而且是<span class=\"cloze-answer\">闭花受粉</span>，也就是豌豆花在未开放时，就已经完成了受粉，避免了外来花粉的干扰。所以豌豆在自然状态下一般都是<span class=\"cloze-answer\">纯种</span>。</div>"
+      }
+    },
+    {
+      "id": 152885982325900,
       "tags": [
         "生物必修2"
       ],
@@ -4150,7 +4534,7 @@
       }
     },
     {
-      "id": 1528859875075,
+      "id": 152885987507500,
       "tags": [
         "生物必修2"
       ],
@@ -4168,7 +4552,7 @@
       }
     },
     {
-      "id": 1528859893552,
+      "id": 152885989355200,
       "tags": [
         "生物必修2"
       ],
@@ -4181,12 +4565,30 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<div>对于进行有性生殖的生物来说，<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>",
+        "知识_正面": "<div>对于进行有性生殖的生物来说，<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-answer\">受精作用</span>对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>",
         "知识_背面": "<div>对于进行有性生殖的生物来说，<span class=\"cloze-answer\">减数分裂</span>和<span class=\"cloze-answer\">受精作用</span>对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>"
       }
     },
     {
-      "id": 1528859910101,
+      "id": 152885989355201,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>对于进行有性生殖的生物来说，{{c1::减数分裂}}和{{c2::受精作用}}对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>对于进行有性生殖的生物来说，<span class=\"cloze-answer\">减数分裂</span>和<span class=\"cloze-blank\">＿＿</span>对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>",
+        "知识_背面": "<div>对于进行有性生殖的生物来说，<span class=\"cloze-answer\">减数分裂</span>和<span class=\"cloze-answer\">受精作用</span>对于维持每种生物前后代体细胞中染色体数目的恒定，对于生物的遗传和变异，都是十分重要。</div>"
+      }
+    },
+    {
+      "id": 152885991010100,
       "tags": [
         "生物必修2"
       ],
@@ -4204,7 +4606,7 @@
       }
     },
     {
-      "id": 1528859927498,
+      "id": 152885992749800,
       "tags": [
         "生物必修2"
       ],
@@ -4217,12 +4619,30 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<div>搅拌的目的是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>",
+        "知识_正面": "<div>搅拌的目的是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">离心</span>的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>",
         "知识_背面": "<div>搅拌的目的是<span class=\"cloze-answer\">使吸附在细菌上的噬菌体与细菌分离</span>，<span class=\"cloze-answer\">离心</span>的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>"
       }
     },
     {
-      "id": 1528859966977,
+      "id": 152885992749801,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>搅拌的目的是{{c1::使吸附在细菌上的噬菌体与细菌分离}}，{{c2::离心}}的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>搅拌的目的是<span class=\"cloze-answer\">使吸附在细菌上的噬菌体与细菌分离</span>，<span class=\"cloze-blank\">＿＿</span>的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>",
+        "知识_背面": "<div>搅拌的目的是<span class=\"cloze-answer\">使吸附在细菌上的噬菌体与细菌分离</span>，<span class=\"cloze-answer\">离心</span>的目的是让上清液中析出重量较轻的 T2噬菌体颗粒，而离心管的沉淀物中留下被感染的大肠杆菌。</div>"
+      }
+    },
+    {
+      "id": 152885996697700,
       "tags": [
         "生物必修2"
       ],
@@ -4235,12 +4655,30 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "DNA 分子中的<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>交替连接，排列在外侧，构成基本骨架；<span class=\"cloze-blank\">＿＿</span>排列在内侧。",
+        "知识_正面": "DNA 分子中的<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>交替连接，排列在外侧，构成基本骨架；<span class=\"cloze-answer\">碱基</span>排列在内侧。",
         "知识_背面": "DNA 分子中的<span class=\"cloze-answer\">脱氧核糖</span>和<span class=\"cloze-answer\">磷酸</span>交替连接，排列在外侧，构成基本骨架；<span class=\"cloze-answer\">碱基</span>排列在内侧。"
       }
     },
     {
-      "id": 1528859993983,
+      "id": 152885996697701,
+      "tags": [
+        "生物必修2"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "DNA 分子中的{{c1::脱氧核糖}}和{{c1::磷酸}}交替连接，排列在外侧，构成基本骨架；{{c2::碱基}}排列在内侧。",
+        "《》": "生物必修2",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "DNA 分子中的<span class=\"cloze-answer\">脱氧核糖</span>和<span class=\"cloze-answer\">磷酸</span>交替连接，排列在外侧，构成基本骨架；<span class=\"cloze-blank\">＿＿</span>排列在内侧。",
+        "知识_背面": "DNA 分子中的<span class=\"cloze-answer\">脱氧核糖</span>和<span class=\"cloze-answer\">磷酸</span>交替连接，排列在外侧，构成基本骨架；<span class=\"cloze-answer\">碱基</span>排列在内侧。"
+      }
+    },
+    {
+      "id": 152885999398300,
       "tags": [
         "生物必修2"
       ],
@@ -4258,7 +4696,7 @@
       }
     },
     {
-      "id": 1528860215948,
+      "id": 152886021594800,
       "tags": [
         "生物必修2"
       ],
@@ -4276,7 +4714,7 @@
       }
     },
     {
-      "id": 1528860232914,
+      "id": 152886023291400,
       "tags": [
         "生物必修2"
       ],
@@ -4294,7 +4732,7 @@
       }
     },
     {
-      "id": 1528860251325,
+      "id": 152886025132500,
       "tags": [
         "生物必修2"
       ],
@@ -4312,7 +4750,7 @@
       }
     },
     {
-      "id": 1528860644407,
+      "id": 152886064440700,
       "tags": [
         "生物必修2"
       ],
@@ -4330,7 +4768,7 @@
       }
     },
     {
-      "id": 1528860703444,
+      "id": 152886070344400,
       "tags": [
         "生物必修2"
       ],
@@ -4348,7 +4786,7 @@
       }
     },
     {
-      "id": 1528860734677,
+      "id": 152886073467700,
       "tags": [
         "生物必修2"
       ],
@@ -4366,7 +4804,7 @@
       }
     },
     {
-      "id": 1528860755055,
+      "id": 152886075505500,
       "tags": [
         "生物必修2"
       ],
@@ -4384,7 +4822,7 @@
       }
     },
     {
-      "id": 1528860766641,
+      "id": 152886076664100,
       "tags": [
         "生物必修2"
       ],
@@ -4402,7 +4840,7 @@
       }
     },
     {
-      "id": 1528860786655,
+      "id": 152886078665500,
       "tags": [
         "生物必修2"
       ],
@@ -4420,7 +4858,7 @@
       }
     },
     {
-      "id": 1528860803527,
+      "id": 152886080352700,
       "tags": [
         "生物必修2"
       ],
@@ -4438,7 +4876,7 @@
       }
     },
     {
-      "id": 1528860998695,
+      "id": 152886099869500,
       "tags": [
         "生物必修2"
       ],
@@ -4456,7 +4894,7 @@
       }
     },
     {
-      "id": 1528861013061,
+      "id": 152886101306100,
       "tags": [
         "生物必修2"
       ],
@@ -4474,7 +4912,7 @@
       }
     },
     {
-      "id": 1528861024437,
+      "id": 152886102443700,
       "tags": [
         "生物必修2"
       ],

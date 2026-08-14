@@ -478,7 +478,7 @@
       }
     },
     {
-      "id": 1515898209789,
+      "id": 151589820978900,
       "tags": [
         "化学与生活"
       ],
@@ -491,12 +491,48 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-blank\">＿＿</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-blank\">＿＿</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-blank\">＿＿</span>.</div></div>",
+        "知识_正面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-blank\">＿＿</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-answer\">可逆</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-answer\">分离和提纯</span>.</div></div>",
         "知识_背面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-answer\">无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-answer\">可逆</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-answer\">分离和提纯</span>.</div></div>"
       }
     },
     {
-      "id": 1515898235175,
+      "id": 151589820978901,
+      "tags": [
+        "化学与生活"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的{{c1::无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）}}后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个{{c2::可逆}} 过程；</div><div>利用该反应可以进行蛋白质的{{c3::分离和提纯}}.</div></div>",
+        "《》": "化学与生活",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-answer\">无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-blank\">＿＿</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-answer\">分离和提纯</span>.</div></div>",
+        "知识_背面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-answer\">无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-answer\">可逆</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-answer\">分离和提纯</span>.</div></div>"
+      }
+    },
+    {
+      "id": 151589820978902,
+      "tags": [
+        "化学与生活"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的{{c1::无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）}}后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个{{c2::可逆}} 过程；</div><div>利用该反应可以进行蛋白质的{{c3::分离和提纯}}.</div></div>",
+        "《》": "化学与生活",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-answer\">无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-answer\">可逆</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-blank\">＿＿</span>.</div></div>",
+        "知识_背面": "蛋白质的盐析是指：<div>向蛋白质溶液中加入某些浓的<span class=\"cloze-answer\">无机轻金属盐（如：NaCl、(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>、Na<sub>2</sub>SO<sub>4</sub>）</span>后,蛋白质发生凝聚从溶液中析出的过程；<div>盐析是一个<span class=\"cloze-answer\">可逆</span> 过程；</div><div>利用该反应可以进行蛋白质的<span class=\"cloze-answer\">分离和提纯</span>.</div></div>"
+      }
+    },
+    {
+      "id": 151589823517500,
       "tags": [
         "化学与生活"
       ],
@@ -509,12 +545,30 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "能使蛋白质发生变性有<span class=\"cloze-blank\">＿＿</span>等,误食重金属离子后应<span class=\"cloze-blank\">＿＿</span>解毒.",
+        "知识_正面": "能使蛋白质发生变性有<span class=\"cloze-blank\">＿＿</span>等,误食重金属离子后应<span class=\"cloze-answer\">喝大量牛奶</span>解毒.",
         "知识_背面": "能使蛋白质发生变性有<span class=\"cloze-answer\">铜盐、钡盐</span>等,误食重金属离子后应<span class=\"cloze-answer\">喝大量牛奶</span>解毒."
       }
     },
     {
-      "id": 1515898286082,
+      "id": 151589823517501,
+      "tags": [
+        "化学与生活"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "能使蛋白质发生变性有{{c1::铜盐、钡盐}}等,误食重金属离子后应{{c2::喝大量牛奶}}解毒.",
+        "《》": "化学与生活",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "能使蛋白质发生变性有<span class=\"cloze-answer\">铜盐、钡盐</span>等,误食重金属离子后应<span class=\"cloze-blank\">＿＿</span>解毒.",
+        "知识_背面": "能使蛋白质发生变性有<span class=\"cloze-answer\">铜盐、钡盐</span>等,误食重金属离子后应<span class=\"cloze-answer\">喝大量牛奶</span>解毒."
+      }
+    },
+    {
+      "id": 151589828608200,
       "tags": [
         "化学与生活"
       ],
@@ -561,7 +615,7 @@
       }
     },
     {
-      "id": 1515898940048,
+      "id": 151589894004800,
       "tags": [
         "化学与生活"
       ],
@@ -579,7 +633,7 @@
       }
     },
     {
-      "id": 1515899001189,
+      "id": 151589900118900,
       "tags": [
         "化学与生活"
       ],
@@ -592,12 +646,48 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "通常所说的三大合成材料是指<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-blank\">＿＿</span>.",
+        "知识_正面": "通常所说的三大合成材料是指<span class=\"cloze-blank\">＿＿</span>、<span class=\"cloze-answer\">合成纤维</span>和<span class=\"cloze-answer\">合成橡胶</span>.",
         "知识_背面": "通常所说的三大合成材料是指<span class=\"cloze-answer\">塑料</span>、<span class=\"cloze-answer\">合成纤维</span>和<span class=\"cloze-answer\">合成橡胶</span>."
       }
     },
     {
-      "id": 1515899015675,
+      "id": 151589900118901,
+      "tags": [
+        "化学与生活"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "通常所说的三大合成材料是指{{c1::塑料}}、{{c2::合成纤维}}和{{c3::合成橡胶}}.",
+        "《》": "化学与生活",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "通常所说的三大合成材料是指<span class=\"cloze-answer\">塑料</span>、<span class=\"cloze-blank\">＿＿</span>和<span class=\"cloze-answer\">合成橡胶</span>.",
+        "知识_背面": "通常所说的三大合成材料是指<span class=\"cloze-answer\">塑料</span>、<span class=\"cloze-answer\">合成纤维</span>和<span class=\"cloze-answer\">合成橡胶</span>."
+      }
+    },
+    {
+      "id": 151589900118902,
+      "tags": [
+        "化学与生活"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "通常所说的三大合成材料是指{{c1::塑料}}、{{c2::合成纤维}}和{{c3::合成橡胶}}.",
+        "《》": "化学与生活",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "通常所说的三大合成材料是指<span class=\"cloze-answer\">塑料</span>、<span class=\"cloze-answer\">合成纤维</span>和<span class=\"cloze-blank\">＿＿</span>.",
+        "知识_背面": "通常所说的三大合成材料是指<span class=\"cloze-answer\">塑料</span>、<span class=\"cloze-answer\">合成纤维</span>和<span class=\"cloze-answer\">合成橡胶</span>."
+      }
+    },
+    {
+      "id": 151589901567500,
       "tags": [
         "化学与生活"
       ],
@@ -615,7 +705,7 @@
       }
     },
     {
-      "id": 1515899455732,
+      "id": 151589945573200,
       "tags": [
         "化学与生活"
       ],
@@ -633,7 +723,7 @@
       }
     },
     {
-      "id": 1515899498191,
+      "id": 151589949819100,
       "tags": [
         "化学与生活"
       ],
@@ -651,7 +741,7 @@
       }
     },
     {
-      "id": 1515899509500,
+      "id": 151589950950000,
       "tags": [
         "化学与生活"
       ],
@@ -823,7 +913,7 @@
       }
     },
     {
-      "id": 1525908187363,
+      "id": 152590818736300,
       "tags": [
         "化学与生活"
       ],

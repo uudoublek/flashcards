@@ -50,7 +50,7 @@
   },
   "cards": [
     {
-      "id": 1532435097494,
+      "id": 153243509749400,
       "tags": [
         "数列",
         "等差数列"
@@ -64,12 +64,31 @@
         "评论": "",
         "举例": "a<sub>7</sub>，a<sub>11</sub>，a<sub>15</sub>，…，a<sub>55</sub>共有多少项？<br>\\(\\frac{55-7}{4}\\)+1=13",
         "拓展": "",
-        "知识_正面": "通项：<br><span class=\"cloze-blank\">＿＿</span><br>→<br>项数公式：<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "通项：<br><span class=\"cloze-blank\">＿＿</span><br>→<br>项数公式：<span class=\"cloze-answer\">\\(n=\\frac{a_n-a_1}{d}+1\\)</span>",
         "知识_背面": "通项：<br><span class=\"cloze-answer\">\\(a_n=a_1+(n-1)d\\)</span><br>→<br>项数公式：<span class=\"cloze-answer\">\\(n=\\frac{a_n-a_1}{d}+1\\)</span>"
       }
     },
     {
-      "id": 1532435115881,
+      "id": 153243509749401,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "通项：<br>{{c1::\\(a_n=a_1+(n-1)d\\)}}<br>→<br>项数公式：{{c2::\\(n=\\frac{a_n-a_1}{d}+1\\)}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "a<sub>7</sub>，a<sub>11</sub>，a<sub>15</sub>，…，a<sub>55</sub>共有多少项？<br>\\(\\frac{55-7}{4}\\)+1=13",
+        "拓展": "",
+        "知识_正面": "通项：<br><span class=\"cloze-answer\">\\(a_n=a_1+(n-1)d\\)</span><br>→<br>项数公式：<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "通项：<br><span class=\"cloze-answer\">\\(a_n=a_1+(n-1)d\\)</span><br>→<br>项数公式：<span class=\"cloze-answer\">\\(n=\\frac{a_n-a_1}{d}+1\\)</span>"
+      }
+    },
+    {
+      "id": 153243511588100,
       "tags": [
         "数列",
         "等差数列"
@@ -83,12 +102,31 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "前n项和公式：<br><div>\\(S_n=\\)<span class=\"cloze-blank\">＿＿</span></div><div>=<span class=\"cloze-blank\">＿＿</span><br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>",
+        "知识_正面": "前n项和公式：<br><div>\\(S_n=\\)<span class=\"cloze-blank\">＿＿</span></div><div>=<span class=\"cloze-answer\">\\(a_1n+\\frac{1}{2}n（n-1）d\\)</span><br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>",
         "知识_背面": "前n项和公式：<br><div>\\(S_n=\\)<span class=\"cloze-answer\">\\(\\frac{(a_1+a_n)n}{2}\\)</span></div><div>=<span class=\"cloze-answer\">\\(a_1n+\\frac{1}{2}n（n-1）d\\)</span><br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>"
       }
     },
     {
-      "id": 1532435279933,
+      "id": 153243511588101,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "前n项和公式：<br><div>\\(S_n=\\){{c1::\\(\\frac{(a_1+a_n)n}{2}\\)}}</div><div>={{c2::\\(a_1n+\\frac{1}{2}n（n-1）d\\)}}<br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "前n项和公式：<br><div>\\(S_n=\\)<span class=\"cloze-answer\">\\(\\frac{(a_1+a_n)n}{2}\\)</span></div><div>=<span class=\"cloze-blank\">＿＿</span><br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>",
+        "知识_背面": "前n项和公式：<br><div>\\(S_n=\\)<span class=\"cloze-answer\">\\(\\frac{(a_1+a_n)n}{2}\\)</span></div><div>=<span class=\"cloze-answer\">\\(a_1n+\\frac{1}{2}n（n-1）d\\)</span><br><div>\\(S_{n}=\\frac{n(a_{1}+a_{n})}{2}=a_{1}n+\\frac{1}{2}(n-1)d\\)</div></div>"
+      }
+    },
+    {
+      "id": 153243527993300,
       "tags": [
         "数列",
         "等差数列"
@@ -107,7 +145,7 @@
       }
     },
     {
-      "id": 1532435542174,
+      "id": 153243554217400,
       "tags": [
         "数列",
         "等差数列"
@@ -121,12 +159,31 @@
         "评论": "",
         "举例": "S<sub>7</sub>=7a<sub>4</sub><br>S<sub>101</sub>=101a<sub>51</sub>",
         "拓展": "",
-        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>=<span class=\"cloze-answer\">\\((2n－1)a_n\\)</span>",
         "知识_背面": "<span class=\"cloze-answer\">\\(S_{2n－1}\\)</span>=<span class=\"cloze-answer\">\\((2n－1)a_n\\)</span>"
       }
     },
     {
-      "id": 1532435801869,
+      "id": 153243554217401,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::\\(S_{2n－1}\\)}}={{c2::\\((2n－1)a_n\\)}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "S<sub>7</sub>=7a<sub>4</sub><br>S<sub>101</sub>=101a<sub>51</sub>",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">\\(S_{2n－1}\\)</span>=<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">\\(S_{2n－1}\\)</span>=<span class=\"cloze-answer\">\\((2n－1)a_n\\)</span>"
+      }
+    },
+    {
+      "id": 153243580186900,
       "tags": [
         "数列",
         "等差数列"
@@ -140,12 +197,31 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>{a<sub>n</sub>}的前n项和为S<sub>n</sub>，<span class=\"cloze-blank\">＿＿</span>{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "<span class=\"cloze-answer\">等差数列</span>{a<sub>n</sub>}的前n项和为S<sub>n</sub>，<span class=\"cloze-answer\">等差数列</span>{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则<span class=\"cloze-blank\">＿＿</span>",
         "知识_背面": "<span class=\"cloze-answer\">等差数列</span>{a<sub>n</sub>}的前n项和为S<sub>n</sub>，<span class=\"cloze-answer\">等差数列</span>{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则<span class=\"cloze-answer\">\\(\\frac{a_n}{b_n}=\\frac{S_{2n－1} }{T_{2n－1} }\\)</span>"
       }
     },
     {
-      "id": 1532436049835,
+      "id": 153243580186901,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c2::等差数列}}{a<sub>n</sub>}的前n项和为S<sub>n</sub>，{{c2::等差数列}}{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则{{c1::\\(\\frac{a_n}{b_n}=\\frac{S_{2n－1} }{T_{2n－1} }\\)}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>{a<sub>n</sub>}的前n项和为S<sub>n</sub>，<span class=\"cloze-blank\">＿＿</span>{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则<span class=\"cloze-answer\">\\(\\frac{a_n}{b_n}=\\frac{S_{2n－1} }{T_{2n－1} }\\)</span>",
+        "知识_背面": "<span class=\"cloze-answer\">等差数列</span>{a<sub>n</sub>}的前n项和为S<sub>n</sub>，<span class=\"cloze-answer\">等差数列</span>{b<sub>n</sub>}的前n项和为T<sub>n</sub>，则<span class=\"cloze-answer\">\\(\\frac{a_n}{b_n}=\\frac{S_{2n－1} }{T_{2n－1} }\\)</span>"
+      }
+    },
+    {
+      "id": 153243604983500,
       "tags": [
         "数列",
         "等差数列"
@@ -159,12 +235,69 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>，<br><span class=\"cloze-blank\">＿＿</span>，…成<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>",
         "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>"
       }
     },
     {
-      "id": 1532436380295,
+      "id": 153243604983501,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c2::S<sub>n</sub> }}，{{c1::S<sub>2n</sub>-S<sub>n</sub>}}，{{c1::S<sub>3n</sub>-S<sub>2n</sub>}}，<br>{{c2::S<sub>4n</sub>-S<sub>3n</sub>}}，…成{{c4::等差数列}}，{{c4::公差::公差/公比}}为{{c3::n²d}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-blank\">＿＿</span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>",
+        "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>"
+      }
+    },
+    {
+      "id": 153243604983502,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c2::S<sub>n</sub> }}，{{c1::S<sub>2n</sub>-S<sub>n</sub>}}，{{c1::S<sub>3n</sub>-S<sub>2n</sub>}}，<br>{{c2::S<sub>4n</sub>-S<sub>3n</sub>}}，…成{{c4::等差数列}}，{{c4::公差::公差/公比}}为{{c3::n²d}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>"
+      }
+    },
+    {
+      "id": 153243604983503,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c2::S<sub>n</sub> }}，{{c1::S<sub>2n</sub>-S<sub>n</sub>}}，{{c1::S<sub>3n</sub>-S<sub>2n</sub>}}，<br>{{c2::S<sub>4n</sub>-S<sub>3n</sub>}}，…成{{c4::等差数列}}，{{c4::公差::公差/公比}}为{{c3::n²d}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>为<span class=\"cloze-answer\">n²d</span>",
+        "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub> </span>，<span class=\"cloze-answer\">S<sub>2n</sub>-S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span>，<br><span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">公差::公差/公比</span>为<span class=\"cloze-answer\">n²d</span>"
+      }
+    },
+    {
+      "id": 153243638029500,
       "tags": [
         "数列",
         "等差数列"
@@ -183,7 +316,7 @@
       }
     },
     {
-      "id": 1532437459129,
+      "id": 153243745912900,
       "tags": [
         "数列",
         "等差数列"
@@ -197,12 +330,50 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，则其公差为<span class=\"cloze-blank\">＿＿</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-answer\">An＋B</span>，则其公差为<span class=\"cloze-blank\">＿＿</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-answer\">2</span>",
         "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">An＋B</span>，则其公差为<span class=\"cloze-answer\">A</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-answer\">2</span>"
       }
     },
     {
-      "id": 1532437628234,
+      "id": 153243745912901,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "a<sub>n</sub>={{c3::An＋B}}，则其公差为{{c1::A}}，如a<sub>n</sub>=2n＋1⇒公差为{{c2::2}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-answer\">An＋B</span>，则其公差为<span class=\"cloze-answer\">A</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">An＋B</span>，则其公差为<span class=\"cloze-answer\">A</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-answer\">2</span>"
+      }
+    },
+    {
+      "id": 153243745912902,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "a<sub>n</sub>={{c3::An＋B}}，则其公差为{{c1::A}}，如a<sub>n</sub>=2n＋1⇒公差为{{c2::2}}",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，则其公差为<span class=\"cloze-answer\">A</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-answer\">2</span>",
+        "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">An＋B</span>，则其公差为<span class=\"cloze-answer\">A</span>，如a<sub>n</sub>=2n＋1⇒公差为<span class=\"cloze-answer\">2</span>"
+      }
+    },
+    {
+      "id": 153243762823400,
       "tags": [
         "数列",
         "等差数列"
@@ -216,12 +387,69 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，没有<span class=\"cloze-blank\">＿＿</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。",
         "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。"
       }
     },
     {
-      "id": 1532437974438,
+      "id": 153243762823401,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn}}，没有{{c2::常数项}}，而且其通项公式可快速求得：a<sub>n</sub>={{c3::2An＋（B－A）}}，如：给出S<sub>n</sub>=3n²＋4n⇒{{c4::a<sub>n</sub>=6n＋1}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-blank\">＿＿</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。"
+      }
+    },
+    {
+      "id": 153243762823402,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn}}，没有{{c2::常数项}}，而且其通项公式可快速求得：a<sub>n</sub>={{c3::2An＋（B－A）}}，如：给出S<sub>n</sub>=3n²＋4n⇒{{c4::a<sub>n</sub>=6n＋1}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。"
+      }
+    },
+    {
+      "id": 153243762823403,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn}}，没有{{c2::常数项}}，而且其通项公式可快速求得：a<sub>n</sub>={{c3::2An＋（B－A）}}，如：给出S<sub>n</sub>=3n²＋4n⇒{{c4::a<sub>n</sub>=6n＋1}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-blank\">＿＿</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn</span>，没有<span class=\"cloze-answer\">常数项</span>，而且其通项公式可快速求得：a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span>，如：给出S<sub>n</sub>=3n²＋4n⇒<span class=\"cloze-answer\">a<sub>n</sub>=6n＋1</span>。"
+      }
+    },
+    {
+      "id": 153243797443800,
       "tags": [
         "数列",
         "等差数列"
@@ -235,12 +463,88 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>；<br>a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span> ，<span class=\"cloze-blank\">＿＿</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-blank\">＿＿</span>。",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。",
         "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。"
       }
     },
     {
-      "id": 1532438467808,
+      "id": 153243797443801,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn＋C}}，{{c2::存在}}常数项，则其通项公式要分段求得：a<sub>n</sub>={{c3::A+B+C}}，{{c4::n=1}}；<br>a<sub>n</sub>={{c3::2An＋（B－A）}} ，{{c4::n≥2}}，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br>{{c5::a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-blank\">＿＿</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。"
+      }
+    },
+    {
+      "id": 153243797443802,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn＋C}}，{{c2::存在}}常数项，则其通项公式要分段求得：a<sub>n</sub>={{c3::A+B+C}}，{{c4::n=1}}；<br>a<sub>n</sub>={{c3::2An＋（B－A）}} ，{{c4::n≥2}}，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br>{{c5::a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。"
+      }
+    },
+    {
+      "id": 153243797443803,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn＋C}}，{{c2::存在}}常数项，则其通项公式要分段求得：a<sub>n</sub>={{c3::A+B+C}}，{{c4::n=1}}；<br>a<sub>n</sub>={{c3::2An＋（B－A）}} ，{{c4::n≥2}}，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br>{{c5::a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-blank\">＿＿</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-blank\">＿＿</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。"
+      }
+    },
+    {
+      "id": 153243797443804,
+      "tags": [
+        "数列",
+        "等差数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "等差数列前n项和的形式为S<sub>n</sub>={{c1::An²＋Bn＋C}}，{{c2::存在}}常数项，则其通项公式要分段求得：a<sub>n</sub>={{c3::A+B+C}}，{{c4::n=1}}；<br>a<sub>n</sub>={{c3::2An＋（B－A）}} ，{{c4::n≥2}}，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br>{{c5::a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2}}。",
+        "《》": "等差数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-blank\">＿＿</span>。",
+        "知识_背面": "等差数列前n项和的形式为S<sub>n</sub>=<span class=\"cloze-answer\">An²＋Bn＋C</span>，<span class=\"cloze-answer\">存在</span>常数项，则其通项公式要分段求得：a<sub>n</sub>=<span class=\"cloze-answer\">A+B+C</span>，<span class=\"cloze-answer\">n=1</span>；<br>a<sub>n</sub>=<span class=\"cloze-answer\">2An＋（B－A）</span> ，<span class=\"cloze-answer\">n≥2</span>，如：给出<br>S<sub>n</sub>=3n²＋5n＋1⇒<br><span class=\"cloze-answer\">a<sub>n</sub>=9，n=1；<br>a<sub>n</sub>=6n＋2，n≥2</span>。"
+      }
+    },
+    {
+      "id": 153243846780800,
       "tags": [
         "数列",
         "等差数列"
@@ -259,7 +563,7 @@
       }
     },
     {
-      "id": 1532522033888,
+      "id": 153252203388800,
       "tags": [
         "数列",
         "等比数列"
@@ -278,7 +582,7 @@
       }
     },
     {
-      "id": 1532522645034,
+      "id": 153252264503400,
       "tags": [
         "数列",
         "等比数列"
@@ -292,12 +596,31 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "前n项和：Sn<br>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>；<br><div>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "前n项和：Sn<br>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">(q=1)</span>；<br><div>=<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">(q≠1)</span></div>",
         "知识_背面": "前n项和：Sn<br>=<span class=\"cloze-answer\">\\(na_1\\)</span>，<span class=\"cloze-answer\">(q=1)</span>；<br><div>=<span class=\"cloze-answer\">\\(\\frac{a_1(1-q^n)}{1-q}\\)</span>，<span class=\"cloze-answer\">(q≠1)</span></div>"
       }
     },
     {
-      "id": 1532522988885,
+      "id": 153252264503401,
+      "tags": [
+        "数列",
+        "等比数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "前n项和：Sn<br>={{c1::\\(na_1\\)}}，{{c2::(q=1)}}；<br><div>={{c1::\\(\\frac{a_1(1-q^n)}{1-q}\\)}}，{{c2::(q≠1)}}</div>",
+        "《》": "等比数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "前n项和：Sn<br>=<span class=\"cloze-answer\">\\(na_1\\)</span>，<span class=\"cloze-blank\">＿＿</span>；<br><div>=<span class=\"cloze-answer\">\\(\\frac{a_1(1-q^n)}{1-q}\\)</span>，<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "前n项和：Sn<br>=<span class=\"cloze-answer\">\\(na_1\\)</span>，<span class=\"cloze-answer\">(q=1)</span>；<br><div>=<span class=\"cloze-answer\">\\(\\frac{a_1(1-q^n)}{1-q}\\)</span>，<span class=\"cloze-answer\">(q≠1)</span></div>"
+      }
+    },
+    {
+      "id": 153252298888500,
       "tags": [
         "数列",
         "等比数列"
@@ -311,12 +634,31 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "对于等比数列{a<sub>n</sub>}，<br>若<span class=\"cloze-blank\">＿＿</span>，则<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "对于等比数列{a<sub>n</sub>}，<br>若<span class=\"cloze-blank\">＿＿</span>，则<span class=\"cloze-answer\">a<sub>m</sub>a<sub>n</sub>=a<sub>p</sub>a<sub>q</sub></span>",
         "知识_背面": "对于等比数列{a<sub>n</sub>}，<br>若<span class=\"cloze-answer\">m＋n=p＋q</span>，则<span class=\"cloze-answer\">a<sub>m</sub>a<sub>n</sub>=a<sub>p</sub>a<sub>q</sub></span>"
       }
     },
     {
-      "id": 1532523101801,
+      "id": 153252298888501,
+      "tags": [
+        "数列",
+        "等比数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "对于等比数列{a<sub>n</sub>}，<br>若{{c1::m＋n=p＋q}}，则{{c2::a<sub>m</sub>a<sub>n</sub>=a<sub>p</sub>a<sub>q</sub>}}",
+        "《》": "等比数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "对于等比数列{a<sub>n</sub>}，<br>若<span class=\"cloze-answer\">m＋n=p＋q</span>，则<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "对于等比数列{a<sub>n</sub>}，<br>若<span class=\"cloze-answer\">m＋n=p＋q</span>，则<span class=\"cloze-answer\">a<sub>m</sub>a<sub>n</sub>=a<sub>p</sub>a<sub>q</sub></span>"
+      }
+    },
+    {
+      "id": 153252310180100,
       "tags": [
         "数列",
         "等比数列"
@@ -330,12 +672,50 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span> ，<span class=\"cloze-blank\">＿＿</span>，…成等比数列，公比为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_正面": "<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">S<sub>2n</sub>－S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span> ，<span class=\"cloze-blank\">＿＿</span>，…成等比数列，公比为<span class=\"cloze-answer\">q<sup>n</sup></span>",
         "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>2n</sub>－S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span> ，<span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成等比数列，公比为<span class=\"cloze-answer\">q<sup>n</sup></span>"
       }
     },
     {
-      "id": 1532523315555,
+      "id": 153252310180101,
+      "tags": [
+        "数列",
+        "等比数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::S<sub>n</sub>}}，{{c2::S<sub>2n</sub>－S<sub>n</sub>}}，{{c2::S<sub>3n</sub>-S<sub>2n</sub>}} ，{{c1::S<sub>4n</sub>-S<sub>3n</sub>}}，…成等比数列，公比为{{c3::q<sup>n</sup>}}",
+        "《》": "等比数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">S<sub>n</sub></span>，<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span> ，<span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成等比数列，公比为<span class=\"cloze-answer\">q<sup>n</sup></span>",
+        "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>2n</sub>－S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span> ，<span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成等比数列，公比为<span class=\"cloze-answer\">q<sup>n</sup></span>"
+      }
+    },
+    {
+      "id": 153252310180102,
+      "tags": [
+        "数列",
+        "等比数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "{{c1::S<sub>n</sub>}}，{{c2::S<sub>2n</sub>－S<sub>n</sub>}}，{{c2::S<sub>3n</sub>-S<sub>2n</sub>}} ，{{c1::S<sub>4n</sub>-S<sub>3n</sub>}}，…成等比数列，公比为{{c3::q<sup>n</sup>}}",
+        "《》": "等比数列",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<span class=\"cloze-answer\">S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>2n</sub>－S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span> ，<span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成等比数列，公比为<span class=\"cloze-blank\">＿＿</span>",
+        "知识_背面": "<span class=\"cloze-answer\">S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>2n</sub>－S<sub>n</sub></span>，<span class=\"cloze-answer\">S<sub>3n</sub>-S<sub>2n</sub></span> ，<span class=\"cloze-answer\">S<sub>4n</sub>-S<sub>3n</sub></span>，…成等比数列，公比为<span class=\"cloze-answer\">q<sup>n</sup></span>"
+      }
+    },
+    {
+      "id": 153252331555500,
       "tags": [
         "数列",
         "等比数列"
@@ -354,7 +734,7 @@
       }
     },
     {
-      "id": 1532524001299,
+      "id": 153252400129900,
       "tags": [
         "数列",
         "递推数列"
@@ -368,12 +748,31 @@
         "评论": "",
         "举例": "<img src='IMG_20180725_212015.jpg'/>",
         "拓展": "",
-        "知识_正面": "1累加法：<span class=\"cloze-blank\">＿＿</span>，（<span class=\"cloze-blank\">＿＿</span>），f(n)具有“可加性”能够将“和”写成一个式子。",
+        "知识_正面": "1累加法：<span class=\"cloze-blank\">＿＿</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数相同</span>），f(n)具有“可加性”能够将“和”写成一个式子。",
         "知识_背面": "1累加法：<span class=\"cloze-answer\">a<sub>n＋1</sub>=a<sub>n</sub>＋f(n)</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数相同</span>），f(n)具有“可加性”能够将“和”写成一个式子。"
       }
     },
     {
-      "id": 1532524837685,
+      "id": 153252400129901,
+      "tags": [
+        "数列",
+        "递推数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "1累加法：{{c1::a<sub>n＋1</sub>=a<sub>n</sub>＋f(n)}}，（{{c2::a<sub>n</sub>，a<sub>n＋1</sub>系数相同}}），f(n)具有“可加性”能够将“和”写成一个式子。",
+        "《》": "递推数列",
+        "评论": "",
+        "举例": "<img src='IMG_20180725_212015.jpg'/>",
+        "拓展": "",
+        "知识_正面": "1累加法：<span class=\"cloze-answer\">a<sub>n＋1</sub>=a<sub>n</sub>＋f(n)</span>，（<span class=\"cloze-blank\">＿＿</span>），f(n)具有“可加性”能够将“和”写成一个式子。",
+        "知识_背面": "1累加法：<span class=\"cloze-answer\">a<sub>n＋1</sub>=a<sub>n</sub>＋f(n)</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数相同</span>），f(n)具有“可加性”能够将“和”写成一个式子。"
+      }
+    },
+    {
+      "id": 153252483768500,
       "tags": [
         "数列",
         "递推数列"
@@ -392,7 +791,7 @@
       }
     },
     {
-      "id": 1532525254043,
+      "id": 153252525404300,
       "tags": [
         "数列",
         "递推数列"
@@ -406,12 +805,69 @@
         "评论": "",
         "举例": "<img src='IMG_20180725_213645.jpg'/>",
         "拓展": "",
-        "知识_正面": "3“λ”法（待定系数法）：<span class=\"cloze-blank\">＿＿</span>，（<span class=\"cloze-blank\">＿＿</span>）<br>\\(λ=<span class=\"cloze-blank\">＿＿</span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-blank\">＿＿</span>}是等比数列",
+        "知识_正面": "3“λ”法（待定系数法）：<span class=\"cloze-blank\">＿＿</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列",
         "知识_背面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列"
       }
     },
     {
-      "id": 1532602072167,
+      "id": 153252525404301,
+      "tags": [
+        "数列",
+        "递推数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "3“λ”法（待定系数法）：{{c1::a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）}}，（{{c2::a<sub>n</sub>，a<sub>n＋1</sub>系数不同}}）<br>\\(λ={{c3::\\frac{q}{p－1} }}\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br>{{c4::{a<sub>n</sub>＋λ}}}是等比数列",
+        "《》": "递推数列",
+        "评论": "",
+        "举例": "<img src='IMG_20180725_213645.jpg'/>",
+        "拓展": "",
+        "知识_正面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-blank\">＿＿</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列",
+        "知识_背面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列"
+      }
+    },
+    {
+      "id": 153252525404302,
+      "tags": [
+        "数列",
+        "递推数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "3“λ”法（待定系数法）：{{c1::a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）}}，（{{c2::a<sub>n</sub>，a<sub>n＋1</sub>系数不同}}）<br>\\(λ={{c3::\\frac{q}{p－1} }}\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br>{{c4::{a<sub>n</sub>＋λ}}}是等比数列",
+        "《》": "递推数列",
+        "评论": "",
+        "举例": "<img src='IMG_20180725_213645.jpg'/>",
+        "拓展": "",
+        "知识_正面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-blank\">＿＿</span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列",
+        "知识_背面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列"
+      }
+    },
+    {
+      "id": 153252525404303,
+      "tags": [
+        "数列",
+        "递推数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "3“λ”法（待定系数法）：{{c1::a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）}}，（{{c2::a<sub>n</sub>，a<sub>n＋1</sub>系数不同}}）<br>\\(λ={{c3::\\frac{q}{p－1} }}\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br>{{c4::{a<sub>n</sub>＋λ}}}是等比数列",
+        "《》": "递推数列",
+        "评论": "",
+        "举例": "<img src='IMG_20180725_213645.jpg'/>",
+        "拓展": "",
+        "知识_正面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-blank\">＿＿</span>}是等比数列",
+        "知识_背面": "3“λ”法（待定系数法）：<span class=\"cloze-answer\">a<sub>n＋1</sub>=pa<sub>n</sub>＋q（常数）</span>，（<span class=\"cloze-answer\">a<sub>n</sub>，a<sub>n＋1</sub>系数不同</span>）<br>\\(λ=<span class=\"cloze-answer\">\\frac{q}{p－1} </span>\\)，a<sub>n＋1</sub>＋λ=p（a<sub>n</sub>＋λ）<br><span class=\"cloze-answer\">{a<sub>n</sub>＋λ</span>}是等比数列"
+      }
+    },
+    {
+      "id": 153260207216700,
       "tags": [
         "数列",
         "递推公式"
@@ -430,7 +886,7 @@
       }
     },
     {
-      "id": 1532602827602,
+      "id": 153260282760200,
       "tags": [
         "数列",
         "递推公式"
@@ -444,12 +900,50 @@
         "评论": "",
         "举例": "<img src='IMG_20180726_191132.jpg'/>",
         "拓展": "",
-        "知识_正面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-blank\">＿＿</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-blank\">＿＿</span><br>，等式两边同时除以<span class=\"cloze-blank\">＿＿</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
+        "知识_正面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-blank\">＿＿</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-answer\">\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)</span><br>，等式两边同时除以<span class=\"cloze-answer\">\\(a_na_{n＋1}\\)</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
         "知识_背面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-answer\">2</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-answer\">\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)</span><br>，等式两边同时除以<span class=\"cloze-answer\">\\(a_na_{n＋1}\\)</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>"
       }
     },
     {
-      "id": 1532603515495,
+      "id": 153260282760201,
+      "tags": [
+        "数列",
+        "递推公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋{{c1::2}} }\\)<div>注意：倒数法另一种形式{{c2::\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)}}<br>，等式两边同时除以{{c3::\\(a_na_{n＋1}\\)}}，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
+        "《》": "递推公式",
+        "评论": "",
+        "举例": "<img src='IMG_20180726_191132.jpg'/>",
+        "拓展": "",
+        "知识_正面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-answer\">2</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-blank\">＿＿</span><br>，等式两边同时除以<span class=\"cloze-answer\">\\(a_na_{n＋1}\\)</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
+        "知识_背面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-answer\">2</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-answer\">\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)</span><br>，等式两边同时除以<span class=\"cloze-answer\">\\(a_na_{n＋1}\\)</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>"
+      }
+    },
+    {
+      "id": 153260282760202,
+      "tags": [
+        "数列",
+        "递推公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋{{c1::2}} }\\)<div>注意：倒数法另一种形式{{c2::\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)}}<br>，等式两边同时除以{{c3::\\(a_na_{n＋1}\\)}}，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
+        "《》": "递推公式",
+        "评论": "",
+        "举例": "<img src='IMG_20180726_191132.jpg'/>",
+        "拓展": "",
+        "知识_正面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-answer\">2</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-answer\">\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)</span><br>，等式两边同时除以<span class=\"cloze-blank\">＿＿</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>",
+        "知识_背面": "4*倒数法与λ相结合：\\(a_{n＋1}=\\frac{a_n}{ pa_n＋<span class=\"cloze-answer\">2</span> }\\)<div>注意：倒数法另一种形式<span class=\"cloze-answer\">\\(ma_na_{n＋1}＋pa_n＋qa_{n＋1}=0\\)</span><br>，等式两边同时除以<span class=\"cloze-answer\">\\(a_na_{n＋1}\\)</span>，如\\(a_na_{n＋1}＋a_n－2a_{n＋1}=0\\)⇒\\(\\frac{1}{a_{n＋1}}=2\\frac{1}{a_n}－1\\)</div>"
+      }
+    },
+    {
+      "id": 153260351549500,
       "tags": [
         "数列",
         "求和"
@@ -463,12 +957,50 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "1几个求和公式<br>①<span class=\"cloze-blank\">＿＿</span><div>②<span class=\"cloze-blank\">＿＿</span></div><div>③<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_正面": "1几个求和公式<br>①<span class=\"cloze-blank\">＿＿</span><div>②<span class=\"cloze-answer\">\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)</span></div><div>③<span class=\"cloze-answer\">\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)</span></div>",
         "知识_背面": "1几个求和公式<br>①<span class=\"cloze-answer\">\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)</span><div>②<span class=\"cloze-answer\">\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)</span></div><div>③<span class=\"cloze-answer\">\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)</span></div>"
       }
     },
     {
-      "id": 1532605235190,
+      "id": 153260351549501,
+      "tags": [
+        "数列",
+        "求和"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "1几个求和公式<br>①{{c1::\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)}}<div>②{{c2::\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)}}</div><div>③{{c3::\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)}}</div>",
+        "《》": "求和",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "1几个求和公式<br>①<span class=\"cloze-answer\">\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)</span><div>②<span class=\"cloze-blank\">＿＿</span></div><div>③<span class=\"cloze-answer\">\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)</span></div>",
+        "知识_背面": "1几个求和公式<br>①<span class=\"cloze-answer\">\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)</span><div>②<span class=\"cloze-answer\">\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)</span></div><div>③<span class=\"cloze-answer\">\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)</span></div>"
+      }
+    },
+    {
+      "id": 153260351549502,
+      "tags": [
+        "数列",
+        "求和"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "1几个求和公式<br>①{{c1::\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)}}<div>②{{c2::\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)}}</div><div>③{{c3::\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)}}</div>",
+        "《》": "求和",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "1几个求和公式<br>①<span class=\"cloze-answer\">\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)</span><div>②<span class=\"cloze-answer\">\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)</span></div><div>③<span class=\"cloze-blank\">＿＿</span></div>",
+        "知识_背面": "1几个求和公式<br>①<span class=\"cloze-answer\">\\(1+2+\\dotsc+n=\\frac{n(n＋1)}{2}\\)</span><div>②<span class=\"cloze-answer\">\\(1^2+2^2+\\dotsc+n^2=\\frac{n(n+1)(2n+1)}{6}\\)</span></div><div>③<span class=\"cloze-answer\">\\(1^3+2^3+\\dotsc+n^3=[\\frac{n(n+1)}{2}]^2\\)</span></div>"
+      }
+    },
+    {
+      "id": 153260523519000,
       "tags": [
         "数列",
         "求和公式"
@@ -482,12 +1014,50 @@
         "评论": "",
         "举例": "<img src='IMG_20180726_193308.jpg'/>",
         "拓展": "",
-        "知识_正面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-blank\">＿＿</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-blank\">＿＿</span>）<br></div>",
+        "知识_正面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-blank\">＿＿</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-answer\">\\(a_n\\)＋2</span>）<br></div>",
         "知识_背面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-answer\">\\(a_n\\)＋2</span>）<br></div>"
       }
     },
     {
-      "id": 1532605712306,
+      "id": 153260523519001,
+      "tags": [
+        "数列",
+        "求和公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是{{c2::等差数列}}，{{c1::\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)}}，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7={{c3::\\(a_n\\)＋2}}）<br></div>",
+        "《》": "求和公式",
+        "评论": "",
+        "举例": "<img src='IMG_20180726_193308.jpg'/>",
+        "拓展": "",
+        "知识_正面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-blank\">＿＿</span>，<span class=\"cloze-answer\">\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-answer\">\\(a_n\\)＋2</span>）<br></div>",
+        "知识_背面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-answer\">\\(a_n\\)＋2</span>）<br></div>"
+      }
+    },
+    {
+      "id": 153260523519002,
+      "tags": [
+        "数列",
+        "求和公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是{{c2::等差数列}}，{{c1::\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)}}，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7={{c3::\\(a_n\\)＋2}}）<br></div>",
+        "《》": "求和公式",
+        "评论": "",
+        "举例": "<img src='IMG_20180726_193308.jpg'/>",
+        "拓展": "",
+        "知识_正面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-blank\">＿＿</span>）<br></div>",
+        "知识_背面": "2裂项相消法：<br>①常见形式：{a<sub>n</sub>}是<span class=\"cloze-answer\">等差数列</span>，<span class=\"cloze-answer\">\\(b_n&nbsp;=\\frac{1}{a_{n＋k_1}&nbsp;a_{n＋k_2}&nbsp;}\\)</span>，求{b<sub>n</sub>}的前n项和S<sub>n</sub><br>※题：b<sub>n</sub>=\\(\\frac{1}{(3n＋1)(3n＋7)}\\)<br><div>（注意分母，若记\\(a_n\\)=3n＋1，则3n＋7=<span class=\"cloze-answer\">\\(a_n\\)＋2</span>）<br></div>"
+      }
+    },
+    {
+      "id": 153260571230600,
       "tags": [
         "数列",
         "求和公式"
@@ -524,7 +1094,7 @@
       }
     },
     {
-      "id": 1532693953547,
+      "id": 153269395354700,
       "tags": [
         "数列",
         "求和公式"
@@ -538,12 +1108,50 @@
         "评论": "<img src='IMG_20180727_202533.jpg'/>",
         "举例": "<img src='IMG_20180727_203112.jpg'/>",
         "拓展": "<img src='IMG_20180727_203602.jpg'/>",
-        "知识_正面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-blank\">＿＿</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-blank\">＿＿</span>)，一定是<span class=\"cloze-blank\">＿＿</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-blank\">＿＿</span> 。",
+        "知识_正面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-blank\">＿＿</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-blank\">＿＿</span>)，一定是<span class=\"cloze-answer\">相乘</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-answer\">\\((2n－1)(\\frac{1}{2})^n\\)</span> 。",
         "知识_背面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-answer\">等差</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-answer\">等比</span>)，一定是<span class=\"cloze-answer\">相乘</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-answer\">\\((2n－1)(\\frac{1}{2})^n\\)</span> 。"
       }
     },
     {
-      "id": 1532694981471,
+      "id": 153269395354701,
+      "tags": [
+        "数列",
+        "求和公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "3错位相减:{a<sub>n</sub>}({{c1::等差}})\\(\\cdot\\){b<sub>n</sub>}({{c1::等比}})，一定是{{c2::相乘}}，如\\(\\frac{2n－1}{2^n}\\)改写成{{c3::\\((2n－1)(\\frac{1}{2})^n\\)}} 。",
+        "《》": "求和公式",
+        "评论": "<img src='IMG_20180727_202533.jpg'/>",
+        "举例": "<img src='IMG_20180727_203112.jpg'/>",
+        "拓展": "<img src='IMG_20180727_203602.jpg'/>",
+        "知识_正面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-answer\">等差</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-answer\">等比</span>)，一定是<span class=\"cloze-blank\">＿＿</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-answer\">\\((2n－1)(\\frac{1}{2})^n\\)</span> 。",
+        "知识_背面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-answer\">等差</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-answer\">等比</span>)，一定是<span class=\"cloze-answer\">相乘</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-answer\">\\((2n－1)(\\frac{1}{2})^n\\)</span> 。"
+      }
+    },
+    {
+      "id": 153269395354702,
+      "tags": [
+        "数列",
+        "求和公式"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "3错位相减:{a<sub>n</sub>}({{c1::等差}})\\(\\cdot\\){b<sub>n</sub>}({{c1::等比}})，一定是{{c2::相乘}}，如\\(\\frac{2n－1}{2^n}\\)改写成{{c3::\\((2n－1)(\\frac{1}{2})^n\\)}} 。",
+        "《》": "求和公式",
+        "评论": "<img src='IMG_20180727_202533.jpg'/>",
+        "举例": "<img src='IMG_20180727_203112.jpg'/>",
+        "拓展": "<img src='IMG_20180727_203602.jpg'/>",
+        "知识_正面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-answer\">等差</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-answer\">等比</span>)，一定是<span class=\"cloze-answer\">相乘</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-blank\">＿＿</span> 。",
+        "知识_背面": "3错位相减:{a<sub>n</sub>}(<span class=\"cloze-answer\">等差</span>)\\(\\cdot\\){b<sub>n</sub>}(<span class=\"cloze-answer\">等比</span>)，一定是<span class=\"cloze-answer\">相乘</span>，如\\(\\frac{2n－1}{2^n}\\)改写成<span class=\"cloze-answer\">\\((2n－1)(\\frac{1}{2})^n\\)</span> 。"
+      }
+    },
+    {
+      "id": 153269498147100,
       "tags": [
         "数列"
       ],
@@ -556,12 +1164,48 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-blank\">＿＿</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-answer\">2(n-1)<sup>2</sup>＋2(n-1)</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-answer\">4n</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
         "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-answer\">2(n-1)<sup>2</sup>＋2(n-1)</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-answer\">4n</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉"
       }
     },
     {
-      "id": 1532696116933,
+      "id": 153269498147101,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "a<sub>n</sub>={{c1::a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)}}<br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>={{c2::2(n-1)<sup>2</sup>＋2(n-1)}}两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>={{c3::4n}}<br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-answer\">a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-blank\">＿＿</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-answer\">4n</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
+        "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-answer\">2(n-1)<sup>2</sup>＋2(n-1)</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-answer\">4n</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉"
+      }
+    },
+    {
+      "id": 153269498147102,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "a<sub>n</sub>={{c1::a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)}}<br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>={{c2::2(n-1)<sup>2</sup>＋2(n-1)}}两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>={{c3::4n}}<br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "a<sub>n</sub>=<span class=\"cloze-answer\">a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-answer\">2(n-1)<sup>2</sup>＋2(n-1)</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-blank\">＿＿</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉",
+        "知识_背面": "a<sub>n</sub>=<span class=\"cloze-answer\">a<sub>1</sub>=S<sub>1</sub>(n=1)||=S<sub>n</sub>－S<sub>n－1</sub>，(n≥2)</span><br>①S<sub>n</sub>=2n<sup>2</sup>＋2n，<br>当n≥2时，S<sub>n－1</sub>=<span class=\"cloze-answer\">2(n-1)<sup>2</sup>＋2(n-1)</span>两式相减<br>⇒a<sub>n</sub>=4n<br>当n=1时，a<sub>n</sub>=a<sub>1</sub>=S<sub>1</sub>=4，<br>综上，a<sub>n</sub>=<span class=\"cloze-answer\">4n</span><br>〈本题将S<sub>n</sub>－S<sub>n－1</sub>推a<sub>n</sub>〉"
+      }
+    },
+    {
+      "id": 153269611693300,
       "tags": [
         "数列"
       ],
@@ -574,7 +1218,79 @@
         "评论": "",
         "举例": "",
         "拓展": "",
-        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-blank\">＿＿</span>代入，<br>则<span class=\"cloze-blank\">＿＿</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-blank\">＿＿</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-blank\">＿＿</span>\\)</div><div>所以{<span class=\"cloze-blank\">＿＿</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-blank\">＿＿</span>〉</div></div>",
+        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-blank\">＿＿</span>代入，<br>则<span class=\"cloze-blank\">＿＿</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>",
+        "知识_背面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>"
+      }
+    },
+    {
+      "id": 153269611693301,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)={{c1::\\(S_n-S_{n-1}\\)}}代入，<br>则{{c1::\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)}}</div><div>⇒\\(（S_n-S_{n-1}）^2＋1={{c2::2S_n（S_n-S_{n-1}）}}\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\({{c3::S_n^2－S_{n-1}^2=1}}\\)</div><div>所以{{{c4::\\(S_n^2\\)}}}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈{{c5::本题将\\(a_n换成S_n-S_{n-1}\\)}}〉</div></div>",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-blank\">＿＿</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>",
+        "知识_背面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>"
+      }
+    },
+    {
+      "id": 153269611693302,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)={{c1::\\(S_n-S_{n-1}\\)}}代入，<br>则{{c1::\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)}}</div><div>⇒\\(（S_n-S_{n-1}）^2＋1={{c2::2S_n（S_n-S_{n-1}）}}\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\({{c3::S_n^2－S_{n-1}^2=1}}\\)</div><div>所以{{{c4::\\(S_n^2\\)}}}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈{{c5::本题将\\(a_n换成S_n-S_{n-1}\\)}}〉</div></div>",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-blank\">＿＿</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>",
+        "知识_背面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>"
+      }
+    },
+    {
+      "id": 153269611693303,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)={{c1::\\(S_n-S_{n-1}\\)}}代入，<br>则{{c1::\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)}}</div><div>⇒\\(（S_n-S_{n-1}）^2＋1={{c2::2S_n（S_n-S_{n-1}）}}\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\({{c3::S_n^2－S_{n-1}^2=1}}\\)</div><div>所以{{{c4::\\(S_n^2\\)}}}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈{{c5::本题将\\(a_n换成S_n-S_{n-1}\\)}}〉</div></div>",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-blank\">＿＿</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>",
+        "知识_背面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>"
+      }
+    },
+    {
+      "id": 153269611693304,
+      "tags": [
+        "数列"
+      ],
+      "cardTypeIds": [
+        "cloze"
+      ],
+      "fields": {
+        "知识": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)={{c1::\\(S_n-S_{n-1}\\)}}代入，<br>则{{c1::\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)}}</div><div>⇒\\(（S_n-S_{n-1}）^2＋1={{c2::2S_n（S_n-S_{n-1}）}}\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\({{c3::S_n^2－S_{n-1}^2=1}}\\)</div><div>所以{{{c4::\\(S_n^2\\)}}}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈{{c5::本题将\\(a_n换成S_n-S_{n-1}\\)}}〉</div></div>",
+        "《》": "a<sub>n</sub>与S<sub>n</sub>",
+        "评论": "",
+        "举例": "",
+        "拓展": "",
+        "知识_正面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-blank\">＿＿</span>〉</div></div>",
         "知识_背面": "<div>\\(a_1=S_1，n=1\\);</div><div>\\(S_n－S_{n－1}，n≥2\\)<br>②a<sub>n</sub>&gt;0，\\(a_n＋\\frac{1}{a_n}=2S_n\\)<div>当n≥2时，\\(a_n\\)=<span class=\"cloze-answer\">\\(S_n-S_{n-1}\\)</span>代入，<br>则<span class=\"cloze-answer\">\\(S_n-S_{n-1}＋\\frac{1}{S_n-S_{n-1} }=2S_n\\)</span></div><div>⇒\\(（S_n-S_{n-1}）^2＋1=<span class=\"cloze-answer\">2S_n（S_n-S_{n-1}）</span>\\)<br>⇒\\(S_n^2－2S_nS_{n－1}＋S_{n－1}^2＋1=2S_n^2－2S_nS_{n－1}\\)</div><div>⇒\\(<span class=\"cloze-answer\">S_n^2－S_{n-1}^2=1</span>\\)</div><div>所以{<span class=\"cloze-answer\">\\(S_n^2\\)</span>}是一个等差数列，<br>\\(当n=1时a_n=S_n\\)，<br>∴\\(S_1＋\\frac{1}{S_1}=2S_1\\)</div><div>⇒\\(S_1=1\\)<br>⇒\\(S_1^2=1\\)<br>∴\\(S_n^2=1+(n－1)\\cdot 1=n\\)<br>⇒\\(S_n=\\sqrt n，S_{n－1}=\\sqrt{n-1}\\)</div><div>⇒\\(a_n=S_n-S_{n-1}=\\sqrt n－\\sqrt{n-1}\\)</div><div>当\\(n\\)=1时<br>\\(a_1=S_1=1\\)，<br>综上，\\(a_n=\\sqrt n－\\sqrt{n-1}\\)<br>〈<span class=\"cloze-answer\">本题将\\(a_n换成S_n-S_{n-1}\\)</span>〉</div></div>"
       }
     },
