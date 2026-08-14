@@ -39,6 +39,7 @@ const TOPICS: TopicEntry[] = [
   { id: "homeostasis-environment", name: "生物::稳态与环境", file: "./data/homeostasis-environment.json" },
   { id: "number-sequences", name: "数学::数列", file: "./data/number-sequences.json" },
   { id: "trigonometry", name: "数学::三角函数及解三角形", file: "./data/trigonometry.json" },
+  { id: "english-writing", name: "英语::写作", file: "./data/english-writing.json" },
 ];
 
 // ========== 全局状态 ==========
