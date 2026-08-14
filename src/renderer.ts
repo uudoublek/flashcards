@@ -20,6 +20,14 @@ export function clearApp(): void {
   $app.innerHTML = "";
 }
 
+/** 渲染数学公式（MathJax 已加载时） */
+export function typesetMath(): void {
+  const mj = (window as unknown as { MathJax?: { typesetPromise?: () => Promise<void> } }).MathJax;
+  if (mj?.typesetPromise) {
+    mj.typesetPromise().catch(() => {});
+  }
+}
+
 // ========== 菜单页 ==========
 
 export function renderMenu(topics: { id: string; name: string; file: string }[]): void {
@@ -332,6 +340,7 @@ function renderCard(opts: CardOptions): void {
   `;
 
   $app.appendChild(container);
+  typesetMath();
 
   // 翻转逻辑
   const deck = document.getElementById("card-deck")!;
