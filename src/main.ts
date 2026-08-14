@@ -26,6 +26,7 @@ const TOPICS: TopicEntry[] = [
   { id: "ultimate-geography", name: "Ultimate Geography", file: "./data/ultimate-geography.json" },
   { id: "multiplication-table", name: "大九九乘法表", file: "./data/multiplication-table.json" },
   { id: "wubi86root", name: "五笔单字根（全）", file: "./data/wubi86root.json" },
+  { id: "organic-chemistry", name: "化学::有机化学", file: "./data/organic-chemistry.json" },
 ];
 
 // ========== 全局状态 ==========
