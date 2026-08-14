@@ -59,6 +59,7 @@ MODEL_RULES = [
         "front": ["标题", "正文带标记"],
         "back": ["正文带标记", "备注"],
         "cloze_fields": [],
+        "mark_fields": ["正文带标记"],
     },
     {
         # 问答 / 问答(和问答互换) — 一律单向（问题→答案）
@@ -88,6 +89,11 @@ def is_dirty_tag(text: str) -> bool:
             if text.count(sub) >= 3:
                 return True
     return False
+
+
+def mark_brackets(text: str) -> str:
+    """把 [关键句] 替换成高亮 span（古诗文背诵标记）。"""
+    return re.sub(r"\[([^\]]+)\]", r'<span class="poem-mark">\1</span>', text)
 
 
 def make_cloze_versions(text: str, target_cid: str):
@@ -198,6 +204,11 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
                         return f'<img src="media/{topic_id}/{real_name}"'
                     return m.group(0)
                 fields[fname] = re.sub(r'<img src="([^"]+)"', replace_img, val)
+
+        # 方括号标记（古诗文背诵：把 [关键句] 替换为高亮）
+        for mf in rule.get("mark_fields", []):
+            if mf in fields and "[" in fields[mf]:
+                fields[mf] = mark_brackets(fields[mf])
 
         tags = [
             t.strip()
