@@ -29,6 +29,7 @@ const TOPICS: TopicEntry[] = [
   { id: "organic-chemistry", name: "化学::有机化学", file: "./data/organic-chemistry.json" },
   { id: "chemical-elements", name: "化学::化学元素", file: "./data/chemical-elements.json" },
   { id: "chemical-equations", name: "化学::化学方程式", file: "./data/chemical-equations.json" },
+  { id: "classical-chinese-patterns", name: "语文::文言句式", file: "./data/classical-chinese-patterns.json" },
 ];
 
 // ========== 全局状态 ==========
