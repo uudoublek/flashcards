@@ -43,6 +43,7 @@ const TOPICS: TopicEntry[] = [
   { id: "english-usage", name: "英语::语用", file: "./data/english-usage.json" },
   { id: "english-reading", name: "英语::阅读", file: "./data/english-reading.json" },
   { id: "chinese-recitation", name: "语文::背默", file: "./data/chinese-recitation.json" },
+  { id: "industrial-chemistry", name: "化学::工业流程", file: "./data/industrial-chemistry.json" },
 ];
 
 // ========== 全局状态 ==========

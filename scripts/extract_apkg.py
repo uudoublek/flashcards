@@ -191,6 +191,7 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
             fields[fname] = values[i] if i < len(values) else ""
 
         # rewrite image refs（先做，cloze 拆分会继承重写后的内容）
+        # 兼容单引号 / 双引号的 img src
         for fname, val in fields.items():
             if "<img" in val:
                 def replace_img(m):
@@ -203,7 +204,7 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
                             shutil.copy2(src_path, dst_path)
                         return f'<img src="media/{topic_id}/{real_name}"'
                     return m.group(0)
-                fields[fname] = re.sub(r'<img src="([^"]+)"', replace_img, val)
+                fields[fname] = re.sub(r"""<img src=["']([^"']+)["']""", replace_img, val)
 
         # 方括号标记（古诗文背诵：把 [关键句] 替换为高亮）
         for mf in rule.get("mark_fields", []):
