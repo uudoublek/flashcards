@@ -41,6 +41,7 @@ const TOPICS: TopicEntry[] = [
   { id: "trigonometry", name: "数学::三角函数及解三角形", file: "./data/trigonometry.json" },
   { id: "english-writing", name: "英语::写作", file: "./data/english-writing.json" },
   { id: "english-usage", name: "英语::语用", file: "./data/english-usage.json" },
+  { id: "english-reading", name: "英语::阅读", file: "./data/english-reading.json" },
 ];
 
 // ========== 全局状态 ==========
