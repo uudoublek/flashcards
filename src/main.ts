@@ -35,6 +35,7 @@ const TOPICS: TopicEntry[] = [
   { id: "chemistry-life", name: "化学::化学与生活", file: "./data/chemistry-life.json" },
   { id: "modern-biotechnology", name: "生物::现代生物科技", file: "./data/modern-biotechnology.json" },
   { id: "biotechnology-practice", name: "生物::生物技术实践", file: "./data/biotechnology-practice.json" },
+  { id: "genetics-evolution", name: "生物::遗传与进化", file: "./data/genetics-evolution.json" },
 ];
 
 // ========== 全局状态 ==========
