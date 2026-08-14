@@ -27,6 +27,7 @@ const TOPICS: TopicEntry[] = [
   { id: "multiplication-table", name: "大九九乘法表", file: "./data/multiplication-table.json" },
   { id: "wubi86root", name: "五笔单字根（全）", file: "./data/wubi86root.json" },
   { id: "organic-chemistry", name: "化学::有机化学", file: "./data/organic-chemistry.json" },
+  { id: "chemical-elements", name: "化学::化学元素", file: "./data/chemical-elements.json" },
 ];
 
 // ========== 全局状态 ==========

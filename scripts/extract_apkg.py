@@ -195,6 +195,11 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
                 fields[fname] = re.sub(r'<img src="([^"]+)"', replace_img, val)
 
         tags = [t.strip() for t in tags_str.split() if t.strip()]
+        # 《》字段是章节标记，合并进标签
+        if "《》" in fields and fields["《》"].strip():
+            chapter = fields["《》"].strip()
+            if chapter not in tags:
+                tags.append(chapter)
 
         cards.append({
             "id": note_id,
