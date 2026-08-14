@@ -332,6 +332,20 @@ body {
   object-fit: contain;
 }
 
+/* cloze 填空 */
+.cloze-blank {
+  display: inline-block;
+  min-width: 3em;
+  border-bottom: 2px solid var(--accent);
+  color: var(--text-dim);
+  margin: 0 2px;
+}
+
+.cloze-answer {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .card-content svg {
   max-width: 100%;
   max-height: 200px;

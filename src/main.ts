@@ -30,6 +30,7 @@ const TOPICS: TopicEntry[] = [
   { id: "chemical-elements", name: "化学::化学元素", file: "./data/chemical-elements.json" },
   { id: "chemical-equations", name: "化学::化学方程式", file: "./data/chemical-equations.json" },
   { id: "classical-chinese-patterns", name: "语文::文言句式", file: "./data/classical-chinese-patterns.json" },
+  { id: "reaction-principles", name: "化学::反应原理", file: "./data/reaction-principles.json" },
 ];
 
 // ========== 全局状态 ==========
@@ -195,19 +196,20 @@ function startLearnGroup(): void {
 function showLearnCard(): void {
   if (!learnState || !currentTopic) return;
 
-  const { currentCards, currentCardIdx, currentCardTypeIdx, cardTypes, currentGroupIdx } = learnState;
+  const { currentCards, currentCardIdx, currentCardTypeIdx, currentGroupIdx } = learnState;
   if (currentCardIdx >= currentCards.length) {
     advanceGroup();
     return;
   }
 
   const card = currentCards[currentCardIdx];
+  const cardTypes = getCardTypes(card, currentTopic);
   const cardType = cardTypes[currentCardTypeIdx];
 
   renderLearn(
     {
       groups: learnState.groups,
-      cardTypes: learnState.cardTypes,
+      cardTypes,
       currentGroupIdx,
       currentCardIdx,
       currentCardTypeIdx,
@@ -223,10 +225,11 @@ function showLearnCard(): void {
 }
 
 document.addEventListener("learn-rate", (e) => {
-  if (!learnState) return;
+  if (!learnState || !currentTopic) return;
   const detail = (e as CustomEvent).detail as { rating: Parameters<typeof rateCard>[3] };
-  const { topicId, currentCards, currentCardIdx, currentCardTypeIdx, cardTypes } = learnState;
+  const { topicId, currentCards, currentCardIdx, currentCardTypeIdx } = learnState;
   const card = currentCards[currentCardIdx];
+  const cardTypes = getCardTypes(card, currentTopic);
   const ct = cardTypes[currentCardTypeIdx];
 
   // 评分 & 存 SRS
@@ -366,7 +369,7 @@ document.addEventListener("start-browse", (e) => {
     : currentTopic.cards.filter(c => c.tags.some(t => (detail.tags as string[]).includes(t)));
   const allItems: { card: Card; cardType: CardTypeDef }[] = [];
   for (const card of filtered) {
-    for (const ct of currentTopic.meta.cardTypes) {
+    for (const ct of getCardTypes(card, currentTopic)) {
       allItems.push({ card, cardType: ct });
     }
   }
@@ -413,6 +416,17 @@ document.addEventListener("browse-next", () => {
 });
 
 // ========== 工具 ==========
+
+/** 取一张卡适用的题型。有 cardTypeIds 用它；否则回退到主题全部题型（兼容旧数据）。 */
+function getCardTypes(card: Card, topic: TopicData): CardTypeDef[] {
+  if (card.cardTypeIds && card.cardTypeIds.length > 0) {
+    const ctMap = new Map(topic.meta.cardTypes.map(ct => [ct.id, ct]));
+    return card.cardTypeIds
+      .map(id => ctMap.get(id))
+      .filter((ct): ct is CardTypeDef => ct !== undefined);
+  }
+  return topic.meta.cardTypes;
+}
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];

@@ -20,6 +20,8 @@ export interface Card {
   id: number;
   tags: string[];
   fields: Record<string, string>; // 字段名 → HTML 内容
+  /** 这张卡适用哪些 cardType（缺省 = 主题全部题型，兼容旧数据） */
+  cardTypeIds?: string[];
 }
 
 /** 完整主题数据 */
