@@ -34,6 +34,7 @@ const TOPICS: TopicEntry[] = [
   { id: "structure-properties", name: "化学::物质结构与性质", file: "./data/structure-properties.json" },
   { id: "chemistry-life", name: "化学::化学与生活", file: "./data/chemistry-life.json" },
   { id: "modern-biotechnology", name: "生物::现代生物科技", file: "./data/modern-biotechnology.json" },
+  { id: "biotechnology-practice", name: "生物::生物技术实践", file: "./data/biotechnology-practice.json" },
 ];
 
 // ========== 全局状态 ==========
