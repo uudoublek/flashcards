@@ -78,6 +78,18 @@ def match_rule(model_name: str):
     return None
 
 
+def is_dirty_tag(text: str) -> bool:
+    """检测脏标签：某个 3~5 字符子串重复出现 >= 3 次（原始数据损坏特征）。"""
+    if len(text) < 12:
+        return False
+    for sublen in (3, 4, 5):
+        subs = set(text[i:i + sublen] for i in range(len(text) - sublen + 1))
+        for sub in subs:
+            if text.count(sub) >= 3:
+                return True
+    return False
+
+
 def cloze_split(text: str):
     """Split {{cN::answer}} into (blank_version, answer_version)."""
     blank = re.sub(
@@ -194,11 +206,15 @@ def extract_apkg(apkg_path: str, out_dir: str, media_dir: str, topic_id: str, to
                     return m.group(0)
                 fields[fname] = re.sub(r'<img src="([^"]+)"', replace_img, val)
 
-        tags = [t.strip() for t in tags_str.split() if t.strip()]
-        # 《》字段是章节标记，合并进标签
+        tags = [
+            t.strip()
+            for t in tags_str.split()
+            if t.strip() and not is_dirty_tag(t.strip())
+        ]
+        # 《》字段是章节标记，合并进标签（过滤脏值）
         if "《》" in fields and fields["《》"].strip():
             chapter = fields["《》"].strip()
-            if chapter not in tags:
+            if chapter not in tags and not is_dirty_tag(chapter):
                 tags.append(chapter)
 
         cards.append({

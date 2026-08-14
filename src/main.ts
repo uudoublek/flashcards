@@ -36,6 +36,7 @@ const TOPICS: TopicEntry[] = [
   { id: "modern-biotechnology", name: "生物::现代生物科技", file: "./data/modern-biotechnology.json" },
   { id: "biotechnology-practice", name: "生物::生物技术实践", file: "./data/biotechnology-practice.json" },
   { id: "genetics-evolution", name: "生物::遗传与进化", file: "./data/genetics-evolution.json" },
+  { id: "homeostasis-environment", name: "生物::稳态与环境", file: "./data/homeostasis-environment.json" },
 ];
 
 // ========== 全局状态 ==========
