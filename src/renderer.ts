@@ -28,6 +28,18 @@ export function typesetMath(): void {
   }
 }
 
+// ========== 加载中 ==========
+
+export function renderLoading(message = "加载中..."): void {
+  clearApp();
+  const container = el("div", "loading-screen");
+  container.innerHTML = `
+    <div class="loading-spinner"></div>
+    <p class="loading-text">${message}</p>
+  `;
+  $app.appendChild(container);
+}
+
 // ========== 菜单页 ==========
 
 export function renderMenu(topics: { id: string; name: string; file: string }[]): void {

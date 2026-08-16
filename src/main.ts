@@ -5,6 +5,7 @@ import { getAllSrsRecords, getTheme, applyTheme } from "./storage";
 import { today, rateCard } from "./srs";
 import {
   renderMenu,
+  renderLoading,
   renderTopicHome,
   renderLearn,
   renderLearnDone,
@@ -89,8 +90,14 @@ function showMenu(): void {
 
 async function selectTopic(entry: TopicEntry): Promise<void> {
   updateHash(entry.id);
-  currentTopic = await loadTopic(entry.file);
-  showTopicHome();
+  renderLoading(`正在加载「${entry.name}」...`);
+  try {
+    currentTopic = await loadTopic(entry.file);
+    showTopicHome();
+  } catch (err) {
+    renderLoading(`加载失败，请返回重试`);
+    console.error(err);
+  }
 }
 
 function showTopicHome(): void {
