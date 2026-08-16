@@ -69,6 +69,14 @@ MODEL_RULES = [
         "back": ["答案", "评论", "举例", "拓展"],
         "cloze_fields": [],
     },
+    {
+        # Anki 标准 Basic 模型（成语、通用卡等）
+        "match": "Basic",
+        "card_type_id": "qa",
+        "front": ["Front"],
+        "back": ["Back"],
+        "cloze_fields": [],
+    },
 ]
 
 
